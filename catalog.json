@@ -1,0 +1,110 @@
+{
+  "format_version": 1,
+  "bibles": [
+    {
+      "id": "bes",
+      "name": "Español Sencillo 2026",
+      "abbreviation": "BES",
+      "language": "spa",
+      "version": "1.0.0",
+      "license": "Dominio público",
+      "description": "AudioBiblia.org (Irma Flores). Fuente: eBible.org (spabes).",
+      "file": "bes-1.0.0.zip",
+      "url": "https://github.com/ikalmediasv-ctrl/alfayomega-biblias/releases/download/bes-1.0.0/bes-1.0.0.zip",
+      "size_bytes": 1496319,
+      "sha256": "b05bc1ba462c539b47874b10f08518e9e7265e79db417062615671806714eefc"
+    },
+    {
+      "id": "bll",
+      "name": "Biblia libre Latinoamericano",
+      "abbreviation": "BLL",
+      "language": "spa",
+      "version": "1.0.0",
+      "license": "Dominio público",
+      "description": "Borrador de traducción en revisión. Fuente: eBible.org (spabll).",
+      "file": "bll-1.0.0.zip",
+      "url": "https://github.com/ikalmediasv-ctrl/alfayomega-biblias/releases/download/bll-1.0.0/bll-1.0.0.zip",
+      "size_bytes": 1631310,
+      "sha256": "fcfbb533824fa5edd3b1bf44a91dedba3f2bdcddfe2d8596e4a219232e5e1411"
+    },
+    {
+      "id": "blm",
+      "name": "Biblia libre para el mundo",
+      "abbreviation": "BLM",
+      "language": "spa",
+      "version": "1.0.0",
+      "license": "Dominio público",
+      "description": "Borrador de traducción en revisión. Fuente: eBible.org (spablm).",
+      "file": "blm-1.0.0.zip",
+      "url": "https://github.com/ikalmediasv-ctrl/alfayomega-biblias/releases/download/blm-1.0.0/blm-1.0.0.zip",
+      "size_bytes": 1592334,
+      "sha256": "4a150b3691c94c6624e4dad4b994f790aba4c617db553cfcaadad5759083d7b4"
+    },
+    {
+      "id": "onbv",
+      "name": "Nueva Biblia Viva (Open)",
+      "abbreviation": "NBV",
+      "language": "spa",
+      "version": "1.0.0",
+      "license": "CC BY-SA 4.0",
+      "description": "Biblica Open Nueva Biblia Viva, © 2006, 2008 Biblica, Inc. Usada con permiso. Fuente: eBible.org (spaonbv).",
+      "file": "onbv-1.0.0.zip",
+      "url": "https://github.com/ikalmediasv-ctrl/alfayomega-biblias/releases/download/onbv-1.0.0/onbv-1.0.0.zip",
+      "size_bytes": 1682429,
+      "sha256": "82a5249c2b5bcdbc58ebcf9f4bd5c4bee2a34f8a8e18585efd456bbd2b92d119"
+    },
+    {
+      "id": "pdt",
+      "name": "Palabra de Dios para ti",
+      "abbreviation": "PDT",
+      "language": "spa",
+      "version": "1.0.0",
+      "license": "CC BY 4.0",
+      "description": "Asociación Bíblica Latinoamericana (2020). Fuente: eBible.org (spapddpt).",
+      "file": "pdt-1.0.0.zip",
+      "url": "https://github.com/ikalmediasv-ctrl/alfayomega-biblias/releases/download/pdt-1.0.0/pdt-1.0.0.zip",
+      "size_bytes": 1541851,
+      "sha256": "1ca6f08284111e780251263bfdb4fc00a6ebac4c16a3f6b72ba9a2f3e1f90322"
+    },
+    {
+      "id": "rvg",
+      "name": "Reina Valera Gómez",
+      "abbreviation": "RVG",
+      "language": "spa",
+      "version": "1.0.0",
+      "license": "Derechos reservados; distribución gratuita autorizada sin cambiar el texto",
+      "description": "© Dr. Humberto Gómez Caballero. Solo distribución gratuita. Fuente: eBible.org (sparvg).",
+      "file": "rvg-1.0.0.zip",
+      "url": "https://github.com/ikalmediasv-ctrl/alfayomega-biblias/releases/download/rvg-1.0.0/rvg-1.0.0.zip",
+      "size_bytes": 1560422,
+      "sha256": "0722f16a25d83a35ba602f9db4143625cd2311c5d8ab4415969656ef5ff00a9d"
+    },
+    {
+      "id": "v2p",
+      "name": "Valera 1602 Purificada",
+      "abbreviation": "V1602P",
+      "language": "spa",
+      "version": "1.0.0",
+      "license": "Derechos reservados; distribución gratuita autorizada sin alterar el texto",
+      "description": "© Iglesia Bautista Bíblica de la Gracia. Solo distribución gratuita. Fuente: eBible.org (spav1602p).",
+      "file": "v2p-1.0.0.zip",
+      "url": "https://github.com/ikalmediasv-ctrl/alfayomega-biblias/releases/download/v2p-1.0.0/v2p-1.0.0.zip",
+      "size_bytes": 1601769,
+      "sha256": "47a153b877848c91cddda811695b5766966f8a0d219590526998edb4897d019e"
+    },
+    {
+      "id": "vbl",
+      "name": "Versión Biblia Libre",
+      "abbreviation": "VBL",
+      "language": "spa",
+      "version": "1.0.0",
+      "license": "CC BY-SA 4.0",
+      "description": "Jonathan Gallagher y Shelly Barrios de Avila. Fuente: eBible.org (spavbl).",
+      "file": "vbl-1.0.0.zip",
+      "url": "https://github.com/ikalmediasv-ctrl/alfayomega-biblias/releases/download/vbl-1.0.0/vbl-1.0.0.zip",
+      "size_bytes": 1686866,
+      "sha256": "98ad6a220bc8fbac88e6873ae03c5fec64abd94ee06dddd5fdad7dcfa84cd1f6"
+    }
+  ],
+  "updated": "2026-11-09"
+}
