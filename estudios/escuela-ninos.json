@@ -1,0 +1,459 @@
+{
+ "format_version": 1,
+ "course": "escuela-ninos",
+ "version": "1.0.0",
+ "lessons": {
+  "activo": {
+   "sections": [
+    {
+     "heading": "Aprender haciendo",
+     "text": "Los niños aprenden mejor cuando participan. Escuchar durante mucho rato los cansa; moverse, cantar, jugar, crear y tocar los mantiene atentos y fija lo aprendido. El aprendizaje activo no es entretenimiento vacío: es una estrategia de enseñanza que hace que la verdad bíblica se grabe en la mente y en el corazón. Deuteronomio 6:7 describe una enseñanza integrada a la vida: hablarás de ellas estando en tu casa, y andando por el camino. Una enseñanza viva, no solo de sillas y pizarras."
+    },
+    {
+     "heading": "Juegos con propósito",
+     "text": "Los juegos pueden reforzar el contenido de la lección: carreras para encontrar versículos, concursos de preguntas, adivinanzas, memoria con tarjetas, juegos de roles, dinámicas en equipos, búsqueda del tesoro con pistas bíblicas. Lo importante es que el juego tenga relación con el tema y que sirva a la enseñanza. Conviene que sean seguros, adaptados a la edad y sin humillar a quienes pierden.\n\nCuidado con la competencia excesiva. Los premios pueden motivar, pero también generar envidia o desánimo. Una alternativa es hacer juegos cooperativos, en los que todos ganan juntos, o dar reconocimientos al esfuerzo y al comportamiento, no solo a quien gana. Y asegurarse de que los niños sepan que el amor de Dios no depende de su desempeño."
+    },
+    {
+     "heading": "Canciones y movimiento",
+     "text": "La música es una de las mejores herramientas. Los niños recuerdan fácilmente lo que cantan. Las canciones con movimientos ayudan a memorizar versículos, historias y verdades. Colosenses 3:16 habla de cantar con gracia en el corazón al Señor. Elige canciones con letra bíblica y clara, con melodías sencillas y adecuadas al rango de la edad. Pueden usarse pistas, instrumentos o solo la voz con palmas. Evita letras confusas o doctrinalmente inexactas.\n\nEnseña a los niños que la música es una forma de adorar a Dios, y no solo de divertirse. Dedica un momento a la adoración sencilla, con respeto y alegría. Permite que los niños aprendan a agradecer, pedir perdón y alabar."
+    },
+    {
+     "heading": "Manualidades",
+     "text": "Las actividades manuales permiten a los niños expresar lo aprendido y llevar algo a casa que les recuerde la lección. Dibujar, colorear, recortar, pegar, modelar, construir, pintar, hacer tarjetas, marcadores de Biblia, collages. Se eligen según el tema, la edad y los recursos. Para los pequeños, actividades simples, con poca dificultad motriz. Para los mayores, proyectos más elaborados.\n\nConviene que la manualidad refuerce el mensaje central y no sea solo para ocupar el tiempo. Mientras trabajan, el maestro conversa con ellos, repite el versículo y les hace preguntas. Prepara los materiales con anticipación, y cuida la seguridad: tijeras adecuadas, pegamento no tóxico, supervisión."
+    },
+    {
+     "heading": "Dramatización",
+     "text": "Los niños aman actuar. Dramatizar una historia con disfraces sencillos, títeres o mímica los ayuda a ponerse en el lugar de los personajes y a entender mejor. No requiere un gran montaje. Se pueden repartir papeles, y el maestro narra mientras los niños actúan. También se pueden usar títeres para tratar temas delicados con humor y ternura. Cuida de que nadie sea obligado a actuar, y de que la dramatización respete la seriedad del texto."
+    },
+    {
+     "heading": "Preguntas y conversación",
+     "text": "Dentro del aprendizaje activo, hablar es fundamental. Hacer preguntas abiertas, escuchar sus respuestas con interés, animar a que expliquen con sus palabras lo que entendieron y a hacer preguntas. Un niño que puede decir con sus palabras lo que aprendió, lo ha comprendido. Dar tiempo para pensar, y no apresurarse a dar la respuesta."
+    },
+    {
+     "heading": "Equilibrio",
+     "text": "Una clase muy activa puede volverse caótica y perder el foco. Una clase solo hablada puede aburrir. Se busca un equilibrio: alternar actividades de movimiento y de calma, de ruido y silencio, de grupo y de individuo. Un horario típico: bienvenida y canción, historia bíblica, actividad relacionada, versículo, oración y despedida. Con una transición clara entre una y otra para evitar confusión.\n\nTambién se evita que la actividad opaque el mensaje. Al final de la clase, pregúntate: ¿qué verdad bíblica llevaron los niños? Si lo que recuerdan es solo el juego, hay que ajustar."
+    },
+    {
+     "heading": "Recursos sencillos",
+     "text": "No se necesita mucho dinero. Un buen maestro con creatividad puede usar materiales reciclados, objetos cotidianos, dibujos hechos a mano, música sin acompañamiento. Lo esencial es la preparación y el amor. Se puede compartir recursos entre iglesias y pedir ayuda a la comunidad."
+    },
+    {
+     "heading": "Para quien enseña",
+     "text": "Planifica actividades variadas. Prepara los materiales. Vincula cada actividad al mensaje. Cuida la seguridad. Y disfruta con los niños."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Cuánto participan mis niños? ¿Qué actividad refuerza mejor la lección de este domingo? ¿Qué recursos tengo a mano?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, ayúdanos a enseñar con alegría y creatividad. Que cada juego, canción y actividad sea una puerta para que los niños te conozcan. Amén."
+    }
+   ]
+  },
+  "desarrollo": {
+   "sections": [
+    {
+     "heading": "Cada edad, una manera de aprender",
+     "text": "Los niños no son adultos pequeños. Piensan, sienten y aprenden de manera distinta según su edad. Un maestro que entiende cómo aprenden puede enseñar mejor, tener más paciencia y evitar frustraciones. Lucas 2:52 dice que Jesús crecía en sabiduría y en estatura, y en gracia para con Dios y los hombres: un desarrollo integral, intelectual, físico, espiritual y social. Enseñamos a niños completos.\n\nLas edades que siguen son orientativas, pues cada niño tiene su ritmo."
+    },
+    {
+     "heading": "De cero a dos años",
+     "text": "Los bebés y los niños pequeños aprenden a través de los sentidos y de la relación. Necesitan seguridad, cuidado, rutina, afecto y un ambiente tranquilo. En la guardería de la iglesia, lo más importante es que se sientan amados y seguros. Se les puede cantar, hablar con ternura, mostrar objetos y orar por ellos. No comprenden conceptos, pero absorben el ambiente de amor. Quienes los cuidan transmiten una idea: aquí eres bienvenido."
+    },
+    {
+     "heading": "De tres a cinco años",
+     "text": "Los preescolares aprenden jugando. Su atención es corta, de unos cinco a diez minutos por actividad. Piensan de forma concreta y literal: no entienden bien los símbolos ni las abstracciones. Si se dice que Jesús vive en tu corazón, algunos pueden imaginarlo literalmente. Necesitan frases cortas y sencillas, repetición, canciones con movimientos, imágenes, objetos, historias breves con personajes claros y acciones. Se pueden enseñar verdades básicas: Dios te ama, Dios te hizo, Jesús es nuestro amigo y Salvador, la Biblia es la Palabra de Dios.\n\nLes gusta ayudar, imitar, tocar y moverse. Una clase para ellos tiene actividades variadas y cortas. Conviene que el maestro se ponga a su altura, los mire a los ojos y los trate con paciencia."
+    },
+    {
+     "heading": "De seis a ocho años",
+     "text": "Los niños de primeros grados de primaria empiezan a leer y escribir, y disfrutan las historias. Aún piensan de forma concreta, pero pueden comprender conceptos sencillos como el pecado, el perdón y la salvación, con explicaciones claras. Les encantan los juegos, las manualidades, las canciones, los premios sencillos y las historias bíblicas con acción. Tienden a ser literales, y hay que cuidar el lenguaje figurado. Les importa lo justo y lo injusto. Pueden memorizar versículos cortos con facilidad.\n\nSu atención dura de diez a quince minutos. Necesitan participar, preguntar y moverse. Es buena edad para cultivar hábitos como la oración y la lectura bíblica."
+    },
+    {
+     "heading": "De nueve a once años",
+     "text": "Los preadolescentes razonan con más lógica, comprenden mejor las causas y consecuencias, tienen una buena capacidad de memorización y les gusta aprender datos, hacer preguntas y descubrir. Disfrutan los retos, los equipos, las competencias amistosas y los proyectos. Comienzan a pensar en el mundo más amplio y a cuestionar. Les importa mucho la aceptación del grupo, y a veces empiezan a ocultar sus dudas.\n\nEs una etapa ideal para enseñar la Biblia de forma más ordenada, el carácter cristiano, el significado de la salvación, la oración y el servicio. Hay que escuchar sus preguntas con seriedad. Primera de Timoteo 4:12 ya puede aplicarse a ellos: ninguno tenga en poco tu juventud."
+    },
+    {
+     "heading": "Etapas del desarrollo espiritual",
+     "text": "El desarrollo espiritual también tiene etapas. Los niños pequeños confían de forma natural en Dios, aprenden sobre él a través de quienes los rodean. Con el tiempo, empiezan a preguntar, a comprender el pecado y la necesidad de un Salvador, y a tomar decisiones personales. No se debe presionar ni apresurar, pero tampoco subestimar: los niños pueden tener una fe genuina. Jesús dijo, en Mateo 18:3, que si no os volvéis y os hacéis como niños, no entraréis en el reino de los cielos."
+    },
+    {
+     "heading": "Aprender con todo el cuerpo",
+     "text": "Los niños aprenden con la vista, el oído, el tacto, el movimiento. Cuantos más sentidos participan, mejor se recuerda. Combinar historias con imágenes, canciones, gestos, juegos, manualidades y dramatizaciones multiplica el aprendizaje. Y el ejemplo: los niños imitan lo que ven. Un adulto amable, constante y alegre enseña más que mil palabras."
+    },
+    {
+     "heading": "Necesidades emocionales y sociales",
+     "text": "Los niños necesitan sentirse seguros, amados, aceptados y capaces. Aprenden a relacionarse, a compartir, a esperar su turno, a manejar la frustración. Algunos llegan con heridas: pobreza, divorcio, abandono, violencia. La clase puede ser un refugio. Sensibilidad y paciencia son esenciales. Evita compararlos, etiquetarlos, ridiculizarlos o forzarlos a participar."
+    },
+    {
+     "heading": "Niños con necesidades especiales",
+     "text": "Algunos niños tienen dificultades de aprendizaje, hiperactividad, autismo, discapacidades físicas o intelectuales. Con apoyo y adaptaciones, pueden participar plenamente: instrucciones claras, rutinas, espacio para moverse, ayudantes, actividades alternativas. Jesús recibió a todos los niños. Conversar con los padres para conocer cómo ayudar al niño es muy valioso."
+    },
+    {
+     "heading": "Para quien enseña",
+     "text": "Ajusta tu lenguaje y actividades a la edad. Usa varios sentidos. Sé paciente. Cuida el lenguaje figurado. Y conoce a cada niño por su nombre."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué edades enseño y cómo aprenden? ¿Qué cambiaría en mi clase para que sea más activa? ¿Qué niño necesita hoy atención especial?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, tú amas a los niños y los recibes. Ayúdame a conocer a cada uno, a enseñar de modo que comprendan y a mostrarles tu amor. Amén."
+    }
+   ]
+  },
+  "disciplina-amor": {
+   "sections": [
+    {
+     "heading": "Disciplinar es discipular",
+     "text": "La palabra disciplina viene de la misma raíz que discípulo. Disciplinar a un niño es enseñarle a seguir un camino, no simplemente castigarlo. En la escuela bíblica, el maestro que corrige lo hace para formar, proteger y ayudar a crecer. Hebreos 12:6 dice que el Señor al que ama, disciplina. Dios disciplina con amor y para nuestro bien, y es un modelo para quienes cuidan niños."
+    },
+    {
+     "heading": "Entender antes de corregir",
+     "text": "Detrás de una conducta hay una causa. Un niño que interrumpe puede necesitar atención; uno que golpea puede estar frustrado o imitando lo que ve en casa; uno que se retrae puede estar asustado; uno inquieto puede estar cansado, hambriento o aburrido, o tener una necesidad especial. Antes de reaccionar, pregúntate: ¿qué está tratando de decir con su comportamiento? A veces una conversación en privado, una pregunta amable o un abrazo dicen más que una reprimenda.\n\nTambién hay que considerar la edad: un niño de tres años no puede quedarse quieto veinte minutos; uno de diez puede entender las reglas y sus razones. Las expectativas deben ser realistas."
+    },
+    {
+     "heading": "Prevenir",
+     "text": "La mejor disciplina es la que previene. Una clase bien preparada, activa y con ritmo, evita muchos problemas. Reglas claras y simples, explicadas y repetidas con cariño. Rutinas predecibles que den seguridad. Atención individual para que cada niño se sienta visto. Suficientes ayudantes. Un espacio ordenado. Transiciones claras. Y elogios por la buena conducta: los niños repiten lo que recibe atención positiva."
+    },
+    {
+     "heading": "Reglas simples",
+     "text": "Tres o cuatro reglas son suficientes, formuladas en positivo: caminamos dentro del salón, hablamos con voz suave, escuchamos cuando otro habla, cuidamos a nuestros compañeros y las cosas. Se pueden construir junto con los niños, para que las sientan suyas. Colocarlas en un cartel con dibujos ayuda a los pequeños. Y cumplirlas con coherencia: lo que se promete como consecuencia, se cumple, sin amenazas vacías."
+    },
+    {
+     "heading": "Corregir con respeto",
+     "text": "Cuando hay que corregir, algunos principios guían. Hacerlo con calma, nunca con ira. Un adulto que grita o pierde el control enseña lo contrario de lo que quiere. Corregir en privado en lo posible, sin humillar ante los demás. Hablar de la conducta, no de la persona: no eres malo, pero eso que hiciste no estuvo bien. Explicar brevemente por qué es un problema. Ofrecer una alternativa: la próxima vez puedes hacer esto. Aplicar una consecuencia lógica y proporcionada: por ejemplo, si rompe algo, ayuda a repararlo; si no sabe esperar, se espera un momento aparte. Y terminar con reconciliación: volver a abrazar, afirmar que lo amas y que confías en que puede mejorar.\n\nColosenses 3:21 advierte: padres, no exasperéis a vuestros hijos, para que no se desalienten. Efesios 6:4 pide no provocar a ira. El objetivo no es quebrar el espíritu del niño, sino orientarlo."
+    },
+    {
+     "heading": "Lo que nunca debe hacerse",
+     "text": "La escuela bíblica debe ser un lugar seguro. Nunca se debe golpear, sacudir, jalar, pellizcar, encerrar, amenazar, gritar con violencia, ridiculizar, avergonzar públicamente, comparar con otros, privar de comida, ni usar palabras hirientes. Tampoco asustar a los niños con castigos de Dios o con el infierno para controlarlos. Estas prácticas dañan y contradicen el evangelio. Además, muchas leyes y protocolos de protección las prohíben. Si un maestro pierde la paciencia, debe pedir ayuda a otro adulto, y reconocer su error ante el niño, si es necesario."
+    },
+    {
+     "heading": "Cuando el problema persiste",
+     "text": "Si un niño tiene una conducta difícil que se repite, conviene conversar con los padres, con empatía y sin culpar. Compartir lo que se observa, escuchar su experiencia, y buscar juntos soluciones. A veces, detrás hay una necesidad especial, una situación familiar o un trauma, que requiere ayuda profesional. El maestro no es psicólogo, pero puede observar, acompañar y derivar. Y si se sospecha maltrato o abuso, hay que seguir el protocolo de protección de la iglesia y dar aviso a los responsables y, según la ley, a las autoridades."
+    },
+    {
+     "heading": "Gracia",
+     "text": "Los niños fallan, y los maestros también. La gracia de Dios es el fundamento. Cuando un niño ve que se le perdona y se le da otra oportunidad, entiende el evangelio de una manera concreta. Mateo 18:21 al 22 enseña a perdonar una y otra vez. Cuida de hablar de Dios como un Padre amoroso, no como un policía."
+    },
+    {
+     "heading": "Para quien enseña",
+     "text": "Previene con buena preparación. Establece reglas claras. Corrige con calma y respeto. Nunca uses violencia ni humillación. Y reconcilia siempre."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué hay detrás de la conducta de mis niños difíciles? ¿Corrijo con calma? ¿Cómo refleja mi disciplina el amor de Dios?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Padre, tú nos disciplinas con amor. Dame paciencia, sabiduría y ternura para guiar a los niños sin lastimarlos, y que vean en mí tu gracia. Amén."
+    }
+   ]
+  },
+  "historia": {
+   "sections": [
+    {
+     "heading": "El poder de una historia",
+     "text": "Las historias captan la atención de los niños, los hacen sentir y los hacen recordar. La Biblia es, en gran parte, una gran historia, y está llena de relatos extraordinarios. Jesús enseñaba con historias, y los niños de todas las épocas las aman. Saber contar una historia bíblica con viveza y fidelidad es una de las habilidades más valiosas para un maestro de niños."
+    },
+    {
+     "heading": "Fidelidad al texto",
+     "text": "Antes de contar, hay que conocer la historia a fondo. Lee el pasaje en la Biblia, no solo en un libro de cuentos para niños. Identifica los personajes, el lugar, el problema, el desarrollo, el desenlace y el mensaje. Cuida de no añadir detalles inventados que contradigan el texto o que se presenten como si fueran bíblicos. Si se imagina una escena, como los pensamientos de un personaje, conviene indicarlo: imagino que él se sentía asustado. La historia debe llevar al mensaje central del pasaje, que es siempre sobre Dios, su carácter y su obra, no solo sobre una lección moral.\n\nMuchas historias bíblicas se cuentan como si el mensaje fuera: sé valiente como David, o sé bueno como José. Conviene preguntarse: ¿qué nos dice este pasaje sobre Dios? ¿Cómo nos señala a Jesús? David y Goliat muestran que Dios salva a su pueblo con su poder; José, que Dios cuida a los suyos y convierte el mal en bien. De allí se desprenden aplicaciones para la vida."
+    },
+    {
+     "heading": "Preparar la narración",
+     "text": "Prepara el esquema: inicio, desarrollo, clímax y final. Elige las partes esenciales, sin saturar de detalles. Para niños pequeños, la historia será breve y sencilla, con pocos personajes. Para mayores, puede incluir más detalles y contexto.\n\nCuenta la historia con tus propias palabras, no la leas palabra por palabra. Ensáyala en voz alta, incluso frente a un espejo o a un amigo. Conoce las expresiones, los gestos, las pausas y el ritmo. Una historia bien ensayada fluye con naturalidad."
+    },
+    {
+     "heading": "Técnicas para contar bien",
+     "text": "Usa la voz: cambia el tono, el volumen y el ritmo según la escena. Un susurro crea suspenso; una voz fuerte, emoción. Haz pausas para generar expectativa. Varía las voces de los personajes sin exagerar.\n\nUsa el cuerpo: gestos, expresiones faciales, movimiento. Mira a los niños, cambia de posición, siéntate a su nivel. Los niños pequeños responden con gusto a la expresión corporal.\n\nUsa recursos visuales: láminas, títeres, franelógrafo, objetos, dibujos en vivo, disfraces sencillos, sombras, imágenes proyectadas, instrumentos. Un objeto concreto, como una piedra para la honda de David, hace la historia más real. Mantén los recursos al servicio de la historia, no como distracción.\n\nInvita a participar: preguntas durante el relato, gestos repetidos, sonidos, palabras clave que los niños repiten, ayudantes que actúan una parte. Esto mantiene la atención y fija la historia."
+    },
+    {
+     "heading": "Atrapar la atención desde el inicio",
+     "text": "Empieza con algo que despierte curiosidad: una pregunta, un objeto misterioso, una frase intrigante. ¿Alguna vez han tenido mucho miedo? Hoy les voy a contar de un niño que enfrentó a un gigante. Evita comenzar con una larga explicación. Entra en la historia rápido."
+    },
+    {
+     "heading": "Preguntas después de la historia",
+     "text": "Después de contar, conversa. Las preguntas ayudan a recordar y a reflexionar. Algunas son de comprensión: ¿qué pasó? ¿Quién estaba? Otras de reflexión: ¿cómo creen que se sintió? ¿Qué nos enseña de Dios? Otras de aplicación: ¿qué haremos esta semana? Con los pequeños, preguntas sencillas y concretas. Con los mayores, preguntas abiertas, que inviten a pensar.\n\nTambién se puede repasar la historia con actividades: ordenar tarjetas, dramatizar, dibujar, hacer un resumen con gestos."
+    },
+    {
+     "heading": "Historias con cuidado",
+     "text": "Algunas historias bíblicas contienen violencia, muerte, abuso o temas difíciles: el diluvio, la crucifixión, las plagas, algunos relatos de Jueces. Conviene adaptar el nivel de detalle a la edad, sin falsear el mensaje. Con los más pequeños, enfatizar el cuidado de Dios, y evitar descripciones gráficas. Cuidar que el diluvio no se presente solo como una historia de animales graciosos, sin la seriedad del juicio, ni como un hecho aterrador que genere miedo. Con la crucifixión, explicar con ternura que Jesús murió por nosotros y resucitó, sin imágenes truculentas."
+    },
+    {
+     "heading": "Variedad",
+     "text": "Alterna estilos: a veces contar, a veces leer directamente de la Biblia para que los niños vean el texto, a veces dramatizar, a veces ver un video, a veces dejar que los niños cuenten. La variedad mantiene el interés. Pero cuida que el texto bíblico esté presente: es la Palabra, no solo el cuento."
+    },
+    {
+     "heading": "Respetar la inteligencia de los niños",
+     "text": "Los niños captan más de lo que parece. No los trates con superficialidad. Cuéntales con seriedad y alegría, y confía en que el Espíritu les habla. Salmo 8:2 dice que de la boca de los niños y de los que maman, fundaste la fortaleza."
+    },
+    {
+     "heading": "Para quien enseña",
+     "text": "Elige bien la historia. Ensáyala. Cuenta con viveza. Haz preguntas. Y conecta con Cristo."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué historia bíblica cuento mejor? ¿Qué recurso me ayudaría a contarla con más vida? ¿Qué mensaje central quiero que recuerden?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, tú nos hablas por medio de historias verdaderas. Ayúdame a contarlas con fidelidad y entusiasmo, para que los niños te conozcan y te amen. Amén."
+    }
+   ]
+  },
+  "memorizacion": {
+   "sections": [
+    {
+     "heading": "Guardar la Palabra en el corazón",
+     "text": "Salmo 119:11 dice: en mi corazón he guardado tus dichos, para no pecar contra ti. Memorizar la Biblia es guardar la Palabra para usarla en la vida: en la tentación, en el miedo, en la tristeza, en las decisiones. Los niños tienen una gran capacidad para memorizar, y lo que aprenden en la infancia suele acompañarlos toda la vida. Un versículo aprendido a los siete años puede consolar a una persona a los setenta.\n\nDeuteronomio 11:18 pide: pondréis estas mis palabras en vuestro corazón y en vuestra alma. Memorizar no es un fin en sí mismo, ni un ejercicio de repetición vacía, sino un medio para que la Palabra forme el pensamiento y la conducta."
+    },
+    {
+     "heading": "Entender antes de repetir",
+     "text": "El primer principio es que el niño comprenda lo que memoriza. Un versículo repetido sin entender es un sonido; uno comprendido es una herramienta. Antes de aprenderlo, explica con palabras sencillas lo que significa, relaciónalo con una historia o situación, y deja que el niño lo diga con sus propias palabras. Para los más pequeños, versículos muy cortos y claros: Dios es amor, Dios cuida de mí. Para los mayores, pasajes más largos y con más contenido.\n\nConviene indicar siempre la cita: libro, capítulo y versículo, para que se acostumbren a encontrar la Biblia. Y usar una versión que entiendan bien. Si la versión es difícil, se puede explicar el significado de las palabras."
+    },
+    {
+     "heading": "Técnicas que ayudan",
+     "text": "Repetición espaciada: repasar con frecuencia, un poco cada día, es mejor que mucho una sola vez. Cantar: poner el versículo en música es de las formas más eficaces. Gestos: asociar cada frase con un movimiento. Imágenes: dibujos o tarjetas con símbolos que representen las palabras. Juegos: borrar palabras progresivamente, armar rompecabezas con las palabras, competir en equipos de manera amistosa, pasar una pelota mientras se dice el versículo, esconder tarjetas.\n\nTambién ayuda aprender por frases: primero la primera, luego sumar la siguiente, hasta decirlo completo. Escribirlo, o copiar con los más grandes. Usarlo en la vida: cuando surja una situación relacionada, recordarlo en voz alta."
+    },
+    {
+     "heading": "Un plan para el año",
+     "text": "Elegir versículos con propósito. Una iglesia puede seleccionar un versículo semanal o mensual, ligado a la enseñanza de la clase, o una colección de pasajes fundamentales: el evangelio, la oración, la salvación, el carácter de Dios, la obediencia, el amor. Por ejemplo: Juan 3:16, Salmo 23:1, Efesios 4:32, Proverbios 3:5 y 6, Filipenses 4:13, Salmo 119:105, Romanos 3:23, Romanos 6:23, Mateo 6:33, Primera de Juan 1:9. Tener un plan evita improvisar."
+    },
+    {
+     "heading": "Motivación sana",
+     "text": "Los premios pueden animar: estrellas, pegatinas, un reconocimiento, una pequeña celebración. Pero conviene cuidar que no se convierta en una carrera que desanime a los niños con más dificultades, o que se aprenda solo por el premio. Reconoce el esfuerzo y no solo el resultado. Y celebra a quien avanza a su ritmo. También es sano que los niños vean que sus maestros y padres memorizan, porque el ejemplo motiva.\n\nEs mejor motivar con significado: contarles cómo un versículo ayudó a alguien, mostrarles cómo se usa, pedirles que lo compartan con un amigo."
+    },
+    {
+     "heading": "Con los padres",
+     "text": "La memorización funciona mejor cuando se refuerza en casa. Enviar el versículo de la semana a los padres, sugerir cómo repasarlo en familia: en el desayuno, en el auto, antes de dormir. Muchos padres aprenden junto con sus hijos y se bendicen. Es una linda forma de involucrar a toda la familia en la Palabra."
+    },
+    {
+     "heading": "Cuidar la actitud",
+     "text": "Algunos niños aprenden con facilidad, otros con más dificultad. No hay que comparar ni presionar. Un niño con dificultades puede aprender versículos más cortos, o hacerlo en parejas, o con ayuda. Lo importante es que cada uno avance y sienta que lo logra. Evita humillar a quien se olvida. Con paciencia y repetición, la Palabra se va grabando."
+    },
+    {
+     "heading": "Más allá del versículo",
+     "text": "Además de versículos, los niños pueden memorizar los libros de la Biblia en orden, los mandamientos, las bienaventuranzas, el Padrenuestro, el Salmo 23, los nombres de los discípulos, el fruto del Espíritu. Estas bases dan seguridad al moverse en la Biblia. Y les permite ubicarse en la historia de la salvación."
+    },
+    {
+     "heading": "Para quien enseña",
+     "text": "Explica antes de memorizar. Usa música y gestos. Repasa a menudo. Apóyate en los padres. Y celebra el esfuerzo."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué versículo aprendido en la infancia me ha acompañado? ¿Cómo hago divertida la memorización? ¿Qué versículo repasaré con mis niños esta semana?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, que tu Palabra sea sembrada en el corazón de cada niño y dé fruto durante toda su vida. Ayúdame a enseñarla con paciencia y alegría. Amén."
+    }
+   ]
+  },
+  "padres": {
+   "sections": [
+    {
+     "heading": "Un equipo con los padres",
+     "text": "Los padres son los primeros y principales maestros de sus hijos. Deuteronomio 6:6 y 7 les manda enseñar la Palabra de Dios en todo momento. La escuela bíblica no sustituye a los padres: los apoya. Una hora a la semana con un maestro tiene valor, pero la influencia diaria del hogar es mucho mayor. Si la iglesia y la familia trabajan juntas, el niño recibe un mensaje coherente y reforzado.\n\nPor eso, parte del trabajo con niños es trabajar con sus padres: comunicarse, escuchar, apoyar, equipar y respetar. Algunos padres son creyentes comprometidos, otros nuevos en la fe, otros no creyentes, otros están heridos o ausentes. En todos los casos, una relación de confianza es importante."
+    },
+    {
+     "heading": "Comunicación constante",
+     "text": "Una buena comunicación evita malentendidos. Algunas formas: una reunión inicial de padres para presentar la visión, el programa, las reglas y las políticas de seguridad; una hoja informativa semanal o mensual con el tema, el versículo y sugerencias; un grupo de mensajería o canal oficial; llamadas o visitas cuando hay una necesidad; notas breves a casa, positivas, sobre un logro del niño; y un buzón o espacio para preguntas.\n\nConviene que los padres sepan qué se enseña, cómo se organiza la clase, cómo se manejan los problemas de conducta, qué hacer en emergencias y a quién llamar. Se puede entregar una ficha por niño, con datos de contacto, alergias, necesidades especiales, personas autorizadas para recogerlo y permisos."
+    },
+    {
+     "heading": "Informar con respeto",
+     "text": "Cuando surja un problema, comunicarlo con tacto. Empezar con algo positivo del niño, describir la situación sin juzgar, escuchar la perspectiva de los padres y buscar soluciones juntos. Evitar frases que culpen o etiqueten. Los padres sienten gran vulnerabilidad cuando se habla de sus hijos. Gálatas 6:1 pide corregir con espíritu de mansedumbre.\n\nTambién compartir las alegrías: un acto de bondad, un progreso, una pregunta interesante. Muchos padres solo oyen noticias cuando algo falla. Una nota positiva fortalece la relación."
+    },
+    {
+     "heading": "Equipar a los padres",
+     "text": "La iglesia puede ayudar a los padres a cumplir su papel con recursos como: guías de devocionales familiares, versículos para repasar en casa, preguntas para conversar después del culto, charlas sobre crianza, escuelas de padres, libros recomendados, grupos de apoyo, y celebraciones familiares. Muchos padres desean enseñar la fe, pero no saben cómo. Ofrecer herramientas simples, como orar juntos antes de dormir o leer una historia bíblica cada noche, es un gran servicio.\n\nAlgunas iglesias organizan actividades para toda la familia: cultos intergeneracionales, días de servicio, retiros familiares, cenas. Así, los niños ven a sus padres adorar y servir."
+    },
+    {
+     "heading": "Familias diversas",
+     "text": "Hay padres solteros, abuelos que crían a sus nietos, familias adoptivas, hogares con un solo cónyuge creyente, familias con problemas económicos, y niños que llegan solos. Cada situación es una oportunidad de servir. La iglesia puede ofrecer apoyo práctico, sin juzgar. Santiago 1:27 habla de visitar a los huérfanos y a las viudas en sus tribulaciones. Y con los niños cuyos padres no son creyentes, se mantiene una relación respetuosa, se informa de las actividades y se evita competir con la familia."
+    },
+    {
+     "heading": "Respeto de la autoridad de los padres",
+     "text": "Los padres tienen la autoridad sobre sus hijos. El maestro no debe enseñar nada que contradiga sus decisiones legítimas ni pedir a los niños que guarden secretos. Si un niño comparte una situación preocupante, se actúa según los protocolos de protección. Y si hay diferencias doctrinales o de estilo con los padres, se conversa con respeto y se acude al pastor."
+    },
+    {
+     "heading": "Cuando los padres no participan",
+     "text": "Algunos padres dejan al niño y se van, y no se involucran. No hay que juzgarlos: pueden estar cansados, trabajando, abrumados, o no sentirse bienvenidos. Con paciencia, se les puede invitar a un café, a una actividad, a conocer a otros padres. A veces, el interés por sus hijos abre la puerta a su propio acercamiento a Dios."
+    },
+    {
+     "heading": "Mantener la confianza",
+     "text": "La confianza se construye con constancia: puntualidad, seguridad, buen trato, comunicación clara y respeto. Si hay un error, se reconoce con humildad. Y se protege la confidencialidad de lo que los padres comparten."
+    },
+    {
+     "heading": "Para quien enseña",
+     "text": "Conoce a los padres por nombre. Comunícate con regularidad. Apóyalos con recursos. Respeta su autoridad. Y ora por cada familia."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Cuánto conozco a los padres de mis alumnos? ¿Qué recurso sencillo puedo darles esta semana? ¿Cómo tratar a quienes no participan?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, bendice a los padres de nuestros niños. Danos sabiduría para trabajar juntos, y que cada hogar sea un lugar donde tu Palabra se enseñe y se viva. Amén."
+    }
+   ]
+  },
+  "plan-ninos": {
+   "sections": [
+    {
+     "heading": "Un modelo para adaptar",
+     "text": "Esta lección presenta un ejemplo de clase para niños de seis a diez años, que puedes adaptar a tu grupo, tu tiempo y tus recursos. Combina lo que hemos visto: preparación, historia, participación, versículo, aplicación y oración. El tema es la parábola del hijo pródigo, en Lucas 15:11 al 24, y el mensaje central es que Dios recibe con alegría a quienes vuelven a él.\n\nLa duración sugerida es de unos cincuenta minutos. Si tu tiempo es menor, reduce la actividad o los juegos."
+    },
+    {
+     "heading": "Antes de la clase",
+     "text": "El maestro ora por los niños, lee el pasaje varias veces y escribe el mensaje central en una frase: Dios nos ama y nos recibe con alegría cuando volvemos a él. Define el objetivo: que los niños entiendan que Dios perdona, sientan gratitud por su amor y sepan que pueden acudir a él cuando se equivocan. Prepara los materiales: Biblia, láminas o títeres de la historia, hojas, colores, una tarjeta con el versículo, una canción, un pequeño juego. Llega temprano, arregla el espacio y recibe a cada niño por su nombre."
+    },
+    {
+     "heading": "Bienvenida y apertura (cinco minutos)",
+     "text": "Recibe a los niños con una sonrisa y una canción de bienvenida con movimientos. Pregunta cómo están. Haz una actividad de apertura que conecte con el tema: por ejemplo, preguntar quién se ha perdido alguna vez en un lugar, y cómo se sintió cuando lo encontraron. Escucha algunas respuestas breves. Luego di: hoy escucharemos una historia que Jesús contó sobre alguien que se perdió y alguien que lo estaba esperando."
+    },
+    {
+     "heading": "Alabanza y oración (cinco minutos)",
+     "text": "Canta una o dos canciones de alabanza que los niños conozcan. Ora con ellos, invitando a algunos a agradecer a Dios por algo. Enseña a orar con sencillez."
+    },
+    {
+     "heading": "Historia bíblica (diez minutos)",
+     "text": "Cuenta la parábola con viveza, usando láminas o títeres: un padre con dos hijos, el menor que pide su herencia y se va lejos, gasta todo, termina cuidando cerdos y con hambre, decide volver, y el padre lo ve de lejos, corre, lo abraza, lo besa, lo viste y hace una fiesta. Haz pausas para preguntar: ¿qué creen que pasó? ¿Cómo se habrá sentido el hijo? Lee en la Biblia el versículo 20: cuando aún estaba lejos, lo vio su padre, y fue movido a misericordia, y corrió, y se echó sobre su cuello, y le besó. Muestra a los niños el texto."
+    },
+    {
+     "heading": "Conversación (cinco minutos)",
+     "text": "Haz preguntas sencillas. ¿Qué hizo el hijo que estuvo mal? ¿Qué hizo cuando se dio cuenta? ¿Cómo lo recibió el padre? ¿Quién creen que es el padre en la historia? Ayúdales a ver que el padre representa a Dios, que nos espera, nos perdona y nos abraza. Pregunta: ¿qué cosas hacemos que a Dios no le gustan? ¿Qué podemos hacer cuando fallamos? Enfatiza que Dios no es como un juez que se enoja, sino como un padre amoroso que ama y quiere tenernos cerca."
+    },
+    {
+     "heading": "Versículo (cinco minutos)",
+     "text": "Enseña un versículo corto relacionado, por ejemplo Primera de Juan 1:9: si confesamos nuestros pecados, él es fiel y justo para perdonar nuestros pecados. Explica lo que significa confesar. Enséñalo con gestos y repítelo varias veces, con una canción o un juego."
+    },
+    {
+     "heading": "Actividad (diez minutos)",
+     "text": "Los niños dibujan la escena que más les gustó, o hacen una tarjeta con el abrazo del padre y la frase Dios me recibe con amor. Mientras trabajan, conversa con ellos y repite el versículo. También puedes hacer una dramatización sencilla con algunos voluntarios."
+    },
+    {
+     "heading": "Aplicación y oración (cinco minutos)",
+     "text": "Reúne a los niños y resume: Dios siempre nos espera con los brazos abiertos. Pregunta: ¿qué pueden hacer esta semana si se equivocan? Pide perdón a Dios, y también a la persona a quien lastimaron. Invita a quienes lo deseen a orar en silencio, o con una oración breve que tú guíes: Padre, gracias porque me amas. Perdóname cuando hago mal. Ayúdame a obedecerte. Amén. Respeta a los que prefieran no participar."
+    },
+    {
+     "heading": "Cierre y despedida (cinco minutos)",
+     "text": "Recuerda el versículo, felicita a los niños, entrega la manualidad y una nota para los padres con el tema, el versículo y una pregunta para conversar en casa. Despide a cada niño personalmente y entrégalo solo a la persona autorizada. Recoge el salón y anota observaciones sobre los niños: quién faltó, quién necesita oración, qué funcionó."
+    },
+    {
+     "heading": "Evaluación",
+     "text": "Después, el maestro responde: ¿se logró el objetivo? ¿Qué parte funcionó mejor? ¿Qué cambiaría? ¿Hay algún niño que necesite atención especial? Comparte con el coordinador y con otros maestros lo aprendido, y ora por los niños."
+    },
+    {
+     "heading": "Adaptaciones",
+     "text": "Para niños de tres a cinco años, reduce el tiempo, simplifica la historia en tres o cuatro escenas, usa más canciones, movimiento y objetos, y un versículo muy corto. Para preadolescentes, añade más discusión, preguntas de reflexión, actividades de trabajo en equipos, y compara con situaciones reales. Para grupos mixtos, forma equipos con distintas edades para que los mayores ayuden a los pequeños."
+    },
+    {
+     "heading": "Para quien enseña",
+     "text": "Usa este esquema como guía, no como camisa de fuerza. Mantén un ritmo ágil. Cuida la sencillez. Y no olvides orar."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué parte de mi clase necesita más variedad? ¿Qué mensaje quiero que cada niño lleve a casa? ¿Qué haré diferente el próximo domingo?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, bendice cada clase de niños. Que cada niño sienta tu amor, aprenda tu Palabra y quiera seguirte. Amén."
+    }
+   ]
+  },
+  "proteccion": {
+   "sections": [
+    {
+     "heading": "Cuidar a los pequeños",
+     "text": "Jesús habló con severidad de quienes hacen daño a los niños. En Mateo 18:6 dijo que a cualquiera que haga tropezar a alguno de estos pequeños que creen en él, mejor le fuera que se le colgase al cuello una piedra de molino. Proteger a los niños es un deber moral de toda la iglesia. Una iglesia que no es segura para los niños traiciona su misión y puede causar un daño profundo y duradero.\n\nLos casos de abuso en entornos religiosos son una realidad, y han dejado heridas graves en muchas personas. La iglesia debe tomarlo con seriedad. Esta lección ofrece principios básicos, pero cada iglesia debe desarrollar una política escrita, con asesoría legal y profesional, conforme a las leyes de su país."
+    },
+    {
+     "heading": "Selección y formación de voluntarios",
+     "text": "Quienes trabajan con niños deben ser seleccionados con cuidado. Algunas medidas recomendadas: pedir una solicitud por escrito, con datos personales y referencias; entrevistar a los candidatos; verificar antecedentes, cuando la ley lo permita; exigir un tiempo mínimo de membresía en la iglesia antes de servir con menores; capacitarlos en protección infantil; y firmar un compromiso de conducta. No se debe permitir que alguien con antecedentes de abuso trabaje con niños. Y todos los que sirven deben conocer los protocolos.\n\nAunque la mayoría de las personas que sirven lo hacen con buena intención, los abusadores a menudo parecen confiables, y buscan accesos a niños. Por eso la prevención se basa en reglas claras, no en confianza ciega."
+    },
+    {
+     "heading": "Reglas de prevención",
+     "text": "Algunas prácticas básicas ayudan a reducir los riesgos. Nunca debe haber un adulto a solas con un niño en un espacio cerrado: siempre al menos dos adultos no relacionados, o puertas abiertas y visibles. Los salones tienen ventanas o puertas con vidrio. Se supervisan los baños: los niños van en grupos o acompañados, sin que un adulto entre solo con un niño. El cambio de pañales se hace con otro adulto presente o en un área visible. Se evita el contacto físico inapropiado; los abrazos, si los hay, son laterales y apropiados, y se respeta si el niño no quiere. No se permiten secretos entre adultos y niños, ni regalos privados. No se usan redes sociales ni mensajes privados con los niños fuera de los canales oficiales y sin conocimiento de los padres. Hay registro de entrada y salida, y los niños solo se entregan a las personas autorizadas. Las fotos y videos requieren el permiso de los padres. Y las actividades fuera de la iglesia cuentan con autorización escrita, supervisión adecuada y adultos suficientes."
+    },
+    {
+     "heading": "Reconocer señales de alarma",
+     "text": "Los maestros deben estar atentos a señales de posible abuso o maltrato en un niño: cambios bruscos de conducta, miedo a ciertas personas o lugares, retraimiento, agresividad, regresión, pesadillas, conocimientos sexuales inapropiados para su edad, lesiones inexplicables, resistencia a ir a casa o a ciertos lugares, descuido de higiene o alimentación. Una señal por sí sola no prueba nada, pero merece atención.\n\nTambién se observan conductas de adultos que despiertan preocupación: atención excesiva a un niño, regalos, intentos de quedarse a solas, de tocar, de crear secretos, de violar las reglas."
+    },
+    {
+     "heading": "Qué hacer si un niño cuenta algo",
+     "text": "Si un niño revela una situación de abuso, la reacción del adulto es crucial. Mantén la calma. Escucha con atención, sin interrogar ni sugerir respuestas. Dile que le crees, que hizo bien en contártelo, que no es su culpa. No prometas guardar un secreto: explícale que necesitas contárselo a alguien que pueda ayudarlo. No confrontes al presunto agresor. Anota lo más fielmente posible lo que dijo, con sus palabras. Informa de inmediato al responsable designado en la iglesia y a las autoridades de protección infantil o a la policía, según lo que indique la ley de tu país, que en muchos casos obliga a denunciar. La seguridad del niño está por encima de la reputación de la iglesia o de las personas.\n\nNo se trata de investigar por cuenta propia, sino de reportar a quienes tienen la competencia para hacerlo. La iglesia coopera con las autoridades y ofrece apoyo pastoral y profesional a la familia."
+    },
+    {
+     "heading": "Otros riesgos",
+     "text": "La protección incluye también la seguridad física: salidas de emergencia, extintores, botiquín, personal con primeros auxilios, control de alergias, medicinas, instalaciones eléctricas, juegos seguros, transporte seguro. Y el acoso entre niños, el intimidamiento y el uso inadecuado de la tecnología. Hay que estar atentos y enseñar a los niños a decir no, a contar a un adulto de confianza y a respetar su cuerpo con nombres correctos y límites sanos, de manera apropiada a su edad."
+    },
+    {
+     "heading": "Cultura de protección",
+     "text": "Más allá de los reglamentos, se necesita una cultura de cuidado: los líderes hablan abiertamente del tema, los maestros se capacitan, los padres conocen las políticas, y los niños saben que pueden hablar. Se mantiene una actitud de vigilancia sin paranoia. Y se acoge con compasión a quienes han sido víctimas, ofreciendo sanidad, justicia y acompañamiento."
+    },
+    {
+     "heading": "Para quien dirige",
+     "text": "Redacta una política escrita. Capacita a los voluntarios. Define un responsable de protección. Informa a los padres. Y revisa con regularidad."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Tiene mi iglesia una política de protección infantil? ¿Sabemos qué hacer si un niño cuenta algo? ¿Qué puertas están abiertas al riesgo?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, tú eres el defensor de los pequeños. Danos sabiduría, valentía y compasión para proteger a cada niño que pones a nuestro cuidado. Amén."
+    }
+   ]
+  },
+  "salvacion-nino": {
+   "sections": [
+    {
+     "heading": "Los niños y Jesús",
+     "text": "Jesús amaba a los niños. Cuando los discípulos quisieron apartarlos, él se enojó y dijo, en Marcos 10:14: dejad a los niños venir a mí, y no se lo impidáis, porque de los tales es el reino de Dios. Y los tomó en sus brazos y los bendijo. Los niños son importantes para Dios, y pueden conocerlo y creer en él. Es una de las tareas más hermosas y más delicadas de un maestro: guiar a un niño hacia Cristo."
+    },
+    {
+     "heading": "Con cuidado y sin presión",
+     "text": "Los niños son impresionables. Quieren agradar a los adultos, imitar a sus compañeros y obedecer. Esto significa que es posible que levanten la mano o repitan una oración sin comprender. Por eso conviene guiarlos con cuidado, sin manipulación, sin emociones forzadas, sin presiones ni promesas de premios, y sin miedo. Una decisión por presión puede dejar al niño con una falsa seguridad o con confusión. Nunca se debe asustar a un niño con el infierno para que decida. El Espíritu Santo es quien convence; el maestro explica y acompaña."
+    },
+    {
+     "heading": "Qué entender",
+     "text": "Un niño puede comprender, a su nivel, el mensaje básico del evangelio. Dios nos creó y nos ama. Todos hemos pecado, es decir, hacemos cosas que no agradan a Dios, y eso nos separa de él. Dios envió a Jesús, su Hijo, que vivió sin pecado, murió en la cruz por nuestros pecados y resucitó. Si creemos en él, le pedimos perdón y lo recibimos como Salvador y Señor, Dios nos perdona y nos da vida eterna. Juan 3:16, Romanos 3:23, Romanos 6:23, Efesios 2:8 y 9, Juan 1:12 y Primera de Juan 1:9 son pasajes útiles.\n\nUsa palabras sencillas y evita frases confusas como pedirle a Jesús que entre en tu corazón sin explicar qué significa, pues algunos niños lo entienden de forma literal. Usa imágenes concretas: el pecado como algo que ensucia o separa, Jesús como quien carga con la culpa y nos perdona, el perdón como un regalo."
+    },
+    {
+     "heading": "Señales de que un niño está listo",
+     "text": "Hay señales que sugieren una disposición real: hace preguntas sobre Dios, el pecado, la muerte o el cielo; expresa tristeza por haber hecho mal; muestra interés en Jesús; entiende que necesita perdón; pregunta qué debe hacer para ser salvo. No hay una edad fija. Algunos niños pequeños comprenden bastante; otros necesitan más tiempo. Conviene respetar el ritmo de cada uno y conversar con los padres."
+    },
+    {
+     "heading": "Cómo conversar",
+     "text": "Cuando un niño muestra interés, se conversa con él con calma y en privado, siempre en un lugar visible y con otro adulto cerca, según la política de protección. Escucha sus preguntas. Pregunta qué piensa, qué entiende, qué siente. Explica el evangelio con claridad. Invítalo a pensar si quiere confiar en Jesús. Si dice que sí, se puede orar con él, con palabras sencillas que él mismo pueda decir en voz alta, sin presionarlo a repetir una fórmula. Por ejemplo: Jesús, sé que he hecho cosas mal. Gracias por morir por mí. Perdóname. Quiero seguirte. Amén.\n\nPide que cuente con sus palabras lo que significa para él. Anímalo y comunica la decisión a los padres, para que puedan acompañarlo. No se debe presionar, ni obligar a decidir en el momento si el niño no está seguro: se le puede decir que cuando quiera, puede hablar con Dios, y que seguirás orando por él."
+    },
+    {
+     "heading": "Después de la decisión",
+     "text": "Una decisión es el inicio. El niño necesita acompañamiento: ayudarlo a leer la Biblia, a orar, a asistir a la iglesia, a obedecer, a compartir con sus amigos, a entender el bautismo cuando sea el momento. Explicarle que Dios lo ama aun cuando falle, que puede pedir perdón, y que no necesita ser perfecto. Si más adelante duda de su salvación, que converse con un adulto de confianza. Con los años, es común que los niños reafirmen su fe de forma más consciente, en la adolescencia, y eso es bueno."
+    },
+    {
+     "heading": "Trabajar con los padres",
+     "text": "Los padres son los principales discipuladores de sus hijos. Es importante informarles sobre lo que el niño expresó, orientarlos para que continúen en casa, y respetar sus decisiones. Si el niño viene de una familia no creyente, hay que ser sensibles y prudentes: no generar conflictos, mantener una relación respetuosa con los padres y orar por ellos. A veces, la fe de un niño abre las puertas a toda la familia."
+    },
+    {
+     "heading": "Conservar la ternura",
+     "text": "Hay que cuidar que el evangelio no se presente solo como un trámite para evitar el infierno, sino como una relación de amor con Jesús. Juan 10:27 dice: mis ovejas oyen mi voz, y yo las conozco, y me siguen. Los niños que se sienten amados responden con más facilidad. Y debemos recordar que el trabajo es de Dios: él atrae, él salva. El maestro siembra, riega y ora."
+    },
+    {
+     "heading": "Para quien enseña",
+     "text": "Explica el evangelio con claridad y sencillez. Evita la presión. Conversa con prudencia y con otro adulto cerca. Informa a los padres. Y acompaña después."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Puedo explicar el evangelio a un niño en pocas palabras? ¿Cómo cuido que no haya presión? ¿Qué niño necesita que ore por él hoy?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor Jesús, tú llamas a los niños. Úsame para llevarlos a ti con ternura y verdad. Que cada niño te conozca como su Salvador y su amigo. Amén."
+    }
+   ]
+  }
+ }
+}

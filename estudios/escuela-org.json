@@ -1,0 +1,359 @@
+{
+ "format_version": 1,
+ "course": "escuela-org",
+ "version": "1.0.0",
+ "lessons": {
+  "ambiente": {
+   "sections": [
+    {
+     "heading": "Un lugar donde se puede aprender",
+     "text": "El ambiente de la clase influye mucho en el aprendizaje. Un salón acogedor, un maestro cálido, reglas claras y espacio para participar crean las condiciones para que la Palabra llegue al corazón. Un ambiente hostil, caótico o frío, en cambio, dificulta incluso la mejor enseñanza. Romanos 15:7 dice: recibíos los unos a los otros, como también Cristo nos recibió, para gloria de Dios."
+    },
+    {
+     "heading": "Bienvenida",
+     "text": "El primer minuto importa. Llegar antes que los alumnos, recibir a cada persona por su nombre, sonreír, preguntar cómo está, hacer que las nuevas se sientan bienvenidas y presentarlas con naturalidad. Una persona que se siente vista se abre más. Muchos visitantes no vuelven porque nadie les habló.\n\nEl espacio también habla: orden, limpieza, buena iluminación, sillas dispuestas de modo que las personas se vean, un rótulo, una decoración sencilla relacionada con el tema. No hace falta gastar mucho; hace falta cuidado."
+    },
+    {
+     "heading": "Reglas claras y amables",
+     "text": "Toda clase necesita reglas, aunque sean pocas. Con los niños, pueden ser tres o cuatro, formuladas en positivo: escuchamos cuando otro habla, levantamos la mano, tratamos con respeto, cuidamos el salón. Con adultos, normas de convivencia: respetar el tiempo, no interrumpir, no burlarse de opiniones, mantener la confidencialidad. Se comunican al inicio, se recuerdan con cariño y se aplican con coherencia."
+    },
+    {
+     "heading": "Disciplina que forma",
+     "text": "La disciplina no es castigo, sino formación. Busca el bien del alumno y del grupo. Algunos principios útiles: prevenir más que corregir, con clases bien preparadas y activas, que mantengan la atención. Corregir en privado cuando sea posible, con calma, sin humillar. Entender qué hay detrás de la conducta: cansancio, hambre, problemas en casa, aburrimiento, necesidad de atención. Mantener la coherencia: lo que se dice se cumple. Elogiar lo bueno con más frecuencia que lo malo. Y pedir ayuda al coordinador o a los padres cuando se trate de un problema persistente.\n\nHebreos 12:11 reconoce que ninguna disciplina al presente parece ser causa de gozo, sino de tristeza; pero después da fruto apacible de justicia. Se disciplina con amor.\n\nNunca se debe usar castigo físico, gritos, humillaciones, amenazas o aislamiento en la escuela bíblica. Son perjudiciales y contrarios al espíritu del evangelio."
+    },
+    {
+     "heading": "Participación",
+     "text": "Las personas aprenden más cuando participan. Esto vale para niños, jóvenes y adultos. Formular preguntas abiertas, dar tiempo para pensar, invitar a opinar, dividir en grupos pequeños, usar ejemplos de la vida diaria, permitir leer en voz alta, pedir que cuenten un testimonio breve, usar dramatizaciones y actividades. Jesús preguntaba constantemente: ¿qué os parece? ¿Quién decís que soy yo? ¿Quieres ser sano?\n\nPara fomentar la participación, es útil agradecer cada aporte, aunque sea imperfecto; corregir con suavidad errores doctrinales; no avergonzar a nadie; y manejar con tacto a los que hablan demasiado y a los que nunca hablan. Con los tímidos, ofrecer formas de participar sin exposición: en parejas, por escrito, o con una pregunta directa y sencilla."
+    },
+    {
+     "heading": "Cuando hay conflicto o preguntas difíciles",
+     "text": "En un grupo surgen desacuerdos y preguntas inesperadas. Conviene responder con humildad: si no sabes, dilo; si la pregunta es compleja, ofrece conversar luego; si hay desacuerdo en puntos secundarios, mantener el respeto; si alguien introduce enseñanza contraria a la doctrina, corregir con amabilidad y consultar con el pastor. Segunda de Timoteo 2:24 y 25 dice que el siervo del Señor no debe ser contencioso, sino amable para con todos, apto para enseñar, sufrido; que con mansedumbre corrija a los que se oponen."
+    },
+    {
+     "heading": "Inclusión",
+     "text": "Cada clase puede incluir a personas con diferentes necesidades: discapacidades, dificultades de aprendizaje, idiomas, edades, historias. Adaptar sin hacer sentir diferente: letra grande, apoyos visuales, asientos accesibles, ritmo flexible, compañeros de apoyo. Y cuidar que nadie quede excluido por su situación económica o familiar."
+    },
+    {
+     "heading": "Seguridad emocional",
+     "text": "Un ambiente seguro permite hablar con sinceridad. Esto incluye confidencialidad, no ridiculizar, no comparar, no presionar. Si alguien comparte algo grave, como abuso o riesgo, el maestro conoce los protocolos de la iglesia y busca ayuda de los líderes. Cuando la información lo requiere, la seguridad de la persona está por encima de la confidencialidad."
+    },
+    {
+     "heading": "Para quien enseña",
+     "text": "Llega temprano. Aprende los nombres. Establece reglas. Haz preguntas. Y recibe a todos con alegría."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Cómo recibe mi clase a una persona nueva? ¿Quién participa y quién no? ¿Cómo corrijo?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, haz de nuestras clases lugares seguros, alegres y llenos de tu presencia, donde cada persona sea recibida y enseñada con amor. Amén."
+    }
+   ]
+  },
+  "discipulado": {
+   "sections": [
+    {
+     "heading": "Más allá de la clase",
+     "text": "La escuela bíblica es un medio, no el fin. El fin es el discipulado: formar seguidores de Jesús que crezcan en la fe, vivan en comunidad, sirvan y hagan a su vez otros discípulos. Jesús no dijo: haced escuelas, sino haced discípulos. Una clase de una hora semanal es valiosa, pero no basta para transformar una vida. Necesita conectarse con una vida de iglesia más amplia."
+    },
+    {
+     "heading": "Qué es un discípulo",
+     "text": "Discípulo significa aprendiz, seguidor. Jesús llamó a sus primeros discípulos diciendo: venid en pos de mí, y os haré pescadores de hombres. Los discípulos pasaron tiempo con él, lo escucharon, lo observaron, lo imitaron, fueron enviados y aprendieron en el camino. Su formación fue relacional, práctica y a lo largo del tiempo. Marcos 3:14 dice que designó a doce para que estuviesen con él, y para enviarlos a predicar.\n\nEl discipulado incluye conocer la Palabra, cultivar la oración, vivir en comunidad, obedecer en la vida diaria, servir y compartir la fe. Colosenses 1:28 resume la meta de Pablo: a quien anunciamos, amonestando a todo hombre, y enseñando a todo hombre en toda sabiduría, a fin de presentar perfecto en Cristo Jesús a todo hombre."
+    },
+    {
+     "heading": "De la clase al camino",
+     "text": "Algunas ideas para pasar de la información a la formación. Conectar cada clase con la vida diaria mediante tareas y compromisos de aplicación. Promover la lectura personal de la Biblia, con planes sencillos y guías. Formar grupos pequeños donde las personas se conozcan, oren y se animen. Ofrecer mentoría uno a uno. Invitar a servir en la iglesia, porque se aprende sirviendo. Enseñar a orar practicando la oración. Y ofrecer rutas de crecimiento claras para quien desee avanzar."
+    },
+    {
+     "heading": "Una ruta de crecimiento",
+     "text": "Muchas iglesias definen etapas: primero, un curso para nuevos creyentes sobre los fundamentos; luego, uno sobre la vida cristiana, la oración y la Palabra; después, la formación en doctrina; más tarde, descubrimiento de dones y servicio; finalmente, formación de líderes y maestros. No hay que complicarlo: lo importante es que cada persona sepa cuál es su siguiente paso.\n\nHebreos 5:12 al 14 lamenta que algunos, debiendo ser maestros, necesitaban que se les enseñaran de nuevo los primeros rudimentos. El alimento sólido es para los que han crecido. La escuela puede ayudar a pasar de la leche al alimento sólido."
+    },
+    {
+     "heading": "Multiplicar",
+     "text": "Segunda de Timoteo 2:2 describe la cadena: Pablo a Timoteo, Timoteo a hombres fieles, y ellos a otros. El discipulado se multiplica cuando cada persona formada forma a otras. La escuela bíblica puede identificar y preparar nuevos maestros, ayudantes, líderes de grupo y mentores. Una escuela que no forma sucesores se detiene. Conviene preguntar en cada clase: ¿a quién podría formar esta persona?"
+    },
+    {
+     "heading": "Integrar a las familias",
+     "text": "El discipulado se vive en casa. La escuela puede apoyar a los padres con materiales y orientación para enseñar a sus hijos, y proponer actividades familiares: devocionales, cultos en casa, lecturas, proyectos de servicio. La fe se transmite en el hogar, y la iglesia acompaña, como indica Deuteronomio 6."
+    },
+    {
+     "heading": "Servir y compartir la fe",
+     "text": "Un discípulo sirve y comparte lo que ha recibido. La escuela puede promover proyectos de servicio, visitas a enfermos, ayudas a necesitados, evangelismo en el vecindario y misiones. Estas experiencias dan sentido a lo aprendido. Santiago 1:22 recuerda ser hacedores de la palabra y no solamente oidores."
+    },
+    {
+     "heading": "Paciencia y perseverancia",
+     "text": "El discipulado es un proceso lento. Los discípulos de Jesús tardaron años en entenderlo, y fallaron muchas veces. No se debe esperar resultados inmediatos ni desanimarse con las caídas. Se necesita paciencia, constancia y confianza en que Dios completa su obra, según Filipenses 1:6."
+    },
+    {
+     "heading": "Para quien dirige",
+     "text": "Define pasos de crecimiento. Conecta la escuela con grupos pequeños y servicio. Forma sucesores. Apoya a las familias. Y ora por los que Dios te da."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué siguiente paso ofrece nuestra escuela a quien termina un curso? ¿A quién estoy discipulando? ¿Cómo animamos a multiplicar?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor Jesús, ayúdanos a hacer discípulos como tú lo hiciste: con paciencia, con ejemplo y con amor. Que lo que se enseña aquí se viva en nuestras casas, en nuestra iglesia y en el mundo. Amén."
+    }
+   ]
+  },
+  "estructura": {
+   "sections": [
+    {
+     "heading": "Orden para servir mejor",
+     "text": "Pablo dice, en Primera de Corintios 14:40, que todo se haga decentemente y con orden. Organizar la escuela bíblica no es burocracia: es una forma de cuidar a las personas y de usar bien los recursos que Dios da. Una escuela ordenada facilita la enseñanza, protege a los niños, apoya a los maestros y permite crecer."
+    },
+    {
+     "heading": "El equipo de liderazgo",
+     "text": "Una escuela bíblica necesita un director o superintendente, nombrado con la aprobación del pastor, que coordine el ministerio. Puede haber coordinadores por edad: niños, jóvenes, adultos. Un secretario que lleve el registro de asistencia. Un encargado de materiales y finanzas. Y los maestros, con sus ayudantes. En iglesias pequeñas, una misma persona puede cumplir varias funciones; en las grandes, se reparte. Lo importante es que cada quien sepa qué le toca y a quién rinde cuentas.\n\nÉxodo 18 muestra la sabiduría de repartir el trabajo: Moisés delegó con consejo de Jetro, y la carga se hizo llevadera. Cada líder debe tener un llamado, carácter probado y deseo de servir."
+    },
+    {
+     "heading": "Clases por edad y necesidad",
+     "text": "Lo común es agrupar a las personas por edad: cuna o guardería, preescolares, niños de primaria, preadolescentes, adolescentes, jóvenes, adultos jóvenes, adultos, adultos mayores. Los grupos pequeños permiten mejor atención: en niños, un maestro por cada cinco a ocho alumnos, según la edad. También pueden formarse clases por afinidad o necesidad: nuevos creyentes, matrimonios, solteros, madres jóvenes, estudio de un libro de la Biblia.\n\nLa clase para quienes se acercan por primera vez o para nuevos creyentes es especialmente importante: se les da un fundamento claro de la fe."
+    },
+    {
+     "heading": "Horarios y espacios",
+     "text": "El horario debe ser sostenible. Muchas iglesias hacen la escuela antes o después del culto, otras entre semana, o en casas. Lo esencial es que sea un horario constante y conocido. Cada clase necesita un espacio adecuado: limpio, ventilado, con buena luz, sillas cómodas, pizarra o recursos, sin ruidos que distraigan. Si no hay salones, se puede usar un patio, un rincón, o dividir con biombos. Para niños, el espacio debe ser seguro, sin objetos peligrosos, con puertas visibles y supervisadas."
+    },
+    {
+     "heading": "Materiales y currículo",
+     "text": "Elegir un currículo ayuda a tener una enseñanza ordenada y progresiva. Puede ser material de la denominación, de editoriales cristianas, o preparado por la iglesia. Conviene evaluar que sea fiel a la Biblia y a la doctrina de la iglesia, adecuado a cada edad y fácil de aplicar. El pastor puede revisar el contenido. Se puede alternar estudios de libros bíblicos, de doctrina, de vida cristiana y de personajes.\n\nCada maestro necesita su guía, y cada alumno, su Biblia y su material. Cuida el presupuesto, y busca formas de que nadie quede sin material por falta de recursos."
+    },
+    {
+     "heading": "Registro y comunicación",
+     "text": "Llevar un registro de alumnos, asistencia, datos de contacto y observaciones permite el seguimiento. Debe manejarse con confidencialidad. Una comunicación clara con los padres, los maestros y la iglesia evita malentendidos: un calendario anual, avisos oportunos, reuniones de maestros."
+    },
+    {
+     "heading": "Reuniones de maestros",
+     "text": "Una reunión mensual o trimestral de maestros es una de las mejores inversiones. Sirve para orar, compartir experiencias, resolver problemas, capacitar, coordinar y animarse. Proverbios 27:17 dice que hierro con hierro se aguza; y así el hombre aguza el rostro de su amigo."
+    },
+    {
+     "heading": "Finanzas y administración",
+     "text": "Un presupuesto sencillo para materiales, premios, actividades y capacitación. Rendir cuentas al liderazgo de la iglesia con transparencia. Evitar el manejo de dinero por una sola persona. Y recibir ofrendas de manera ordenada."
+    },
+    {
+     "heading": "Seguridad",
+     "text": "Establecer políticas de protección de menores, que veremos en otra lección: registro de voluntarios, nunca un adulto a solas con un niño, puertas con visibilidad, normas para fotografías, protocolos de emergencia. También un plan para accidentes, un botiquín, y números de contacto."
+    },
+    {
+     "heading": "Crecer sin perder el rumbo",
+     "text": "A medida que crece, la escuela necesita más maestros, más espacios y más organización. Conviene crecer de manera sana: formar nuevos maestros antes de abrir nuevas clases, evaluar con regularidad y mantener la visión. Mejor pocas clases bien atendidas que muchas descuidadas."
+    },
+    {
+     "heading": "Para quien dirige",
+     "text": "Dibuja un organigrama sencillo. Lista las clases y necesidades. Asigna responsables. Crea un calendario. Y revisa cada año."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Quién hace qué en nuestra escuela? ¿Qué clases faltan? ¿Qué mejoraría la seguridad y el orden?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, ayúdanos a organizar este ministerio con sabiduría y orden, para que cada persona sea bien cuidada y enseñada. Amén."
+    }
+   ]
+  },
+  "maestro": {
+   "sections": [
+    {
+     "heading": "Un llamado, no solo una tarea",
+     "text": "Enseñar la Palabra de Dios es un privilegio y una responsabilidad. Santiago 3:1 advierte: hermanos míos, no os hagáis maestros muchos de vosotros, sabiendo que recibiremos mayor condenación. No es para desanimar, sino para recordar que enseñar es serio. Efesios 4:11 incluye a los maestros entre los dones que Cristo da a su iglesia. Romanos 12:7 habla del que enseña, en la enseñanza.\n\nEl maestro no es solo quien llena un hueco en el calendario. Es alguien que Dios ha llamado, la iglesia ha reconocido y el Espíritu capacita. Un buen maestro puede cambiar la vida de una persona para siempre."
+    },
+    {
+     "heading": "El carácter del maestro",
+     "text": "Antes que las técnicas, importa el corazón. Se espera del maestro: amor por Dios y por su Palabra, vida de oración, integridad, humildad, fidelidad, paciencia, amor por las personas, disposición a aprender y a ser corregido. Primera de Timoteo 4:12 dice a Timoteo: sé ejemplo de los creyentes en palabra, conducta, amor, espíritu, fe y pureza. Los alumnos aprenden más de lo que ven que de lo que escuchan. Un maestro cuya vida contradice su enseñanza hace un daño profundo.\n\nJesús advirtió contra los fariseos que dicen y no hacen, en Mateo 23:3. Por eso el maestro vive primero lo que enseña. Esto no significa perfección, sino sinceridad, arrepentimiento y crecimiento."
+    },
+    {
+     "heading": "Conocimiento de la Palabra",
+     "text": "Segunda de Timoteo 2:15 dice: procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que usa bien la palabra de verdad. El maestro estudia. Lee la Biblia con regularidad, conoce su contenido, lo prepara con tiempo, consulta buenas herramientas, y se mantiene en formación. No necesita ser un erudito, pero sí ser diligente. Y reconoce con humildad lo que no sabe: es mejor decir voy a averiguarlo que inventar una respuesta.\n\nLa doctrina es importante. El maestro enseña de acuerdo con la fe de la iglesia, y evita especulaciones y novedades que dividen. Tito 2:1 dice: habla lo que está de acuerdo con la sana doctrina."
+    },
+    {
+     "heading": "Amor por las personas",
+     "text": "Pablo escribió a los tesalonicenses que les había sido tierno como una madre que cuida a sus hijos, y que les habría entregado no solo el evangelio sino sus propias vidas, porque les habían llegado a ser muy queridos. El maestro conoce a sus alumnos por nombre, se interesa por sus vidas, ora por ellos, los visita, los escucha. Un alumno que se siente amado aprende mejor y confía más.\n\nCada persona es distinta: tiene su historia, sus preguntas, su ritmo. Un buen maestro adapta, no se frustra y trata a todos con respeto. Jesús atendía a cada quien según su necesidad."
+    },
+    {
+     "heading": "Habilidades útiles",
+     "text": "Un maestro cultiva habilidades: preparar una clase con objetivo claro, explicar con sencillez, usar ejemplos, hacer preguntas, escuchar, manejar el tiempo, mantener el orden con amabilidad, usar recursos variados y evaluar su propio trabajo. Estas habilidades se aprenden con práctica, con capacitación y con la ayuda de maestros experimentados. Pedir retroalimentación es una muestra de humildad."
+    },
+    {
+     "heading": "Dependencia del Espíritu",
+     "text": "Ninguna técnica convierte un corazón. Es el Espíritu Santo quien ilumina, convence y transforma. Jesús prometió, en Juan 14:26, que el Espíritu enseñaría todas las cosas. El maestro ora antes de preparar, al preparar, antes de enseñar y después de enseñar. Se dispone como instrumento. Primera de Corintios 3:6 recuerda que uno planta, otro riega, pero el crecimiento lo da Dios."
+    },
+    {
+     "heading": "Cuidar al maestro",
+     "text": "Quienes enseñan necesitan cuidado: formación, descanso, ánimo, reconocimiento, recursos, oración. La iglesia debe evitar sobrecargarlos y agradecerles. Cuando un maestro está agotado, enseña mal y sufre. Conviene rotar, dar vacaciones, tener suplentes y cuidar su vida espiritual."
+    },
+    {
+     "heading": "Cómo reclutar maestros",
+     "text": "No se debe reclutar a cualquiera para llenar un hueco. Se busca a personas con buen testimonio, miembros activos, amor por la Palabra y disposición. Se les invita con claridad sobre lo que implica, se les da un periodo de observación o de ayudante, se les capacita y se les acompaña. Para los niños y adolescentes, hay un proceso de selección cuidadoso, con referencias y verificación, por la protección de los menores."
+    },
+    {
+     "heading": "Para quien dirige",
+     "text": "Ora por maestros. Identifica a los posibles. Capacita con regularidad. Evalúa con amor. Y reconoce públicamente su trabajo."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué me dice mi vida a mis alumnos? ¿Cómo me preparo? ¿Qué parte de mi carácter necesito que Dios trabaje?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, tú me has confiado tu Palabra y a tus hijos. Hazme un maestro fiel, humilde y lleno de amor. Que mi vida enseñe tanto como mis palabras. Amén."
+    }
+   ]
+  },
+  "plan-clase": {
+   "sections": [
+    {
+     "heading": "Preparar para enseñar",
+     "text": "Una buena clase no es improvisación, aunque deje espacio a lo inesperado. Requiere preparación sencilla, ordenada y orada. Un plan de clase es un mapa: indica a dónde queremos llegar, por dónde iremos y cuánto tiempo tenemos. Nos libra de divagar y nos ayuda a dar lo esencial. Proverbios 21:5 dice que los pensamientos del diligente ciertamente tienden a la abundancia."
+    },
+    {
+     "heading": "Paso uno: orar y leer",
+     "text": "Comienza con oración: pide a Dios que te guíe. Lee el pasaje varias veces, sin prisa, en distintas versiones. Anota lo que ves, lo que no entiendes y lo que te toca personalmente. El maestro que primero se deja enseñar por el texto enseña con autoridad y humildad. Después consulta los materiales de apoyo y recursos confiables."
+    },
+    {
+     "heading": "Paso dos: entender el pasaje",
+     "text": "Haz preguntas básicas: ¿quién escribe y a quién? ¿Cuál es el contexto? ¿Qué quiere decir el pasaje? ¿Qué nos enseña de Dios, de las personas y de Cristo? ¿Cuál es la idea central? Resume el mensaje en una sola frase. Si no puedes expresarlo brevemente, aún no está claro. Por ejemplo, en la parábola del hijo pródigo: Dios recibe con alegría al que regresa arrepentido."
+    },
+    {
+     "heading": "Paso tres: definir el objetivo",
+     "text": "Pregúntate: ¿qué quiero que mis alumnos sepan, sientan y hagan después de esta clase? Un objetivo bien formulado orienta toda la preparación. Un objetivo de conocimiento: que entiendan que Dios perdona. De corazón: que sientan gratitud por su gracia. De acción: que perdonen a alguien esta semana. No todas las clases buscan los tres, pero conviene que haya siempre aplicación."
+    },
+    {
+     "heading": "Paso cuatro: estructurar la clase",
+     "text": "Una estructura sencilla funciona en casi todas las edades. Primero, una apertura que capte la atención y conecte con la vida: una pregunta, una historia breve, una dinámica, un objeto. Segundo, el desarrollo: presentar el texto, explicarlo, descubrir su mensaje, con preguntas y participación. Tercero, la aplicación: ¿qué significa esto para mi vida? Cuarto, el cierre: resumir, orar y animar a una respuesta concreta.\n\nAlgunos maestros usan el esquema: gancho, libro, mirada, tarea. Gancho es la apertura; libro es la lectura y explicación de la Biblia; mirada es la reflexión sobre su significado; tarea es la aplicación. Se puede ajustar según la edad y el tiempo."
+    },
+    {
+     "heading": "Paso cinco: elegir métodos",
+     "text": "Varía los métodos: narración, preguntas, discusión en grupos, dramatización, dibujo, canciones, juegos, estudio de textos, testimonios, material visual. Una clase en la que solo habla el maestro cansa; una clase sin enseñanza clara no edifica. Los métodos sirven al contenido, no lo sustituyen. Jesús usó parábolas, preguntas, objetos y experiencias."
+    },
+    {
+     "heading": "Paso seis: calcular el tiempo",
+     "text": "Planea cuántos minutos dedicarás a cada parte. Es común dedicar demasiado tiempo a la introducción y quedarse sin espacio para la aplicación. Una clase de cuarenta y cinco minutos puede distribuirse así: cinco de bienvenida y apertura, quince de enseñanza bíblica, quince de discusión o actividad, cinco de aplicación y cinco de oración y cierre. Ajusta según tu grupo y deja margen."
+    },
+    {
+     "heading": "Paso siete: preparar los materiales",
+     "text": "Reúne lo que necesitas: Biblias, hojas, lápices, material visual, canciones, actividades. Prueba cualquier recurso tecnológico antes. Prepara el espacio. Llega temprano para recibir a las personas con calidez."
+    },
+    {
+     "heading": "Paso ocho: ensayar y evaluar",
+     "text": "Repasa en voz alta. Anticipa preguntas posibles. Después de la clase, evalúa: ¿se logró el objetivo? ¿Qué funcionó? ¿Qué cambiarías? ¿Quién participó y quién se quedó fuera? Una nota breve ayuda a mejorar. Y entrega a Dios el fruto."
+    },
+    {
+     "heading": "Un ejemplo de plan",
+     "text": "Pasaje: Lucas 15:11 al 24. Objetivo: que los alumnos comprendan que Dios recibe con gozo al que vuelve y respondan con gratitud. Apertura: preguntar si alguna vez se han perdido y cómo se sintieron. Libro: leer la parábola y contar la historia con preguntas, ¿qué hizo el hijo? ¿Qué hizo el padre? Mirada: ¿qué nos dice de Dios? ¿Con quién nos identificamos? Tarea: pensar en alguien a quien necesitamos recibir con gracia y dar un paso esta semana. Cierre: oración de gratitud."
+    },
+    {
+     "heading": "Para quien enseña",
+     "text": "Prepara con tiempo, no el sábado en la noche. Escribe tu objetivo. Mantén la sencillez. Cuida la aplicación. Y confía en el Espíritu."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué hago cuando preparo? ¿Tengo un objetivo claro para cada clase? ¿Dejo espacio para la aplicación?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, bendice mi preparación. Ayúdame a entender tu Palabra, a presentarla con claridad y a guiar a mis alumnos a obedecerla. Amén."
+    }
+   ]
+  },
+  "seguimiento": {
+   "sections": [
+    {
+     "heading": "Cuidar a cada oveja",
+     "text": "Jesús contó la parábola de la oveja perdida: un pastor con cien ovejas deja las noventa y nueve para buscar la que se perdió. En Lucas 15, esa parábola refleja el corazón de Dios. La escuela bíblica puede reflejarlo: nadie es un número. Cuando una persona falta, se nota, y se la busca con cariño. El seguimiento es amor en acción."
+    },
+    {
+     "heading": "Llevar un registro",
+     "text": "Un registro de asistencia sencillo es una herramienta pastoral, no un instrumento de control. Se anotan el nombre, la fecha, la asistencia, los datos de contacto y observaciones útiles: cumpleaños, necesidades de oración, situaciones familiares. Puede ser una hoja, un cuaderno o una aplicación. Debe guardarse con cuidado y respetando la privacidad, especialmente con menores.\n\nSe revisa regularmente para identificar patrones: quién falta, quién llegó nuevo, quién está dejando de venir, quién progresa."
+    },
+    {
+     "heading": "Contactar a los que faltan",
+     "text": "Cuando alguien falta una vez, conviene un mensaje amable. Si falta dos o tres veces seguidas, una llamada o visita. No se trata de reprochar, sino de expresar interés: te extrañamos, ¿cómo estás? ¿Necesitas algo? Muchas personas faltan por enfermedad, trabajo, problemas en casa, desánimo, heridas con alguien de la iglesia o simple descuido. Un contacto oportuno puede evitar que se alejen.\n\nTambién conviene contactar a las visitas nuevas dentro de la semana: agradecer su presencia, responder preguntas, invitarlas a regresar. Lo ideal es que quien las atienda sea una persona cercana al grupo."
+    },
+    {
+     "heading": "Cuidar a quienes pasan por dificultades",
+     "text": "La escuela es un buen espacio para detectar necesidades: enfermedad, desempleo, duelo, conflictos, depresión, violencia. Cuando alguien comparte una situación difícil, el maestro puede orar con la persona, ofrecer apoyo práctico y avisar al pastor o a quienes cuidan a la comunidad, con respeto a la confidencialidad. Gálatas 6:2 dice: llevad los unos las cargas de los otros, y cumplid así la ley de Cristo."
+    },
+    {
+     "heading": "Evaluar el aprendizaje",
+     "text": "Evaluar no es poner notas para juzgar, sino comprobar si se está logrando el propósito. Puede hacerse de manera sencilla: preguntas de repaso, conversaciones, pequeños ejercicios, actividades, memorización, testimonios de aplicación, observación del crecimiento del carácter. Los niños pueden mostrar lo aprendido con dibujos o dramatizaciones; los adultos, con discusión y compromisos. Lo más importante es observar si hay cambio de vida.\n\nMuchas iglesias valoran el progreso con certificados, reconocimientos o pequeñas celebraciones. Esto puede animar, siempre que no genere competencia dañina ni vergüenza para quienes aprenden con más lentitud."
+    },
+    {
+     "heading": "Evaluar la escuela",
+     "text": "Además de evaluar a los alumnos, hay que evaluar la escuela: ¿cumple su visión? ¿Cómo están la asistencia, el crecimiento, el ambiente, los materiales, los maestros? Se puede hacer una evaluación anual con una encuesta breve, reuniones de maestros y conversaciones con alumnos y padres. Se celebran los logros y se identifican áreas de mejora. Proverbios 27:23 dice: sé diligente en conocer el estado de tus ovejas, y mira con cuidado por tus rebaños."
+    },
+    {
+     "heading": "Evaluar a los maestros con amor",
+     "text": "Los maestros necesitan retroalimentación. Un coordinador puede visitar la clase, observar y conversar después con respeto: qué fue bueno, qué se puede mejorar. Más que fiscalizar, se busca acompañar y fortalecer. La evaluación debe ser mutua: los maestros también opinan sobre el apoyo que reciben."
+    },
+    {
+     "heading": "Usar los datos con sabiduría",
+     "text": "Los números ayudan, pero no lo dicen todo. Una clase pequeña puede ser muy fructífera. Una clase grande puede ser superficial. Lo que importa es el crecimiento espiritual y el cuidado de las personas. Evita compararse con otras iglesias y celebra los pasos pequeños."
+    },
+    {
+     "heading": "Informar a la iglesia",
+     "text": "Informar regularmente al pastor y a la iglesia sobre el estado de la escuela, con sus necesidades de oración y apoyo, genera participación. Una escuela que comparte historias de vidas transformadas inspira a otros a servir."
+    },
+    {
+     "heading": "Para quien dirige",
+     "text": "Revisa la asistencia semanalmente. Asigna a alguien para contactar a los ausentes. Usa evaluaciones sencillas. Y celebra los frutos."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿A quién estoy dejando de ver? ¿Qué sabemos de los que se han alejado? ¿Cómo medimos el crecimiento?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Buen Pastor, enséñanos a cuidar a cada persona como tú cuidas a tus ovejas. Que nadie se pierda por descuido nuestro. Amén."
+    }
+   ]
+  },
+  "vision": {
+   "sections": [
+    {
+     "heading": "Para qué existe la escuela bíblica",
+     "text": "La escuela bíblica, que muchas iglesias llaman escuela dominical, es el ministerio de enseñanza de la iglesia. Su propósito es ayudar a personas de todas las edades a conocer la Palabra de Dios, a creer en Cristo, a crecer en la fe y a vivir como discípulos. No es un programa más para llenar el calendario, sino una expresión de la Gran Comisión: hacer discípulos y enseñarles a guardar todo lo que Jesús mandó, según Mateo 28:19 y 20."
+    },
+    {
+     "heading": "Un mandato antiguo",
+     "text": "Dios siempre quiso que su pueblo conociera su Palabra. Deuteronomio 6:6 y 7 manda a los padres enseñarla a sus hijos en todo momento. Nehemías 8 cuenta cómo Esdras y los levitas leían la ley y ponían el sentido, de modo que el pueblo entendiese. Jesús enseñaba constantemente, y Pablo escribió a Timoteo, en Segunda de Timoteo 2:2, que lo aprendido lo encargara a hombres fieles que enseñaran también a otros. La enseñanza ha sido siempre el motor del crecimiento de la iglesia. Hechos 2:42 dice que los primeros creyentes perseveraban en la doctrina de los apóstoles."
+    },
+    {
+     "heading": "Propósitos de la escuela bíblica",
+     "text": "Podemos resumirlos en cuatro. Alcanzar: llevar el evangelio a niños, jóvenes y adultos que aún no conocen a Cristo, especialmente invitando a familiares y vecinos. Enseñar: transmitir la Palabra de manera fiel, clara y adaptada a cada edad. Edificar: formar comunidad, amistades y cuidado mutuo. Y equipar: preparar a los creyentes para servir, testificar y a su vez enseñar.\n\nEfesios 4:11 al 13 resume la meta: perfeccionar a los santos para la obra del ministerio, hasta llegar a la unidad de la fe y del conocimiento del Hijo de Dios, a un varón perfecto, a la medida de la estatura de la plenitud de Cristo. El objetivo final no es acumular información, sino parecerse a Cristo."
+    },
+    {
+     "heading": "Una visión clara",
+     "text": "Cada iglesia puede formular su visión en una frase: por ejemplo, que cada miembro de nuestra congregación conozca la Palabra y la viva. Una visión escrita orienta decisiones: qué clases ofrecer, qué materiales usar, a quién capacitar, cómo evaluar. Habacuc 2:2 habla de escribir la visión para que corra el que leyere. Sin visión, los programas se vuelven rutina.\n\nLa visión de la escuela debe estar alineada con la visión de la iglesia y respaldada por el pastor. No es un ministerio aislado, sino parte del plan general de discipulado."
+    },
+    {
+     "heading": "Principios para una escuela sana",
+     "text": "Centrada en la Biblia: la Palabra es el contenido, no las opiniones del maestro. Centrada en Cristo: todo señala a él y al evangelio. Adaptada a las personas: cada edad aprende de manera distinta. Basada en relaciones: se enseña a personas, no solo contenidos. Dependiente del Espíritu: la oración precede y acompaña. Y orientada a la vida: busca transformación, no solo información."
+    },
+    {
+     "heading": "Los frutos",
+     "text": "Se reconoce una escuela sana por sus frutos: personas que conocen mejor la Biblia, que oran, que sirven, que traen a otros, que crecen en carácter, que forman nuevos maestros. No se mide solo por la asistencia, aunque esta sea importante, sino por el crecimiento espiritual."
+    },
+    {
+     "heading": "Peligros",
+     "text": "Algunos peligros comunes: convertir la clase en una conferencia aburrida, descuidar a los niños y jóvenes, depender de un solo maestro, usar materiales sin evaluarlos, enseñar sin preparación, olvidar la oración, medir el éxito solo por números, o no dar seguimiento a los que faltan."
+    },
+    {
+     "heading": "Para quien dirige",
+     "text": "Define con tus líderes por qué existe la escuela en tu iglesia. Escribe una visión sencilla. Ora por cada clase y cada maestro. Revisa periódicamente si estás cumpliendo el propósito."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Por qué existe la escuela bíblica en mi iglesia? ¿Qué fruto estamos viendo? ¿Qué debería cambiar?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, tú nos mandaste enseñar. Danos una visión clara para la escuela bíblica, maestros fieles y un corazón dispuesto a aprender. Amén."
+    }
+   ]
+  }
+ }
+}

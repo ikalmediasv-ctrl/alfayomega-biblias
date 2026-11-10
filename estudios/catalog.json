@@ -1,0 +1,136 @@
+{
+ "courses": [
+  {
+   "id": "doctrinas",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/doctrinas.json",
+   "sha256": "78c32d73ab24d013bf04dde46bc642548c17a44ace0f3885df6a81cfd2002960"
+  },
+  {
+   "id": "escatologia",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/escatologia.json",
+   "sha256": "6c750f0aec7f66c5aec45b6af6e456a6709870ce476690774fc4f788f6f0d78a"
+  },
+  {
+   "id": "hermeneutica",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/hermeneutica.json",
+   "sha256": "15dd0b2e163d65869a41f164eb70d6177890b119718290295a49d5f5e20eceb7"
+  },
+  {
+   "id": "libros",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/libros.json",
+   "sha256": "148de373de08075c265f8676d6df655875ce8967f4d5aa241a3ebd941fb521e6"
+  },
+  {
+   "id": "parabolas",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/parabolas.json",
+   "sha256": "84ddfd8b3160be64ed9726e554161453b29fd67b49a5b99e45c7ba3b71e3afe4"
+  },
+  {
+   "id": "milagros",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/milagros.json",
+   "sha256": "d83854e14f33ba31ebe09c03338b136e076dc5f79c8b2e66bc130e9eb7555343"
+  },
+  {
+   "id": "mesianicas",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/mesianicas.json",
+   "sha256": "08650356017f9daa58be5bf8b110494bff9880a1f16fe7aa16217273ad8fb69c"
+  },
+  {
+   "id": "pactos",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/pactos.json",
+   "sha256": "a82576c343e73d69e8d57f224b8d8ec4251e5f0ca2c25a3518fae54b703f08b6"
+  },
+  {
+   "id": "tabernaculo",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/tabernaculo.json",
+   "sha256": "4b4820a10937041480238c74aa1a9a884b8940e3436b2ef2983d61d60baeae4b"
+  },
+  {
+   "id": "personajes",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/personajes.json",
+   "sha256": "8a221ecd395c3f5255b84fbeea683d721e04ee323a361f8845d7464ff857ecdc"
+  },
+  {
+   "id": "temas",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/temas.json",
+   "sha256": "35812073eecc6d5852c0ce848c796fecd51eb8b398c81672af95e3422f1e87a8"
+  },
+  {
+   "id": "apologetica",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/apologetica.json",
+   "sha256": "16825ffa286e0cf5d08818604f8aecff195402a4efca67efd9ffa903c5bf2adb"
+  },
+  {
+   "id": "homiletica",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/homiletica.json",
+   "sha256": "69ca815aa2829c5e70be0bfb60f0ec28ba9a693a0a4ce1ce4f081fe879de7c84"
+  },
+  {
+   "id": "matrimonio",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/matrimonio.json",
+   "sha256": "a8d6e1092c49b30bf2fe33d1219656b85cddb089e6184da8045aa1329dc6d0cf"
+  },
+  {
+   "id": "mujeres",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/mujeres.json",
+   "sha256": "40c2ceaa5cffd394a3486f2e08560f26203e5a9f7721d0ae231c7c5f36a20f1f"
+  },
+  {
+   "id": "ocasiones",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/ocasiones.json",
+   "sha256": "1f0f134958c99943c289d428cb3a3f5fce7edf69f49b366b1c9e115e3771da75"
+  },
+  {
+   "id": "escuela-org",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/escuela-org.json",
+   "sha256": "343ca5cfb26580871d8e22dd3af75b1e91d7ecbfe7a13ca9342b7c0d4f619dcb"
+  },
+  {
+   "id": "escuela-ninos",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/escuela-ninos.json",
+   "sha256": "62cb4bca98539810efa42f6fd04e7d6c33c3029bd26aa841d1943aa85703a482"
+  },
+  {
+   "id": "escuela-jovenes",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/escuela-jovenes.json",
+   "sha256": "9ed82e57ef365a49c8f7f30bc29659cbc31e35f7ff32b917904d0950eb980b73"
+  },
+  {
+   "id": "escuela-adultos",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/escuela-adultos.json",
+   "sha256": "868aef0ebbf8138088b3d4feed9377099c794344082fd8e0e041ac7a661b6e37"
+  },
+  {
+   "id": "responder",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/responder.json",
+   "sha256": "edca1a59caa300e7bc04d78223a9a35ca4002556de65f10c5d893c519f2a7fca"
+  },
+  {
+   "id": "palabras",
+   "version": "1.0.0",
+   "url": "https://raw.githubusercontent.com/ikalmediasv-ctrl/alfayomega-biblias/main/estudios/palabras.json",
+   "sha256": "fcb6436ec3e9d0ce84e8a9e531b901ae4ac70b9a3201ae954104616a6e77d879"
+  }
+ ]
+}

@@ -1,0 +1,439 @@
+{
+ "format_version": 1,
+ "course": "homiletica",
+ "version": "1.0.0",
+ "lessons": {
+  "aplicar": {
+   "sections": [
+    {
+     "heading": "De la información a la transformación",
+     "text": "Un sermón que explica pero no aplica deja a los oyentes informados y sin cambios. La aplicación responde a la pregunta: ¿y esto qué tiene que ver conmigo? Santiago 1:22 dice: sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos. La predicación bíblica busca que la Palabra se haga vida.\n\nSegunda de Timoteo 3:16 describe el propósito de la Escritura: es útil para enseñar, para redargüir, para corregir, para instruir en justicia. Enseñar es solo el primer paso. La Palabra también convence, corrige y forma. Un sermón sin aplicación omite la mitad de su propósito."
+    },
+    {
+     "heading": "Qué es aplicar",
+     "text": "Aplicar es conectar la verdad del texto con la vida concreta de los oyentes: qué creer, qué sentir, qué hacer. Implica pasar de lo que el texto significó para los primeros lectores a lo que significa hoy, manteniendo el mismo principio. No se trata de añadir un par de consejos al final, sino de mostrar cómo la verdad cambia la manera de pensar y vivir.\n\nUna buena aplicación es específica, no genérica. Decir que debemos amar más no mueve a nadie; decir que esta semana busquemos reconciliarnos con alguien con quien estamos distanciados, sí. Es realista, que se pueda hacer. Y está ligada al texto: nace de la verdad que se acaba de explicar."
+    },
+    {
+     "heading": "Preguntas para aplicar",
+     "text": "El predicador puede hacerse preguntas al preparar: ¿qué debo creer? ¿Qué debo dejar de hacer? ¿Qué debo comenzar a hacer? ¿Qué actitud debe cambiar? ¿A quién debo perdonar, servir o visitar? ¿Qué promesa me consuela? ¿Qué pecado me confronta? También considerar a los distintos oyentes: jóvenes, ancianos, casados, solteros, quienes sufren, quienes no conocen a Cristo."
+    },
+    {
+     "heading": "Gracia y no solo mandato",
+     "text": "Un riesgo es aplicar como si fuera una lista de tareas, que produce culpa o legalismo. La aplicación cristiana nace del evangelio: obedecemos como respuesta a lo que Dios ha hecho, y por el poder del Espíritu. Cada aplicación debe recordar quién nos capacita. Por eso Pablo funda los imperativos en los indicativos: Efesios 4 al 6 exhorta a vivir de cierta manera, después de haber explicado en los capítulos 1 al 3 lo que Dios ha hecho. Sin la base del evangelio, la aplicación se vuelve moralismo.\n\nHay que evitar usar el sermón para regañar. La corrección a veces es necesaria, pero con amor. Y hay que ofrecer esperanza: la Palabra no solo señala el problema, sino también la solución en Cristo."
+    },
+    {
+     "heading": "El llamado",
+     "text": "El llamado es la invitación a responder. Puede ser una invitación a recibir a Cristo, a arrepentirse, a rendir un área de la vida, a reconciliarse, a orar, a servir. Hechos 2:37 al 41 muestra que, después del sermón de Pedro, la gente preguntó qué debían hacer, y Pedro les dio una respuesta concreta: arrepentíos, y bautícese cada uno. Un llamado claro ayuda a los oyentes a dar pasos.\n\nEl llamado puede tomar distintas formas: orar en el lugar, pasar al frente, hablar con alguien, escribir una decisión, tomar un tiempo de silencio. Lo importante es que no manipule emocionalmente, ni presione para decisiones superficiales, ni sustituya la obra del Espíritu. Quien llama debe dejar espacio a Dios."
+    },
+    {
+     "heading": "Dar tiempo a la respuesta",
+     "text": "Un sermón concluye mejor con un momento para responder: una oración final, un canto, un silencio, un acompañamiento. Esto permite que la Palabra repose en el corazón. Cuando el pastor y la iglesia ofrecen oración personal o consejería tras el culto, el mensaje continúa su obra."
+    },
+    {
+     "heading": "Aplicación que nace de la vida del predicador",
+     "text": "Es difícil aplicar con sinceridad lo que uno no vive. El predicador que aplica primero a sí mismo habla con autoridad y humildad. Usar el nosotros en vez del ustedes ayuda: nosotros necesitamos perdonar. Y compartir cuándo ha fallado, con prudencia, muestra que la Palabra también nos desafía a nosotros."
+    },
+    {
+     "heading": "Seguimiento",
+     "text": "La aplicación no termina el domingo. Se puede ayudar con preguntas para grupos pequeños, tareas devocionales para la semana, o recordatorios. Una iglesia que habla de lo oído durante la semana madura más."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Escribe al menos una aplicación concreta por sermón. Piensa en los distintos oyentes. Funda cada llamado en el evangelio. Y ora para que el Espíritu haga su obra."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué debo hacer con lo que escuché la última vez que me predicaron? ¿Mis sermones terminan en una respuesta clara? ¿Aplico primero a mí mismo?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, ayúdame a ser hacedor de tu Palabra y no solo oidor. Que cada sermón lleve a quienes lo escuchan a una respuesta de fe y obediencia. Amén."
+    }
+   ]
+  },
+  "estructura": {
+   "sections": [
+    {
+     "heading": "Un sermón con rumbo",
+     "text": "Un buen sermón tiene una estructura clara: una introducción que despierta interés, una idea central que organiza el mensaje, puntos que la desarrollan y una conclusión que lleva a la respuesta. Sin estructura, el sermón pierde a los oyentes. Con ella, la congregación sabe dónde está y hacia dónde va. La estructura no es una camisa de fuerza, sino un esqueleto que sostiene la carne."
+    },
+    {
+     "heading": "La introducción",
+     "text": "La introducción tiene tres tareas: captar la atención, despertar la necesidad del tema y conducir al texto. Puede comenzar con una pregunta, una historia breve, una situación común, un dato impactante. Debe ser breve, generalmente no más de un diez por ciento del sermón. Evita las disculpas, las bromas forzadas y los rodeos. Una buena introducción hace que los oyentes quieran escuchar lo que sigue.\n\nEs mejor que la introducción nazca del texto o conecte con él. Una anécdota sin relación con el tema distrae. Y conviene que genere una necesidad: si la gente siente que el tema le importa, escuchará con interés."
+    },
+    {
+     "heading": "La proposición",
+     "text": "La proposición, también llamada idea central o tesis, es la verdad principal del sermón expresada en una sola frase clara. Por ejemplo: Dios nos acepta por gracia, no por obras. O: la oración perseverante transforma al que ora. Todo el sermón gira alrededor de esta idea. Si no puedes decirla en una oración, tal vez el sermón aún no está claro.\n\nLa proposición suele aparecer al final de la introducción. Debe ser breve, concreta, en tiempo presente y dirigida a la vida de los oyentes. Una buena prueba es preguntarse: si los oyentes recuerdan una sola cosa, ¿cuál quiero que sea?"
+    },
+    {
+     "heading": "Los puntos",
+     "text": "Los puntos desarrollan la proposición. Suelen ser dos a cuatro. Más puntos fatigan, menos pueden quedar cortos. Deben estar relacionados con la idea central, ser distintos entre sí y seguir un orden lógico. Conviene formularlos con parecido de estilo, como frases completas o con una misma estructura, para facilitar la memoria. Algunos predicadores usan la aliteración, como cinco palabras que empiezan con la misma letra, pero sin forzar.\n\nCada punto debe tener tres elementos: explicación, qué dice el texto; ilustración, ejemplo que lo hace visible; y aplicación, qué significa para la vida de hoy. Este patrón evita que el sermón se vuelva una serie de afirmaciones abstractas."
+    },
+    {
+     "heading": "Las transiciones",
+     "text": "Entre un punto y otro hacen falta transiciones, frases que conectan: hemos visto que Dios nos ama; veamos ahora cómo responder. Ayudan a los oyentes a seguir el hilo, y dan un respiro entre ideas. Son pequeñas, pero importantes."
+    },
+    {
+     "heading": "La conclusión",
+     "text": "La conclusión es el momento en que el sermón aterriza. Resume la idea central, repite lo esencial y llama a la respuesta. No debe introducir ideas nuevas ni alargarse. Una buena conclusión puede terminar con una ilustración, una pregunta, una oración o una invitación concreta. Algunos sermones se echan a perder por dar vueltas sin aterrizar, como un avión que no encuentra pista.\n\nConviene preparar la conclusión con especial cuidado, a veces escribirla completa, para que sea clara y fuerte. Y terminar cuando se terminó: no prolongar innecesariamente."
+    },
+    {
+     "heading": "Un ejemplo breve",
+     "text": "Texto: Efesios 2:8 y 9. Introducción: la pregunta de cómo se gana el favor de Dios. Proposición: la salvación es un regalo que se recibe, no un premio que se gana. Punto uno: es por gracia, el favor inmerecido de Dios. Punto dos: es por medio de la fe, la mano que recibe. Punto tres: no es por obras, para que nadie se gloríe. Conclusión: recibir el regalo con gratitud y vivir las buenas obras como respuesta."
+    },
+    {
+     "heading": "Longitud y ritmo",
+     "text": "El tiempo del sermón varía según la cultura y la iglesia, entre veinte y cuarenta y cinco minutos. Lo importante no es la duración, sino que cada minuto tenga sentido. Conviene variar el ritmo, alternando explicación, ilustración y aplicación, y mantener la atención con claridad y viveza."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Escribe la proposición antes de preparar los puntos. Revisa que cada punto sirva a esa idea. Prepara introducción y conclusión con especial cuidado. Y ensaya el sermón en voz alta para detectar partes confusas."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Puedo decir en una frase la idea central de mi último sermón? ¿Mi introducción conecta con el texto? ¿Mi conclusión lleva a una respuesta concreta?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, ayúdame a preparar mensajes claros y ordenados, que lleven a tu pueblo a conocerte y obedecerte. Amén."
+    }
+   ]
+  },
+  "expositivo": {
+   "sections": [
+    {
+     "heading": "Dejar que el texto hable",
+     "text": "El sermón expositivo explica un pasaje de la Escritura y deja que el texto determine el mensaje. El tema, las divisiones y la aplicación nacen del pasaje, no se le imponen. El predicador no usa el texto como trampolín para sus ideas; se pone bajo el texto, como un siervo. Muchos consideran que es el método más fiel para alimentar a la iglesia, porque va enseñando toda la Biblia, no solo los temas favoritos.\n\nNehemías 8:8 es un modelo: leían en el libro de la ley de Dios claramente, y ponían el sentido, de modo que entendiesen la lectura. Jesús expuso la Escritura a los discípulos de Emaús, según Lucas 24:27: comenzando desde Moisés, y siguiendo por todos los profetas, les declaraba en todas las Escrituras lo que de él decían."
+    },
+    {
+     "heading": "Cómo se prepara",
+     "text": "El proceso comienza con la oración y la lectura repetida del pasaje. Luego se estudia el contexto: ¿quién escribió, a quién, por qué? ¿Qué lugar ocupa el pasaje dentro del libro? Se observa lo que dice: palabras repetidas, conectores, verbos, imágenes. Se consultan el significado de términos clave y comentarios fiables. Se identifica la idea central del autor: de qué habla y qué dice sobre ello.\n\nUna fórmula útil: el sujeto es de qué habla el pasaje, el complemento es qué dice sobre eso. Por ejemplo, en el Salmo 23, el sujeto es el Señor como pastor, y el complemento es que cuida de todas las necesidades de su pueblo. Esa frase se convierte en la idea central del sermón."
+    },
+    {
+     "heading": "De la idea al sermón",
+     "text": "Con la idea central clara, se estructura el sermón siguiendo el movimiento del texto. Si el pasaje tiene tres movimientos, el sermón tendrá tres puntos que reflejen esos movimientos. Se sigue el orden del pasaje, y los puntos se enuncian preferiblemente como verdades, con lenguaje claro y actual. Luego se explica cada uno, se ilustra y se aplica.\n\nTomemos Romanos 12:1 y 2. Un posible esquema expositivo: primero, la base de la entrega, las misericordias de Dios; segundo, la naturaleza de la entrega, un sacrificio vivo; tercero, la transformación que resulta, no conformarse sino renovarse. Cada punto sale del texto mismo."
+    },
+    {
+     "heading": "Longitud del pasaje",
+     "text": "Un sermón expositivo puede cubrir un versículo, un párrafo, un capítulo o incluso un libro entero en forma de resumen. Lo importante es que el predicador sepa qué parte del pasaje destacará y por qué. Un pasaje largo requerirá resumir partes y detenerse en otras. Un pasaje corto permitirá más profundidad."
+    },
+    {
+     "heading": "Series expositivas",
+     "text": "Predicar un libro de la Biblia, versículo por versículo o sección por sección, tiene ventajas: obliga al predicador a tratar temas incómodos, enseña a la iglesia cómo se lee la Biblia, y evita la tentación de predicar siempre lo mismo. También exige disciplina para no alargar la serie sin necesidad. Muchas veces conviene alternar libros largos con otros más breves."
+    },
+    {
+     "heading": "Ventajas",
+     "text": "El sermón expositivo da autoridad a la Palabra, no al predicador. Protege contra los temas personales y las modas. Forma a la congregación para entender la Biblia por sí misma. Y mantiene la humildad del predicador, que depende del texto."
+    },
+    {
+     "heading": "Riesgos",
+     "text": "Hay riesgos si se hace mal. Puede volverse un comentario seco, con información sin aplicación. O un recorrido sin dirección, verso por verso, sin idea central. O un ejercicio técnico sin corazón. Un buen sermón expositivo es fiel al texto y a la vez vivo, cercano, aplicado. Spurgeon decía que debemos llenar el sermón de Cristo."
+    },
+    {
+     "heading": "Cristo en el texto",
+     "text": "El predicador cristiano se pregunta cómo el pasaje señala a Cristo y el evangelio, sin forzar el texto. Un pasaje del Antiguo Testamento puede mostrar la necesidad de un salvador, anticipar su obra o revelar el carácter de Dios que se cumple en Jesús. Un buen sermón no queda en moralismo, como solo imitar a David, sino que muestra cómo Dios obra y cómo Cristo cumple."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Practica el ejercicio de resumir cada pasaje en una frase antes de empezar el sermón. Ora con el texto. Resiste la tentación de decir todo lo que sabes. Y asegúrate de aplicar."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Dejo que el texto marque el sermón o impongo mis ideas? ¿Puedo resumir el pasaje de este domingo en una frase? ¿Dónde aparece Cristo en él?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, ayúdame a predicar lo que tu Palabra dice, ni más ni menos. Que yo desaparezca y que tu voz se escuche. Amén."
+    }
+   ]
+  },
+  "ilustrar": {
+   "sections": [
+    {
+     "heading": "Ventanas en la casa del sermón",
+     "text": "Spurgeon dijo que las ilustraciones son las ventanas del sermón: dejan entrar la luz. Una ilustración hace visible una verdad abstracta. Convierte una idea en imagen, una doctrina en una escena. Jesús era un maestro de la ilustración: sembradores, ovejas, monedas, hijos perdidos, lirios del campo, semillas de mostaza. Marcos 4:34 dice que sin parábolas no les hablaba. Seguir su ejemplo no es un adorno, sino un método de enseñanza."
+    },
+    {
+     "heading": "Para qué sirven",
+     "text": "Una buena ilustración aclara. Hace comprensible una idea difícil. Si explicamos la justificación como una declaración de un juez, el oyente entiende mejor.\n\nTambién persuade. Una historia puede tocar el corazón donde un argumento no llega. Natán usó una parábola ante David, y el rey se vio a sí mismo en ella.\n\nAyuda a recordar. La gente olvida las explicaciones, pero recuerda las imágenes y las historias.\n\nY descansa. Después de un tramo de explicación, una ilustración da un respiro a la mente, y renueva la atención."
+    },
+    {
+     "heading": "Fuentes de ilustraciones",
+     "text": "La primera y mejor fuente es la Biblia misma. Las historias bíblicas son ejemplos vivos: Abraham, Daniel, Pedro. Conviene contarlas con viveza y fidelidad, sin añadir detalles que no están.\n\nOtra fuente es la vida cotidiana: el trabajo, la familia, la naturaleza, el mercado, el transporte, los deportes. Cuanto más cercana a la audiencia, mejor. Un predicador atento observa la realidad, y de ella saca imágenes.\n\nLa historia, la biografía y la ciencia pueden ofrecer ejemplos, con cuidado de que sean verdaderos y bien comprendidos. La literatura y las noticias también. Y la experiencia personal del predicador, con humildad y prudencia, puede ser poderosa."
+    },
+    {
+     "heading": "Cómo usarlas bien",
+     "text": "Primero, que sirvan al punto. Una ilustración no debe lucirse por sí misma. Si el oyente recuerda la historia, pero no la verdad que ilustraba, falló. Segundo, que sean breves y claras. Tercero, que sean verdaderas. No se debe inventar un relato presentándolo como real. Si es una imagen hipotética, conviene decirlo: imagina que… Cuarto, que sean respetuosas, sin exponer a personas identificables sin permiso, ni contar confidencias de un consejo pastoral. Quinto, que no se abuse de ellas: una ilustración por punto suele bastar.\n\nHay que tener cuidado con las historias que se vuelven el centro del sermón. La Palabra es lo central. Y con las anécdotas sentimentales para manipular emociones. Una historia emotiva puede abrir el corazón, pero no debe sustituir la verdad."
+    },
+    {
+     "heading": "Hablar con imágenes",
+     "text": "Ilustrar no solo es contar historias. También se hace con comparaciones, metáforas, ejemplos breves, objetos, preguntas. Decir que la Palabra es una lámpara, y mostrar una lámpara, ayuda. Usar un lenguaje concreto en lugar de abstracto también ilumina: en vez de decir que la fe implica confianza, decir que es como sentarse en una silla sin comprobar si aguanta.\n\nLos medios visuales, como imágenes o diapositivas, pueden apoyar, si se usan con moderación y se evita que distraigan o sustituyan la explicación."
+    },
+    {
+     "heading": "Cuidar la verdad y la fidelidad",
+     "text": "Un riesgo es que una ilustración distorsione la doctrina. Algunas imágenes comunes, como explicar la Trinidad con el agua en tres estados, son inexactas y pueden sugerir errores. Hay que probarlas: ¿refleja bien la verdad? Si no, mejor otra imagen o reconocer que ninguna analogía es perfecta."
+    },
+    {
+     "heading": "Construir un archivo",
+     "text": "Es útil guardar ilustraciones: anotar lo que se lee, se oye o se observa, clasificarlas por tema. Pero también cuidar la originalidad y citar fuentes cuando corresponda. Las mejores ilustraciones muchas veces son las que nacen de la propia vida y del entorno de la gente."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Observa tu entorno con atención. Usa la Biblia como principal fuente. Asegura que cada ilustración aclare el punto. Y sé veraz."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Cuál fue la última ilustración que ayudó a alguien a entender mi mensaje? ¿Estoy usando historias para manipular o para aclarar? ¿Qué imágenes de la vida cotidiana podrían ayudar a mi congregación?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, tú enseñaste con imágenes sencillas. Dame sensibilidad para ver tu verdad en lo cotidiano y palabras claras para que otros la vean. Amén."
+    }
+   ]
+  },
+  "pasos": {
+   "sections": [
+    {
+     "heading": "Una guía práctica",
+     "text": "Después de ver las partes del sermón, reunimos todo en una guía de pasos para preparar un mensaje, de principio a fin. No es una fórmula rígida, pues cada predicador desarrolla su método, pero ofrece un orden que ayuda, sobre todo a quienes empiezan. Conviene prepararse con tiempo: muchos recomiendan comenzar al menos una semana antes y dedicar varias horas, repartidas en distintos días, para que las ideas maduren."
+    },
+    {
+     "heading": "Paso uno: orar y elegir el texto",
+     "text": "Comienza pidiendo dirección al Señor. Elige el pasaje, ya sea siguiendo una serie, atendiendo una necesidad de la iglesia o respondiendo al calendario. Un predicador sabio planea con anticipación: un plan anual o trimestral evita la ansiedad de buscar tema cada semana."
+    },
+    {
+     "heading": "Paso dos: leer y observar",
+     "text": "Lee el pasaje varias veces, en distintas versiones. Anota lo que ves: personajes, acciones, repeticiones, contrastes, palabras clave, estructura. Hazte preguntas: ¿qué dice? ¿Qué no entiendo? Evita saltar demasiado pronto a los comentarios; primero deja que el texto te hable."
+    },
+    {
+     "heading": "Paso tres: estudiar el contexto",
+     "text": "Investiga el autor, la fecha, los destinatarios, la situación histórica, el lugar en el libro. Lee lo que precede y lo que sigue. Averigua el significado de palabras y costumbres que no se conocen. Compara con otros pasajes relacionados. Recuerda que el contexto determina el sentido."
+    },
+    {
+     "heading": "Paso cuatro: consultar ayudas",
+     "text": "Después de tu propio estudio, consulta comentarios, diccionarios bíblicos y otras herramientas. Elige obras confiables, de autores de distintas perspectivas. Úsalas para confirmar, corregir y enriquecer, no para sustituir tu estudio. Segunda de Pedro 1:20 y 21 recuerda que la Escritura no es de interpretación privada, sino que se entiende dentro de la comunidad de fe."
+    },
+    {
+     "heading": "Paso cinco: descubrir la idea central",
+     "text": "Responde en una frase: ¿de qué trata el pasaje y qué dice sobre ello? Esa es la idea del autor bíblico. Luego formúlala como una verdad para hoy: la proposición del sermón. Pregúntate: ¿cómo señala este texto a Cristo y al evangelio?"
+    },
+    {
+     "heading": "Paso seis: estructurar",
+     "text": "Organiza el material: introducción, proposición, puntos, transiciones, conclusión. Cada punto debe nacer del texto y servir a la idea central. Elimina lo que no sirve, aunque sea interesante. Es mejor decir pocas cosas bien que muchas a medias."
+    },
+    {
+     "heading": "Paso siete: ilustrar y aplicar",
+     "text": "Busca ilustraciones para cada punto, especialmente en la Biblia y en la vida cotidiana. Piensa en aplicaciones concretas para los distintos oyentes. Prepara un llamado claro, que lleve a una respuesta."
+    },
+    {
+     "heading": "Paso ocho: redactar y ensayar",
+     "text": "Algunos escriben el sermón completo, otros solo un bosquejo detallado. Lo importante es dominar el contenido. Ensaya en voz alta, de pie, con el tiempo en mente. Esto revela partes confusas, frases largas y puntos débiles. Piensa en la voz, el ritmo, las pausas, el contacto visual y el lenguaje corporal, de forma natural y sincera."
+    },
+    {
+     "heading": "Paso nueve: orar y predicar",
+     "text": "Antes de predicar, ora por ti, por los oyentes y por el poder del Espíritu. Predica con claridad, pasión y humildad. Confía en que Dios obra más allá de lo que ves. Si cometes un error, sigue adelante con calma."
+    },
+    {
+     "heading": "Paso diez: evaluar",
+     "text": "Después del sermón, reflexiona: ¿qué salió bien? ¿Qué pude mejorar? Pide opiniones a una persona de confianza. Si es posible, graba el audio y escúchalo. Cada sermón es una oportunidad de aprender. Y entrega el resultado a Dios: Isaías 55:11 dice que la palabra que sale de su boca no volverá a él vacía."
+    },
+    {
+     "heading": "Calendario sugerido",
+     "text": "Una distribución posible: el lunes, orar y leer el texto; martes y miércoles, estudio y consulta; jueves, estructura; viernes, ilustraciones y aplicación; sábado, ensayo; domingo, oración y predicación. Cada predicador ajusta según su situación, pero tener un ritmo ayuda mucho."
+    },
+    {
+     "heading": "Si se trata de una situación inesperada",
+     "text": "A veces hay que preparar un mensaje con poco tiempo. En ese caso, conviene recurrir a textos y temas que se conocen bien, mantener una estructura simple, y depender de la oración. Un predicador con un hábito constante de estudio puede responder mejor en esos momentos."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Adopta un ritmo semanal. Mantén un cuaderno de ideas. Guarda tus bosquejos. Y busca crecer cada año en alguna habilidad concreta."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué paso de este proceso suelo descuidar? ¿Cuánto tiempo dedico a preparar? ¿A quién puedo pedir que evalúe mis mensajes?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, bendice la preparación de cada mensaje. Dame disciplina para estudiar, sabiduría para estructurar y humildad para depender de ti. Amén."
+    }
+   ]
+  },
+  "predicador": {
+   "sections": [
+    {
+     "heading": "El mensajero importa",
+     "text": "Se ha dicho que Dios no usa solo un mensaje, sino a un hombre o una mujer. Un sermón se predica con palabras, pero también con una vida. Pablo le escribió a Timoteo, en Primera de Timoteo 4:16: ten cuidado de ti mismo y de la doctrina; persiste en ello, pues haciendo esto, te salvarás a ti mismo y a los que te oyeren. Primero cuida de ti, luego de la enseñanza. Un predicador descuidado en su propia vida espiritual termina hablando de lo que no vive."
+    },
+    {
+     "heading": "La vida de oración",
+     "text": "La oración es la base de la predicación. Los apóstoles lo entendieron: Hechos 6:4 dice que ellos se dedicarían a la oración y al ministerio de la palabra. Primero la oración, luego la palabra. Orar por el texto, por el sermón, por los oyentes, por la propia humildad, por la obra del Espíritu. Hay quienes dicen que se debe hablar más con Dios de los hombres que con los hombres de Dios. Una oración sincera antes de predicar prepara el corazón.\n\nCharles Spurgeon aconsejaba a sus estudiantes que no dejaran la oración, ya que sin ella los sermones serían como tinieblas. Un sermón preparado de rodillas suele tener más peso, no por la técnica, sino por la dependencia."
+    },
+    {
+     "heading": "El estudio",
+     "text": "La preparación intelectual es parte de la fidelidad. Segunda de Timoteo 2:15 dice: procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que usa bien la palabra de verdad. Esto exige tiempo de estudio: leer la Biblia con atención, consultar buenos recursos, conocer el idioma, el contexto y la teología. También leer ampliamente: historia, biografías, literatura, para entender el mundo de los oyentes.\n\nEl estudio personal de la Palabra no debe limitarse a preparar sermones. El predicador necesita alimentarse él mismo, leer la Biblia como creyente, no solo como maestro. De lo contrario se vacía."
+    },
+    {
+     "heading": "Una vida íntegra",
+     "text": "Primera de Timoteo 4:12 dice: ninguno tenga en poco tu juventud, sino sé ejemplo de los creyentes en palabra, conducta, amor, espíritu, fe y pureza. La credibilidad de un predicador depende de su coherencia. Los escándalos de líderes han dañado a muchas iglesias y alejado a personas de Cristo. Por eso es vital la integridad en el dinero, la moral, la familia, las palabras y el uso del poder.\n\nLa integridad requiere rendición de cuentas: tener personas de confianza que pregunten y señalen. Un predicador que no puede ser corregido está en peligro. Y cuidar la propia casa, como se enseña en Primera de Timoteo 3, es parte del ministerio."
+    },
+    {
+     "heading": "La dependencia del Espíritu",
+     "text": "Pablo escribe en Primera de Corintios 2:1 al 5 que no vino con excelencia de palabras, sino con demostración del Espíritu y de poder, para que la fe de ellos no esté fundada en la sabiduría de los hombres, sino en el poder de Dios. Ningún predicador convierte a nadie. Es el Espíritu quien convence, ilumina y transforma. Esto libera de dos cargas: la de creer que el resultado depende de nuestra elocuencia, y la de pensar que no hace falta preparación. Hacemos nuestra parte con diligencia y confiamos en que Dios haga la suya."
+    },
+    {
+     "heading": "La humildad",
+     "text": "Los predicadores enfrentan tentaciones propias: el orgullo cuando son elogiados, el desánimo cuando son criticados, la comparación con otros, la tentación de agradar a las personas en vez de a Dios. Gálatas 1:10 dice: ¿busco ahora el favor de los hombres, o el de Dios? Si todavía agradara a los hombres, no sería siervo de Cristo. Aceptar críticas con humildad, discernir las que son justas, y descansar en el llamado de Dios protege del orgullo y del desánimo."
+    },
+    {
+     "heading": "El amor por la gente",
+     "text": "Un predicador que no ama a su congregación predica con frialdad. Pablo decía a los tesalonicenses que les habría entregado no solo el evangelio, sino también sus propias vidas, porque les habían llegado a ser muy queridos. El amor se refleja en la preparación cuidadosa, en la paciencia, en el conocimiento de las necesidades reales de la gente, en el cuidado pastoral durante la semana."
+    },
+    {
+     "heading": "Cuidar la salud y el descanso",
+     "text": "Muchos siervos se agotan. Elías, tras su victoria, se hundió en el desánimo. Jesús se retiraba para descansar y orar. Cuidar el cuerpo, descansar, tener tiempo en familia, pasatiempos y amigos no es egoísmo, sino mayordomía. Un predicador agotado predica mal y sufre."
+    },
+    {
+     "heading": "El llamado",
+     "text": "La predicación comienza con un llamado de Dios, confirmado por la iglesia. Pablo dice, en Primera de Corintios 9:16: ¡ay de mí si no anunciare el evangelio! Quien siente ese llamado debe cultivarlo, formarse y servir con fidelidad. Quien lo dude puede hablar con su pastor y pedir orientación."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Reserva tiempo diario de oración y lectura personal. Mantén amistades que te digan la verdad. Cuida tu integridad en lo pequeño. Y descansa."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Cómo está mi vida de oración? ¿A quién rindo cuentas? ¿Vivo lo que predico?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, prepara al mensajero antes que al mensaje. Haz mi vida coherente con tu Palabra, llena mi corazón de amor y dependo de tu Espíritu. Amén."
+    }
+   ]
+  },
+  "que-es": {
+   "sections": [
+    {
+     "heading": "El arte de preparar y predicar",
+     "text": "La homilética es la disciplina que estudia cómo preparar y presentar sermones. La palabra viene del griego homilía, que significa conversación o conversación familiar. Es el arte y la ciencia de comunicar la Palabra de Dios de manera fiel, clara y pertinente. No sustituye al Espíritu Santo, pero sí es una forma de cooperar con él: Dios usa mentes y corazones preparados.\n\nPara quien predica, la homilética es una ayuda; para quien escucha, es una garantía de que se le dará alimento y no solo palabras. Si la hermenéutica enseña a interpretar la Biblia, la homilética enseña a transmitir lo que se interpretó."
+    },
+    {
+     "heading": "La predicación en la Biblia",
+     "text": "Desde el principio, Dios habló por sus siervos. Moisés, los profetas, los sacerdotes y los escribas enseñaron la ley al pueblo. Nehemías 8:8 cuenta que Esdras y los levitas leían en el libro de la ley de Dios claramente, y ponían el sentido, de modo que entendiesen la lectura. Ese es un modelo de predicación: leer, explicar y aplicar.\n\nJesús predicó en sinagogas, montes y casas. Los apóstoles anunciaron el evangelio a multitudes y personas. Pablo exhortó a Timoteo, en Segunda de Timoteo 4:2: que prediques la palabra; que instes a tiempo y fuera de tiempo; redarguye, reprende, exhorta con toda paciencia y doctrina. La predicación ocupa un lugar central en la vida de la iglesia. Romanos 10:14 pregunta: ¿cómo oirán sin haber quien les predique?"
+    },
+    {
+     "heading": "Qué es un buen sermón",
+     "text": "Un buen sermón tiene varias cualidades. Es bíblico: su mensaje viene del texto, no de las ideas del predicador. Es cristocéntrico: señala a Jesús y el evangelio. Es claro: tiene una idea central y se entiende. Es pertinente: conecta con la vida de los oyentes. Es movido por el Espíritu: nace de la oración y depende de su poder. Y es honesto: refleja la vida del predicador.\n\nUn sermón no es una conferencia para informar, ni un discurso motivacional, ni un espectáculo. Es la proclamación de la Palabra para transformar vidas. Pablo escribió en Primera de Corintios 2:4: ni mi palabra ni mi predicación fue con palabras persuasivas de humana sabiduría, sino con demostración del Espíritu y de poder."
+    },
+    {
+     "heading": "Las partes del trabajo",
+     "text": "Preparar un sermón implica varios pasos: elegir el texto, estudiarlo, descubrir su idea central, estructurarla, ilustrarla, aplicarla y presentarla con oración. Veremos cada paso en las siguientes lecciones. Y presentarlo es una tarea que incluye la voz, el lenguaje corporal, el tono, la preparación del corazón."
+    },
+    {
+     "heading": "Peligros",
+     "text": "Hay errores comunes: usar el texto como pretexto para decir lo que uno quiere, saltar de tema en tema sin dirección, predicar sin preparación bajo la excusa de la espontaneidad, predicar solo para impresionar, abusar de las anécdotas, o dejar de lado el evangelio. Otro peligro es predicar a otros lo que uno mismo no vive. Santiago 3:1 advierte que los que enseñamos recibiremos mayor condenación.\n\nTambién está el peligro de un exceso de técnica, que olvida la dependencia del Espíritu, o el contrario, que desprecia la preparación. Se necesitan ambos: trabajo diligente y confianza en Dios."
+    },
+    {
+     "heading": "Un trabajo al servicio de la iglesia",
+     "text": "El predicador sirve. No es dueño de la verdad, sino mayordomo de ella. Segunda de Timoteo 2:15 dice: procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que usa bien la palabra de verdad. La tarea requiere estudio, amor por la gente y humildad.\n\nY no solo los pastores predican. Maestros, líderes, jóvenes y padres comparten la Palabra en distintos momentos. Estos principios sirven para todos los que enseñan."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Reflexiona sobre tu llamado. Prepárate con constancia. Escucha a otros predicadores y pide opiniones sinceras. Acepta correcciones. Y recuerda que el fruto lo da Dios."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Cómo preparo mis mensajes? ¿Dependo del Espíritu y también del estudio? ¿Qué aspecto de mi predicación debo mejorar?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, tú nos has encomendado tu Palabra. Hazme un obrero fiel, que la maneje con cuidado, la anuncie con amor y dependa de tu Espíritu. Amén."
+    }
+   ]
+  },
+  "tematico": {
+   "sections": [
+    {
+     "heading": "Un tema a la luz de toda la Biblia",
+     "text": "El sermón temático desarrolla un tema bíblico, como la fe, el perdón o la oración, reuniendo varios pasajes que lo tratan. A diferencia del expositivo, que sigue un solo texto, el temático recorre diversos textos para dar una enseñanza completa. Es útil para presentar doctrinas, responder necesidades específicas de la congregación, o preparar mensajes para ocasiones especiales.\n\nJesús usó este método a veces, como en el camino de Emaús, cuando recorrió las Escrituras para explicar lo que se decía de él. Y muchos pasajes de las cartas reúnen textos del Antiguo Testamento sobre un mismo asunto, como Pablo en Romanos 3 sobre el pecado universal."
+    },
+    {
+     "heading": "Ventajas",
+     "text": "El sermón temático permite abordar un tema completo. Si una iglesia necesita enseñanza sobre el matrimonio, el perdón o las finanzas, el predicador puede reunir lo que toda la Biblia dice. Facilita responder preguntas actuales. Y ayuda a ver la unidad de la Escritura, cuando un tema se rastrea a lo largo de la historia de la salvación."
+    },
+    {
+     "heading": "Riesgos",
+     "text": "El peligro más grande es usar los versículos como pretexto. Si el predicador elige primero el tema y luego busca versículos que lo apoyen, sin atender el contexto de cada uno, puede hacer decir a la Biblia lo que no dice. Un versículo sacado de su contexto es un pretexto. Otra tendencia es predicar siempre los mismos temas favoritos, dejando por fuera enseñanzas que la iglesia necesita. Y hay el riesgo de la superficialidad, citando muchos versículos sin explicar ninguno.\n\nPor eso se recomienda que cada texto citado se estudie en su contexto, y que el tema esté realmente presente en el pasaje. Es mejor usar pocos pasajes bien explicados que muchos citados al vuelo."
+    },
+    {
+     "heading": "Cómo prepararlo",
+     "text": "Primero, elegir el tema con oración, a partir de una necesidad de la iglesia o un asunto bíblico importante. Segundo, delimitarlo: un tema demasiado amplio, como la salvación, no cabe en un sermón; conviene precisar un aspecto, como la certeza de la salvación. Tercero, reunir los pasajes principales, con ayuda de una concordancia o una Biblia de estudio. Cuarto, estudiar cada pasaje en su contexto. Quinto, organizar los hallazgos en una estructura clara, con una idea central. Sexto, ilustrar y aplicar."
+    },
+    {
+     "heading": "Un ejemplo",
+     "text": "Tema: la oración perseverante. Idea central: Dios nos invita a orar con constancia, y responde a su tiempo. Puntos posibles: primero, Jesús enseña a orar siempre, sin desmayar, en Lucas 18:1 al 8, con la parábola de la viuda; segundo, Dios es un Padre bueno que responde, en Lucas 11:5 al 13; tercero, la perseverancia nos conforma a su voluntad, en el ejemplo de Pablo en Segunda de Corintios 12:7 al 10. Cada punto se apoya en un pasaje explicado en su contexto."
+    },
+    {
+     "heading": "Combinar métodos",
+     "text": "Muchos predicadores combinan los métodos. Un sermón puede ser básicamente expositivo, con referencias a otros pasajes para apoyar o ampliar. O una serie temática puede incluir mensajes expositivos de los pasajes centrales. Lo importante es que la Biblia gobierne el mensaje."
+    },
+    {
+     "heading": "Temas que conviene cubrir",
+     "text": "Un predicador sabio revisa regularmente si está enseñando todo el consejo de Dios, como dice Hechos 20:27. Conviene cubrir las grandes doctrinas, la vida cristiana, la familia, la misión, la adoración, la iglesia, el sufrimiento, la esperanza. Una lista anual de temas ayuda a evitar vacíos."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Cuida el contexto de cada versículo. Prefiere pocos pasajes bien explicados. Asegura que el tema salga de la Biblia, no de tus ideas. Y varía tus predicaciones para alimentar a la iglesia de manera completa."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿He usado versículos como pretexto alguna vez? ¿Qué tema necesita mi iglesia en este momento? ¿Estoy enseñando todo el consejo de Dios?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, guíame a elegir los temas que tu pueblo necesita y a tratarlos con fidelidad a tu Palabra. Que cada versículo sea explicado con respeto. Amén."
+    }
+   ]
+  },
+  "textual": {
+   "sections": [
+    {
+     "heading": "Un versículo, una frase",
+     "text": "El sermón textual toma un versículo, o una frase breve, y sigue sus divisiones naturales para estructurar el mensaje. El texto mismo da los puntos. Se podría ubicar entre el expositivo y el temático: se basa en un solo pasaje, pero este es muy breve, y a menudo se completa con otros textos que lo iluminan.\n\nAlgunos versículos se prestan especialmente. Juan 3:16, por ejemplo, tiene divisiones claras: de tal manera amó Dios al mundo, el motivo y el alcance; que ha dado a su Hijo unigénito, el don; para que todo aquel que en él cree no se pierda, mas tenga vida eterna, la condición y el resultado. Cada parte del versículo es un punto."
+    },
+    {
+     "heading": "Cómo se prepara",
+     "text": "Se escoge un versículo con una estructura natural. Se estudia su contexto inmediato, para no perder su sentido. Se analizan sus partes: frases, verbos, sujetos, conectores. Se identifican las divisiones que el texto mismo sugiere. Se formula una idea central. Y se desarrolla cada punto con explicación, ilustración y aplicación, usando otros pasajes cuando ayuden.\n\nVeamos otro ejemplo: Salmo 23:1, Jehová es mi pastor; nada me faltará. Una división: quién es el pastor, Jehová; la relación, mi pastor; la consecuencia, nada me faltará. Cada una es un punto en el sermón.\n\nO Filipenses 4:13, todo lo puedo en Cristo que me fortalece. Un análisis cuidadoso muestra que Pablo habla en el contexto de contentarse en toda situación, en la abundancia y en la escasez. Aunque a menudo se cita como promesa de éxito, el contexto muestra que se trata de poder sostenerse en cualquier circunstancia por la fuerza de Cristo. El sermón textual cuidadoso rescata ese sentido."
+    },
+    {
+     "heading": "Ventajas",
+     "text": "Es un formato sencillo y memorable. Permite que la congregación recuerde un versículo con su estructura. Es útil para mensajes breves, estudios devocionales, o para enseñar a memorizar. Y enseña a leer con atención, palabra por palabra."
+    },
+    {
+     "heading": "Riesgos",
+     "text": "El mayor riesgo es sacar el versículo de su contexto. Un versículo bellísimo puede tener un significado distinto al que sugiere aislado. Por eso siempre hay que leer lo que lo rodea. Otro riesgo es forzar divisiones que el texto no ofrece, creando puntos artificiales. Y también hay el riesgo del alegorismo, cuando se extraen significados ocultos de cada palabra sin base en el pasaje.\n\nY no todos los versículos tienen una estructura propia. Si un versículo no tiene divisiones claras, es mejor usar el método expositivo con el párrafo completo."
+    },
+    {
+     "heading": "Elegir el texto",
+     "text": "Conviene elegir textos con un mensaje claro, una verdad central, y que sean relevantes. Los versículos de gran contenido doctrinal, como Efesios 2:8 y 9, o Romanos 5:8, funcionan bien. También los de contenido devocional. Hay que preferir los que se entienden por sí mismos sin demasiada explicación técnica."
+    },
+    {
+     "heading": "Combinar con otros textos",
+     "text": "Un sermón textual suele apoyarse en otros pasajes para ilustrar cada punto. Si el punto es que Dios amó al mundo, se puede acudir a Romanos 5:8: Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros. Esos apoyos deben usarse con cuidado, sin recargar."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Escoge versículos que conozcas bien. Estudia su contexto antes de dividirlo. No fuerces puntos. Y repite el versículo con frecuencia durante el sermón, para que los oyentes lo guarden en el corazón."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué versículo ha marcado mi vida, y cómo lo explicaría en un sermón? ¿He sacado un versículo de su contexto alguna vez? ¿Qué versículo puedo memorizar esta semana?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, tu Palabra es lámpara a mis pies. Enséñame a escuchar cada versículo con atención y a anunciarlo con fidelidad. Amén."
+    }
+   ]
+  }
+ }
+}

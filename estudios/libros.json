@@ -1,0 +1,790 @@
+{
+ "format_version": 1,
+ "course": "libros",
+ "version": "1.0.0",
+ "lessons": {
+  "bloque-01-pentateuco": {
+   "sections": [
+    {
+     "heading": "Los cinco libros de la ley",
+     "text": "La Biblia comienza con cinco libros que los judíos llaman la Torá, que significa \"enseñanza\" o \"ley\", y que los cristianos conocemos como el Pentateuco, palabra griega que quiere decir \"cinco rollos\". Son Génesis, Éxodo, Levítico, Números y Deuteronomio. La tradición judía y cristiana los atribuye a Moisés, y el propio Jesús habló de la ley de Moisés. Sobre su fecha, la tradición evangélica los ubica hacia los años 1450 a 1400 antes de Cristo.\n\nEstos libros son el cimiento de toda la Escritura. Sin ellos, no entenderíamos por qué existe el mundo, por qué hay pecado y muerte, quién es Dios, qué es un pacto, cómo se acerca el hombre a un Dios santo ni por qué Cristo tenía que morir como sacrificio. En esta lección haremos un recorrido por los cinco libros, con su mensaje central y su mirada hacia Cristo."
+    },
+    {
+     "heading": "Génesis: los comienzos",
+     "text": "Génesis significa \"origen\". Cuenta cómo empezó todo: la creación del mundo y del ser humano, la caída de Adán y Eva, el primer asesinato, el diluvio y la torre de Babel. Después se centra en una familia a la que Dios llama para bendecir a todas las naciones: Abraham, Isaac, Jacob y José.\n\nUn bosquejo sencillo tiene cuatro partes. Los capítulos 1 al 3 narran la creación y la caída. Los capítulos 4 al 11 relatan lo que ocurrió después: el pecado se extiende, el diluvio juzga al mundo, Babel muestra el orgullo humano. Los capítulos 12 al 36 siguen a los patriarcas Abraham, Isaac y Jacob. Y los capítulos 37 al 50 cuentan la historia de José, que acaba en Egipto.\n\nLa clave del libro está en Génesis 12, versículos 1 al 3, donde Dios llama a Abraham y le promete hacerlo una gran nación y bendecir en él a todas las familias de la tierra. Esa promesa recorre toda la Biblia hasta Cristo. Génesis también contiene la primera promesa de un Redentor, en 3:15, y la gran enseñanza de la fe: Abraham creyó a Dios, y le fue contado por justicia. El libro termina con José diciendo a sus hermanos que lo que ellos pensaron para mal, Dios lo encaminó a bien."
+    },
+    {
+     "heading": "Éxodo: la liberación",
+     "text": "Éxodo significa \"salida\". Cuenta cómo Dios rescata a su pueblo de la esclavitud en Egipto y lo constituye como nación en el monte Sinaí. Tiene cuatro momentos. Los capítulos 1 al 4 narran la esclavitud y el llamado de Moisés ante la zarza ardiente. Los capítulos 5 al 13 describen las plagas y la primera Pascua. Los capítulos 14 al 19 cuentan el paso del mar Rojo y el viaje al Sinaí. Y los capítulos 20 al 40 presentan la ley, los diez mandamientos y la construcción del tabernáculo.\n\nEl tema central es la redención. Dios oye el clamor de su pueblo, se acuerda de su pacto y los saca con mano fuerte. La Pascua es el centro: la sangre del cordero en los dinteles de las casas libra del juicio. Los cristianos ven allí a Cristo, nuestro Cordero pascual, como dice Pablo en Primera de Corintios 5. Después de redimir, Dios da la ley: primero la gracia, luego los mandamientos. Los diez mandamientos comienzan con una afirmación: yo soy Jehová tu Dios, que te saqué de la tierra de Egipto. La obediencia es la respuesta a la liberación, no un medio para ganarla.\n\nEl libro termina con la gloria de Dios llenando el tabernáculo. Dios no solo salvó a su pueblo; quiso habitar en medio de ellos."
+    },
+    {
+     "heading": "Levítico: un pueblo santo",
+     "text": "Levítico recibe su nombre de la tribu de Leví, de donde procedían los sacerdotes. Es quizá el libro que más cuesta leer, con sus detalles sobre sacrificios, pureza y fiestas. Pero su mensaje es profundo: cómo puede un pueblo pecador acercarse a un Dios santo.\n\nSe divide en cuatro partes. Los capítulos 1 al 7 enseñan las ofrendas: el holocausto, la ofrenda de grano, la de paz, la del pecado y la de culpa. Los capítulos 8 al 10 presentan la consagración del sacerdocio. Los capítulos 11 al 15 tratan de lo puro y lo impuro. Y los capítulos 16 al 27 desarrollan el Día de la Expiación y la llamada a la santidad.\n\nLa frase clave es Levítico 19, versículo 2: santos seréis, porque santo soy yo Jehová vuestro Dios. El libro enseña que el pecado es grave, que sin derramamiento de sangre no hay perdón, y que Dios mismo provee el camino de la reconciliación. La Carta a los Hebreos explica que todo ese sistema era una sombra de Cristo, nuestro sumo sacerdote, que ofreció un sacrificio perfecto una vez para siempre. Quien lee Levítico a la luz de Hebreos entiende por qué la cruz es tan inmensa."
+    },
+    {
+     "heading": "Números: cuarenta años por incredulidad",
+     "text": "Números recibe su nombre de los dos censos del pueblo que aparecen en él. Es el libro del desierto. Cuenta el viaje de Israel del Sinaí a las llanuras de Moab, y cómo una generación entera no entró a la tierra prometida por su incredulidad.\n\nSus partes son cuatro. Los capítulos 1 al 10 describen la preparación en el Sinaí: censo, orden del campamento, leyes. Los capítulos 11 al 21 narran las murmuraciones y rebeldías, incluyendo el informe de los doce espías y el castigo de cuarenta años. Los capítulos 22 al 25 cuentan el episodio de Balaam y la apostasía en Moab. Y los capítulos finales preparan a la nueva generación para entrar.\n\nEl libro muestra, a la vez, la paciencia de Dios y la gravedad de la incredulidad. Pablo, en Primera de Corintios 10, usa estas historias como advertencia para la iglesia. También hay momentos hermosos: la bendición sacerdotal del capítulo 6, la serpiente de bronce que Jesús aplicó a sí mismo en Juan 3, y la profecía de Balaam sobre la estrella que saldría de Jacob. Es un libro que nos enseña a confiar en Dios cuando el camino es largo, y a no endurecer el corazón."
+    },
+    {
+     "heading": "Deuteronomio: recordar y amar",
+     "text": "Deuteronomio significa \"segunda ley\". Son los discursos de despedida de Moisés a la nueva generación, en las llanuras de Moab, justo antes de entrar a Canaán, hacia 1400 a. C. No es solo una repetición de la ley, sino una renovación del pacto y un llamado del corazón.\n\nMoisés recuerda la historia, repasa la ley, advierte sobre bendiciones y maldiciones, y exhorta a elegir la vida. La frase central es el Shemá, en Deuteronomio 6, versículos 4 y 5: oye, Israel: Jehová nuestro Dios, Jehová uno es. Y amarás a Jehová tu Dios de todo tu corazón, y de toda tu alma, y con todas tus fuerzas. Jesús dijo que este es el primer y gran mandamiento.\n\nUn pasaje que condensa el libro es el del capítulo 30, versículo 19: a los cielos y a la tierra llamo por testigos hoy contra vosotros, que os he puesto delante la vida y la muerte, la bendición y la maldición; escoge, pues, la vida, para que vivas tú y tu descendencia. El libro termina con la muerte de Moisés en el monte Nebo, que contempla la tierra prometida sin entrar en ella, y con una nota de esperanza: Dios levantará un profeta como él, anuncio que se cumple en Cristo."
+    },
+    {
+     "heading": "El hilo que une los cinco libros",
+     "text": "Visto en conjunto, el Pentateuco cuenta una historia: Dios crea un mundo bueno; el pecado lo arruina; Dios llama a Abraham para bendecir a las naciones; rescata a su pueblo de Egipto; establece un pacto con él y le da la ley; el pueblo, aun salvado, tropieza en el desierto; y al final, Moisés mira hacia una tierra que otro conducirá. Quedan temas abiertos: la promesa de un descendiente que aplastará a la serpiente, una tierra por poseer, un sacrificio perfecto, un profeta mayor que Moisés.\n\nCuatro temas recorren los cinco libros. El primero es la promesa: Dios se compromete a bendecir y cumple su palabra. El segundo es el pacto: una relación con deberes y bendiciones. El tercero es la santidad: Dios es santo y su pueblo debe serlo. Y el cuarto es la presencia: Dios quiere habitar con su pueblo, en el huerto, en el tabernáculo, y finalmente en Cristo."
+    },
+    {
+     "heading": "Cómo leerlos con provecho",
+     "text": "Una dificultad práctica es que Génesis y Éxodo se leen fácilmente, Levítico y Números cuestan más, y muchos abandonan el plan de lectura anual en esos libros. Algunos consejos ayudan. Lee Levítico con Hebreos al lado, para ver cómo Cristo cumple lo que allí se prefigura. Lee Números pensando en lo que enseña sobre la fe y la incredulidad. No te detengas demasiado en los detalles rituales, pero pregunta qué dicen de la santidad de Dios. Y lee las genealogías y listas como un testimonio de que Dios conoce a su pueblo por nombre.\n\nRecuerda también que el Pentateuco no es principalmente un manual de reglas, sino una historia de redención con leyes dentro de ella. Los cristianos no vivimos bajo la ley de Moisés como sistema, pero aprendemos de ella el carácter de Dios y los principios de justicia y santidad."
+    },
+    {
+     "heading": "Cristo en el Pentateuco",
+     "text": "Jesús dijo a los judíos, en Juan 5, versículo 46: si creyeseis a Moisés, me creeríais a mí; porque de mí escribió él. Aparece de muchas maneras: en la simiente de la mujer, en el sacrificio de Isaac, en el cordero pascual, en la roca que dio agua, en la serpiente levantada, en el sumo sacerdote y los sacrificios, en el profeta como Moisés. Leer el Pentateuco sin buscar a Cristo es como leer los primeros capítulos de una novela sin saber cómo termina."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Los cinco libros ofrecen una rica cantera de sermones. Génesis, sobre la fe de Abraham, la providencia con José, el pecado y la gracia. Éxodo, sobre la redención y la adoración. Levítico, sobre la santidad. Números, sobre la perseverancia y la incredulidad. Deuteronomio, sobre el amor a Dios y la obediencia. Al predicar estos libros, conecta el relato con Cristo y evita convertir cada personaje en un simple modelo moral."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué libro del Pentateuco tengo más descuidado? ¿Qué me enseña la secuencia \"redención y luego ley\" sobre cómo vivir la obediencia? ¿Dónde veo a Cristo en estas páginas?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, gracias por la ley y por la promesa, por la Pascua y por el pacto. Ayúdanos a leer los libros de Moisés con los ojos abiertos para ver a Cristo en ellos. Enséñanos a amarte con todo el corazón y a vivir como pueblo santo. En el nombre de Jesús. Amén."
+    }
+   ],
+   "title": "El Pentateuco"
+  },
+  "bloque-02-josue-jueces-rut": {
+   "sections": [
+    {
+     "heading": "Entrar a la tierra y vivir en ella",
+     "text": "Después de los cinco libros de Moisés, la Biblia abre un nuevo capítulo: Israel llega a la tierra prometida. Tres libros cubren este período. Josué cuenta cómo se conquista y se reparte la tierra. Jueces describe una larga etapa de inestabilidad, de unos tres siglos, marcada por la desobediencia y la liberación. Y Rut, un pequeño relato de amor y fidelidad, muestra que, incluso en medio de la oscuridad, Dios obraba en la vida de personas sencillas.\n\nEstos libros nos muestran el contraste entre lo que pasa cuando el pueblo obedece y lo que pasa cuando cada uno hace lo que bien le parece. Y preparan el camino para la monarquía y, en última instancia, para el Rey definitivo. Recorreremos su mensaje, su estructura y su aplicación."
+    },
+    {
+     "heading": "Josué: la conquista y el reparto de la tierra",
+     "text": "El libro lleva el nombre del sucesor de Moisés, que lo escribió con aportes posteriores, según la tradición. Los hechos se ubican hacia los años 1400 a 1350 antes de Cristo. Es el libro de la fidelidad de Dios: cumple su promesa de dar la tierra que había prometido a Abraham.\n\nSe puede dividir en tres partes. Los capítulos 1 al 5 preparan la entrada: Dios anima a Josué, Rahab protege a los espías, el pueblo cruza el Jordán y se circuncida en Gilgal. Los capítulos 6 al 12 narran la conquista: Jericó, Hai, y las campañas del sur y del norte. Y los capítulos 13 al 24 describen el reparto de la tierra entre las tribus y la despedida de Josué.\n\nDos pasajes marcan el libro. El primero está en Josué 1, versículo 9: mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque Jehová tu Dios estará contigo en dondequiera que vayas. Es la promesa de la presencia de Dios. El segundo, en el capítulo 24, versículo 15, es el desafío final de Josué: escogeos hoy a quién sirváis; pero yo y mi casa serviremos a Jehová.\n\nHay aspectos difíciles. El libro describe la destrucción de pueblos cananeos por mandato de Dios, algo que choca con nuestra sensibilidad. La Biblia lo presenta como juicio sobre pueblos cuya maldad había llegado a su colmo, como ya había anunciado Dios a Abraham, y no como licencia para la violencia. Es un caso único, ligado a un momento concreto de la historia de la salvación, y no un modelo para el uso de la fuerza hoy. Conviene leerlo con sobriedad y reconocer que hay preguntas que no se resuelven fácilmente.\n\nJosué es una figura de Cristo: su nombre en hebreo es el mismo que Jesús, \"Jehová salva\". Lleva al pueblo al reposo, como Cristo nos lleva a la verdadera tierra prometida. Rahab, una mujer cananea, aparece también en la genealogía de Jesús, un anticipo de que la gracia alcanza a todos."
+    },
+    {
+     "heading": "Jueces: el ciclo que se repite",
+     "text": "Jueces cubre un período de cerca de tres siglos, desde la muerte de Josué hasta el surgimiento de la monarquía, hacia 1380 a 1050 a. C. La tradición lo atribuye a Samuel. Es un libro duro, que no se esconde de mostrar el fracaso de Israel.\n\nSu estructura se basa en un ciclo que se repite una y otra vez. El pueblo peca y adora a los dioses de Canaán. Dios permite que lo opriman sus enemigos. El pueblo clama. Dios levanta un juez que lo libera. Hay un período de paz. Y luego, el ciclo vuelve a empezar, cada vez peor. Los jueces no eran jueces en el sentido de tribunal, sino libertadores y líderes. Entre ellos están Otoniel, Aod, Débora, Gedeón, Jefté y Sansón.\n\nEs notable la variedad de los jueces y sus defectos. Débora es una profetisa y líder valiente. Gedeón pasa de temeroso a héroe, pero termina haciendo un efod que se convierte en tropiezo. Sansón tiene una fuerza extraordinaria y una debilidad moral trágica. Dios usa a personas imperfectas, y esto es un consuelo y una advertencia. La gloria es del Señor, no del instrumento.\n\nEl libro termina con una frase que lo resume todo, en Jueces 21, versículo 25: en estos días no había rey en Israel; cada uno hacía lo que bien le parecía. Los últimos capítulos describen episodios de violencia y corrupción moral escalofriantes. El mensaje es claro: sin un rey que gobierne según Dios, el pueblo se hunde. El libro anhela un rey, y en últimas, al Rey Jesús.\n\nPara quien predica, Jueces ofrece lecciones valiosas sobre el ciclo del pecado, la gracia de Dios que sigue rescatando y el peligro del relativismo moral, que sigue siendo el mal de nuestro tiempo. Y conviene recordar que los relatos de Jueces describen, no necesariamente aprueban: las acciones de Jefté o de Sansón no son modelos, sino parte de la narración de un pueblo en decadencia."
+    },
+    {
+     "heading": "Rut: luz en medio de la oscuridad",
+     "text": "Rut es un breve libro de cuatro capítulos, ambientado en la época de los jueces. Su autor es desconocido, aunque la tradición lo atribuye a Samuel. Contrasta con la violencia de Jueces: es una historia tierna de lealtad, trabajo, generosidad y redención.\n\nCuenta de Noemí, una mujer de Belén que emigra a Moab con su marido y sus hijos por una hambruna. Allí mueren su marido y sus hijos, y ella regresa a Belén, amargada y vacía, con su nuera moabita, Rut, que decide acompañarla. Rut pronuncia unas de las palabras más conmovedoras de la Biblia, en el capítulo 1, versículos 16 y 17: no me ruegues que te deje, y me aparte de ti; porque a dondequiera que tú fueres, iré yo, y dondequiera que vivieres, viviré. Tu pueblo será mi pueblo, y tu Dios mi Dios.\n\nEn Belén, Rut espiga en el campo de Booz, un pariente de Noemí, hombre bondadoso y justo. Booz la protege, la honra y finalmente, como pariente redentor, se casa con ella, redime la propiedad de la familia y le da un hijo. Ese hijo, Obed, será abuelo de David. Así, una moabita extranjera entra en la línea del Mesías, que aparece en la genealogía de Jesús en Mateo 1.\n\nEl tema central es la redención. La figura del \"goel\", el pariente redentor, es un hermoso retrato de Cristo: nuestro hermano que paga el precio para rescatarnos. También se ve la providencia de Dios en los detalles: Rut \"casualmente\" llega al campo de Booz. Dios obra en lo cotidiano, aun cuando no se nota. Y se ve que la fidelidad humilde y el amor leal son importantes para Dios."
+    },
+    {
+     "heading": "Lo que unen estos tres libros",
+     "text": "Los tres libros están ligados por el tema de la tierra y de la vida en ella. En Josué, Dios cumple su promesa y el pueblo entra. En Jueces, el pueblo no cumple su parte y vive en decadencia. En Rut, un remanente fiel muestra que Dios aún preserva a los suyos. Los tres señalan hacia un rey que unirá al pueblo y hacia un redentor mayor.\n\nTambién muestran distintos niveles de la historia: la macrohistoria de naciones y batallas, y la microhistoria de una familia en un campo de cebada. Dios obra en ambas. A quien se siente insignificante, Rut le dice que su vida diaria, vivida con fidelidad, importa en el plan de Dios."
+    },
+    {
+     "heading": "Cómo leerlos",
+     "text": "Lee Josué con atención a la fidelidad de Dios y a la importancia de obedecer y de recordar. Lee Jueces con discernimiento: es una advertencia, no una guía de conducta. Lee Rut de corrido, en una sola sesión, para disfrutar su belleza. Y pregunta en cada uno: ¿qué me enseña sobre Dios? ¿Dónde se ve la necesidad de un rey y de un redentor? ¿Cómo apunta a Cristo?"
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Josué da material para sermones sobre el valor, la obediencia, la fe frente a obstáculos como Jericó, y la elección de servir al Señor. Jueces, sobre el peligro de la rutina de pecado, la gracia que rescata y la importancia del liderazgo piadoso. Rut, sobre la lealtad, la providencia, la redención y la inclusión de los extranjeros. Procura siempre que la aplicación lleve a Cristo."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué \"Jericó\" enfrento hoy y cómo la promesa de la presencia de Dios me anima? ¿Dónde veo en mi vida el ciclo de pecado y retorno? ¿Cómo puedo ser como Rut o como Booz con alguien que lo necesita?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, tú eres fiel a tus promesas. Danos valor como a Josué, humildad para reconocer nuestra necesidad de un Rey, y lealtad como la de Rut. Gracias porque nuestro Redentor pagó el precio por nosotros. En el nombre de Jesús. Amén."
+    }
+   ],
+   "title": "Josué, Jueces y Rut"
+  },
+  "bloque-03-samuel-reyes": {
+   "sections": [
+    {
+     "heading": "La historia de los reyes de Israel",
+     "text": "Los libros de Samuel y Reyes forman una larga historia de cerca de cinco siglos: desde el nacimiento de Samuel, hacia 1100 antes de Cristo, hasta la destrucción de Jerusalén y el exilio, en 586. Originalmente, Primero y Segundo de Samuel eran un solo libro, igual que Primero y Segundo de Reyes. Su división se hizo después, por la extensión de los rollos.\n\nLa historia es la de una monarquía que comienza con grandes esperanzas y termina en el desastre. Pero en el centro hay una promesa que no se rompe: Dios hará una casa para David y su trono permanecerá para siempre. Esa promesa apunta a Jesucristo. En esta lección recorreremos los cuatro libros, con sus personajes, su mensaje y su lugar en el plan de Dios."
+    },
+    {
+     "heading": "Primero de Samuel: de los jueces a los reyes",
+     "text": "El libro cubre aproximadamente los años 1100 a 1010 a. C. La tradición lo atribuye a Samuel, Natán y Gad, profetas que registraron los hechos. Cuenta la transición de los jueces a la monarquía, a través de tres figuras: Samuel, Saúl y David.\n\nComienza con Ana, una mujer estéril que ora con lágrimas por un hijo y lo consagra al Señor: Samuel. Samuel crece como profeta y último juez de Israel. Cuando envejece, el pueblo pide un rey como las otras naciones. Dios, aunque advierte de las consecuencias, accede, y Samuel unge a Saúl. Saúl comienza bien, pero desobedece, y Dios lo rechaza. En su lugar, Samuel unge a David, un joven pastor de Belén.\n\nLos capítulos más conocidos narran el enfrentamiento de David con Goliat, en el capítulo 17. David se acerca al gigante diciendo: tú vienes a mí con espada y lanza y jabalina; mas yo vengo a ti en el nombre de Jehová de los ejércitos. La batalla es de Dios. El resto del libro cuenta cómo Saúl, celoso, persigue a David, que, aun teniendo oportunidad de matarlo, respeta al ungido de Jehová. El libro termina con la muerte de Saúl en el monte Gilboa.\n\nUn versículo clave está en 1 Samuel 16, versículo 7: Jehová no mira lo que mira el hombre; pues el hombre mira lo que está delante de sus ojos, pero Jehová mira el corazón. Es la verdad central: Dios busca un corazón fiel, no apariencia. Saúl, de buena estatura, fracasó por desobediente; David, el menor de sus hermanos, fue un hombre conforme al corazón de Dios."
+    },
+    {
+     "heading": "Segundo de Samuel: el reinado de David",
+     "text": "Este libro narra el reinado de David, hacia los años 1010 a 970 a. C. Primero es rey de Judá, luego de todo Israel. Conquista Jerusalén y la hace capital, trae el arca del pacto y vence a sus enemigos. Es un tiempo de grandeza.\n\nEl punto culminante está en el capítulo 7: Dios hace un pacto con David. Le promete una casa, un reino y un trono que serán afirmados para siempre. Es el pacto davídico, la gran promesa que recorre toda la Biblia hasta Jesús, el Hijo de David. Ángeles y profetas lo recordarán: Gabriel le dijo a María que el Señor Dios le daría el trono de David su padre.\n\nPero el libro no oculta el pecado del rey. En los capítulos 11 y 12, David comete adulterio con Betsabé y manda matar a su marido Urías. Natán lo confronta con una parábola, y David confiesa: pequé contra Jehová. El Salmo 51 recoge su arrepentimiento. Dios perdona, pero las consecuencias son duras: la espada no se apartará de su casa. El resto del libro muestra las tragedias familiares: la violación de Tamar, el asesinato de Amnón, la rebelión de Absalón. Es un recordatorio de que el pecado deja huella aun después del perdón.\n\nDios usó a David, pero David no era el rey perfecto. La historia anhela a un hijo de David sin pecado, que reine con justicia para siempre."
+    },
+    {
+     "heading": "Primero de Reyes: Salomón y la división",
+     "text": "Primero de Reyes comienza con la muerte de David y el reinado de Salomón, hacia 970 a 930 a. C., y continúa hasta mediados del siglo noveno. La tradición lo atribuye a un autor desconocido, quizá Jeremías. Narra la cumbre y el inicio de la caída.\n\nSalomón pide sabiduría a Dios, y Dios se la da, junto con riquezas y honra. Construye el templo en Jerusalén, un edificio magnífico, y su dedicación, en el capítulo 8, es una de las grandes oraciones de la Biblia. Su fama atrae a la reina de Sabá, que viene de lejos a conocerlo. Pero Salomón se desvía. Se casa con muchas mujeres extranjeras, que apartan su corazón tras otros dioses. Dios le anuncia que dividirá el reino.\n\nTras su muerte, el reino se divide, hacia el 930 a. C. Roboam, su hijo, rechaza el consejo de los ancianos y responde con dureza al pueblo. Diez tribus del norte se separan bajo Jeroboam y forman el reino de Israel; Judá y Benjamín quedan con la dinastía de David. Jeroboam pone becerros de oro en Dan y Betel para evitar que el pueblo suba a Jerusalén, y ese pecado marca a todos los reyes del norte.\n\nLos capítulos finales introducen al profeta Elías, que desafía a los profetas de Baal en el monte Carmelo. Su pregunta resuena todavía: ¿hasta cuándo claudicaréis vosotros entre dos pensamientos? Si Jehová es Dios, seguidle; y si Baal, id en pos de él. Dios responde con fuego. Y después, Elías experimenta en el monte Horeb que Dios no estaba en el viento, ni en el terremoto, ni en el fuego, sino en un silbo apacible y delicado."
+    },
+    {
+     "heading": "Segundo de Reyes: la caída por idolatría",
+     "text": "El libro abarca desde hacia 850 hasta 586 a. C., y relata la sucesión de los reyes de Israel y de Judá, hasta la destrucción de ambos reinos. Se destaca por un juicio continuo: los reyes son evaluados por si \"hicieron lo recto ante los ojos de Jehová\" o \"lo malo\".\n\nEn Israel, el reino del norte, ningún rey es considerado bueno. Todos siguen en el pecado de Jeroboam. Eliseo sucede a Elías y realiza milagros: el aceite de la viuda, la sanidad de Naamán, el hacha que flota. En el 722 a. C., Asiria conquista Samaria y deporta a la población. El libro explica por qué, en el capítulo 17: porque los hijos de Israel pecaron contra Jehová su Dios.\n\nEn Judá, el reino del sur, hay reyes buenos, como Ezequías y Josías, que realizan reformas y sirven al Señor, y reyes malos, como Acaz y Manasés. Josías encuentra el libro de la ley en el templo y renueva el pacto. Pero tras su muerte el declive continúa. En el 586 a. C., Babilonia destruye Jerusalén y el templo, y lleva a Judá al exilio. El libro termina con una pequeña luz: el rey Joaquín, preso, recibe un trato benévolo en Babilonia, señal de que la dinastía de David no ha terminado."
+    },
+    {
+     "heading": "El mensaje de los cuatro libros",
+     "text": "Cuatro grandes ideas atraviesan Samuel y Reyes. La primera: Dios es fiel a su pacto, aunque su pueblo no lo sea. La promesa a David se mantiene a pesar de todo. La segunda: la desobediencia tiene consecuencias. El juicio del exilio no es arbitrario; fue advertido durante siglos por los profetas. La tercera: Dios busca un corazón fiel, y los líderes tienen una responsabilidad especial. Y la cuarta: necesitamos un Rey mejor que David y Salomón.\n\nLos libros también muestran el papel de los profetas, que hablaban a reyes y pueblo en nombre de Dios: Samuel, Natán, Elías, Eliseo, Isaías. Son la conciencia del reino y los portavoces de la Palabra."
+    },
+    {
+     "heading": "Cristo en estos libros",
+     "text": "Cristo es el Hijo de David al que se refiere la promesa de 2 Samuel 7. Es el Rey que no falla, el pastor que da su vida, el profeta mayor que Elías. David, tipo de Cristo, es ungido, rechazado, perseguido y finalmente entronizado; Cristo cumple todo con perfección. El templo de Salomón anticipa a Cristo como lugar de encuentro con Dios. Y el exilio con su esperanza de restauración apunta a la redención final."
+    },
+    {
+     "heading": "Cómo leerlos",
+     "text": "Para disfrutar y entender estos libros, léelos como una historia continua. Ten un mapa mental de los reyes: sigue el hilo de los dos reinos. Usa los Salmos de David, en particular el 51 y el 23, como compañía de los relatos. Y pregunta en cada episodio: ¿qué revela de Dios? ¿Cómo muestra la necesidad de un Rey perfecto? Recuerda que muchas acciones son descritas, no recomendadas."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "De Samuel: sermones sobre la oración de Ana, el corazón de David, la fe frente a gigantes, el arrepentimiento (Salmo 51), el cuidado del ungido. De Reyes: la sabiduría y la caída de Salomón, el valor de Elías, la reforma de Josías, el peligro de la idolatría. Un tema recurrente es la advertencia a los líderes: el éxito sin obediencia lleva a la ruina."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Estoy buscando lo que Dios busca, un corazón fiel, o lo que busca el hombre, la apariencia? ¿Qué \"pequeños pecados\" de la vida de Salomón pueden estar creciendo en mi vida? ¿Cómo me consuela saber que la promesa de Dios no falló aunque los reyes fallaron?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, tú miras el corazón. Danos un corazón fiel como el de David en su arrepentimiento, y guárdanos de la idolatría de Salomón. Gracias por tu fidelidad a tus promesas y por el Rey que permanece para siempre, Jesucristo. En su nombre. Amén."
+    }
+   ],
+   "title": "Samuel y Reyes"
+  },
+  "bloque-04-cronicas-ester": {
+   "sections": [
+    {
+     "heading": "Después del exilio: reconstruir la esperanza",
+     "text": "Los libros que hemos visto hasta ahora terminaron con el desastre del exilio. Jerusalén destruida, el templo en ruinas, el pueblo deportado a Babilonia. ¿Terminó ahí la historia de Dios con Israel? Los cinco libros de este bloque responden que no. Primero y Segundo de Crónicas vuelven a contar la historia, desde la perspectiva de quienes regresaron, para recordarles su identidad y su esperanza. Esdras y Nehemías narran la vuelta del exilio, la reconstrucción del templo y de los muros y la renovación del pacto. Y Ester muestra la providencia de Dios en favor de los judíos que se quedaron en tierra extranjera.\n\nSon libros que hablan a quienes han vuelto a empezar después de una gran pérdida. Nos enseñan a reconstruir con fe, con oración y con la Palabra. Y nos recuerdan que Dios cuida de su pueblo aun cuando no se le menciona, como en Ester."
+    },
+    {
+     "heading": "Primero y Segundo de Crónicas: recordar quiénes somos",
+     "text": "Crónicas se escribió después del exilio, hacia 450 a 400 antes de Cristo, y la tradición lo atribuye a Esdras. Su propósito no es repetir los libros de Samuel y Reyes, sino reinterpretar la historia para un pueblo que regresaba. Se enfoca en lo esencial: el linaje de David, el templo y la adoración, y la fidelidad de Dios.\n\nPrimero de Crónicas comienza con nueve capítulos de genealogías, desde Adán hasta los repatriados. Aunque a primera vista parecen aburridas, tenían un mensaje poderoso: ustedes no están olvidados, pertenecen a un pueblo con una historia, una identidad y una promesa. Después se concentra en el reinado de David: su ascenso, el traslado del arca, los preparativos para el templo y su oración de acción de gracias, en el capítulo 29. Omite deliberadamente el pecado de David con Betsabé, y se centra en su papel como rey y organizador de la adoración.\n\nSegundo de Crónicas cubre el reinado de Salomón, la construcción y dedicación del templo, y la historia de los reyes de Judá. Se destaca la atención al templo y a los reyes que buscaron a Dios: Asa, Josafat, Ezequías, Josías. Un versículo central está en 2 Crónicas 7, versículo 14, en la respuesta de Dios a la oración de Salomón: si se humillare mi pueblo, sobre el cual mi nombre es invocado, y oraren, y buscaren mi rostro, y se convirtieren de sus malos caminos; entonces yo oiré desde los cielos, y perdonaré sus pecados, y sanaré su tierra.\n\nEste versículo se cita mucho, y conviene aplicarlo con sensatez. Se dijo originalmente a Israel, en relación con el templo, pero expresa un principio permanente: el perdón y la restauración vienen cuando el pueblo de Dios se humilla, ora y se arrepiente. El libro enseña a buscar a Dios, la clave del éxito de los reyes buenos. Termina con el decreto de Ciro, rey de Persia, que permite a los judíos volver: una nota de esperanza."
+    },
+    {
+     "heading": "Esdras: reconstruir el templo y volver a la Palabra",
+     "text": "Esdras narra los hechos de hacia 538 a 450 a. C. En su primera parte, capítulos 1 al 6, el rey Ciro permite el regreso de unos cincuenta mil judíos bajo Zorobabel. Reconstruyen el altar, ponen los cimientos del templo, enfrentan oposición de los vecinos, detienen la obra y la retoman por la predicación de los profetas Hageo y Zacarías. El templo se concluye hacia el 516 a. C.\n\nEn la segunda parte, capítulos 7 al 10, llega Esdras, sacerdote y escriba, en el 458 a. C. Descubre que el pueblo se ha mezclado con las naciones vecinas y ha desobedecido. Esdras se humilla, ora con lágrimas y conduce al pueblo a un arrepentimiento y a una reforma.\n\nEl versículo clave, en Esdras 7, versículo 10, ya lo hemos visto: porque Esdras había preparado su corazón para inquirir la ley de Jehová y para cumplirla, y para enseñar en Israel sus estatutos y decretos. Esdras representa al ministro ideal: estudia, vive y enseña la Palabra. El libro enseña que la restauración no es solo reconstruir edificios, sino volver al Señor y a su ley. También es un testimonio de la mano buena de Dios, repetida varias veces, sobre quienes lo buscan."
+    },
+    {
+     "heading": "Nehemías: reconstruir los muros y renovar el pacto",
+     "text": "Nehemías, copero del rey Artajerjes en Susa, recibe la noticia de que los muros de Jerusalén siguen en ruinas, en el 445 a. C. Llora, ayuna y ora. Su oración, en el capítulo 1, es un modelo: confiesa el pecado, recuerda las promesas de Dios y pide éxito y favor. Con permiso del rey, viaja a Jerusalén.\n\nLa reconstrucción del muro, en los capítulos 2 al 6, es un ejemplo de liderazgo y fe. Nehemías inspecciona, motiva, organiza al pueblo por secciones, enfrenta burlas y amenazas, ora y vigila con la espada en una mano y la herramienta en la otra. Y el muro se termina en cincuenta y dos días. Su respuesta a quienes quieren distraerlo es famosa: yo hago una gran obra, y no puedo ir.\n\nLos capítulos 7 al 13 narran la renovación espiritual. En el capítulo 8, Esdras lee el libro de la ley delante del pueblo durante horas, y el pueblo llora y luego se alegra. Nehemías les dice: el gozo de Jehová es vuestra fuerza. Siguen la confesión de pecados, el pacto de fidelidad y las reformas contra el abandono del templo, la violación del sábado y los matrimonios mixtos.\n\nNehemías enseña que el liderazgo servicial combina la oración con la acción, el trabajo en equipo, la perseverancia frente a la oposición y el compromiso con la Palabra. Y que la reconstrucción exterior debe acompañarse de una renovación interior."
+    },
+    {
+     "heading": "Ester: Dios obra detrás de las escenas",
+     "text": "Ester es un libro singular: no menciona el nombre de Dios ni una sola vez, y sin embargo su presencia se siente en cada página. Se ubica hacia 480 a 465 a. C. en Persia, entre los judíos que no regresaron a Jerusalén. Su autor es desconocido, quizá Mardoqueo.\n\nLa trama: el rey Asuero depone a la reina Vasti y elige a Ester, una joven judía huérfana criada por su primo Mardoqueo, como nueva reina. Amán, un alto funcionario, odia a Mardoqueo porque no se inclina ante él, y consigue un decreto para exterminar a todos los judíos del imperio. Mardoqueo pide a Ester que intervenga, aun a riesgo de su vida. Y le dice, en Ester 4, versículo 14: ¿y quién sabe si para esta hora has llegado al reino? Ester ayuna, se presenta ante el rey sin ser llamada, y mediante dos banquetes revela el complot. Amán es colgado en la horca que preparó para Mardoqueo, y los judíos son salvados. Se celebra la fiesta de Purim.\n\nEl mensaje central es la providencia: Dios gobierna las circunstancias, aun las aparentemente casuales, como el insomnio del rey la noche decisiva, para proteger a su pueblo. Y la responsabilidad humana: Ester tuvo que decidir arriesgarse, con un \"si perezco, que perezca\". Dios obra mediante personas dispuestas."
+    },
+    {
+     "heading": "Lo que une estos cinco libros",
+     "text": "Estos libros tienen en común el tema de la restauración: Dios no abandona a su pueblo, ni siquiera después de un juicio severo. Muestran tres caras de ella: el templo y la adoración, en Crónicas y Esdras; la ciudad y el pacto, en Nehemías; y la preservación del pueblo, en Ester. También muestran cómo se vive la fe después de una gran pérdida: con arrepentimiento, oración, trabajo, Palabra y valentía.\n\nUn detalle importante: aunque regresaron, no recuperaron la grandeza anterior. Los ancianos lloraron al ver los cimientos del segundo templo, porque no se comparaba con el primero. Faltaba algo: el Rey. Estos libros terminan con una expectativa pendiente que solo Cristo cumpliría. Por eso, entre estos libros y los Evangelios hay unos cuatrocientos años de silencio."
+    },
+    {
+     "heading": "Cómo leerlos",
+     "text": "Lee Crónicas como una predicación a los que vuelven, no como un resumen. No te frenes en las genealogías: léelas como una lista de nombres que Dios conoce. Lee Esdras y Nehemías como manuales de liderazgo y de reforma. Lee Ester de un tirón, buscando la mano de Dios en cada giro. Y pregunta: ¿qué dice esto sobre cómo reconstruir lo que se ha perdido?"
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Estos libros dan excelente material. De Crónicas, la oración de humillación y la adoración de David. De Esdras, el estudio y la obediencia de la Palabra. De Nehemías, el liderazgo, la oración y la perseverancia, y la alegría del Señor como fortaleza. De Ester, la providencia, el valor y el \"para esta hora\". Conecta siempre con Cristo, que reconstruye lo que el pecado arruinó."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué muro de mi vida necesita reconstrucción? ¿Cómo combino la oración y la acción como Nehemías? ¿Para qué \"hora\" me ha puesto Dios donde estoy?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, tú restauras lo que se pierde y no abandonas a tu pueblo. Danos un corazón dispuesto a buscarte, a estudiar tu Palabra y a trabajar con perseverancia. Haznos valientes como Ester y fieles como Nehemías. En el nombre de Jesús. Amén."
+    }
+   ],
+   "title": "Crónicas, Esdras, Nehemías y Ester"
+  },
+  "bloque-05-poeticos": {
+   "sections": [
+    {
+     "heading": "Cuando la Biblia canta y reflexiona",
+     "text": "Después de la historia, la Biblia cambia de voz. Los cinco libros de este bloque, Job, Salmos, Proverbios, Eclesiastés y Cantares, no cuentan principalmente lo que Dios hizo, sino cómo respondemos nosotros: orando, sufriendo, buscando sabiduría, preguntando por el sentido de la vida y celebrando el amor. Están escritos en forma de poesía, con paralelismos, imágenes y un lenguaje cargado de emoción. Por eso se leen de manera distinta que un relato o una ley.\n\nSon los libros de la experiencia humana delante de Dios. Cubren todo el rango: alabanza y queja, confianza y duda, gozo y dolor, sabiduría práctica y preguntas sin respuesta. Cada uno aporta algo único, y juntos nos enseñan a vivir con Dios en todas las estaciones de la vida. Recorreremos cada libro, con su mensaje y su manera de apuntar a Cristo."
+    },
+    {
+     "heading": "Job: el sufrimiento del justo",
+     "text": "Job es uno de los libros más profundos de la Biblia. Es de autor desconocido y de fecha incierta; el relato parece ambientado en la época patriarcal. Trata de un problema que toda persona enfrenta: ¿por qué sufren los justos?\n\nEl libro comienza con una escena celestial: Satanás desafía a Dios, diciendo que Job le sirve solo porque le va bien. Dios permite que Job sea probado. En un día pierde sus bienes, sus hijos y después su salud. Su esposa le dice: maldice a Dios, y muérete. Pero Job responde: Jehová dio, y Jehová quitó; sea el nombre de Jehová bendito.\n\nDespués vienen los largos diálogos con tres amigos, Elifaz, Bildad y Zofar, que sostienen que el sufrimiento es siempre castigo por el pecado, y presionan a Job para que confiese algo que no hizo. Job protesta su inocencia, expresa su dolor y su deseo de que Dios responda. Aparece otro hablante, Eliú, y por fin Dios habla desde el torbellino, en los capítulos 38 al 41. No explica la causa del sufrimiento de Job. Le muestra su sabiduría y poder en la creación. Job responde con humildad. Y Dios lo restaura, y reprende a los amigos por no haber hablado bien de Él.\n\nLecciones: no todo sufrimiento es consecuencia de un pecado personal; no debemos dar respuestas simplistas al que sufre; Dios es soberano y sabio, aunque no entendamos; podemos ser honestos con Dios en el dolor; y hay una esperanza más allá de la muerte, como en Job 19, versículo 25: yo sé que mi Redentor vive, y al fin se levantará sobre el polvo. El libro anticipa a Cristo, el justo que sufrió sin merecerlo."
+    },
+    {
+     "heading": "Salmos: el himnario de la Biblia",
+     "text": "Salmos es el libro más extenso de la Biblia: ciento cincuenta poemas, oraciones y cánticos, compuestos durante unos mil años. Sus autores son David, que escribió muchos, Asaf, los hijos de Coré, Salomón, Moisés y otros. Se organizan en cinco libros, que acaban con doxologías.\n\nHay varios tipos de salmos. Los de alabanza, como el 100 y el 150, celebran a Dios por quien es. Los de acción de gracias dan gracias por lo que hizo. Los de lamento, como el 22 y el 42, expresan angustia y piden ayuda; son la mayor parte del libro, lo cual enseña que orar con dolor es legítimo. Los salmos de confianza, como el 23, expresan seguridad en Dios. Los salmos reales y mesiánicos, como el 2, el 110 y el 72, hablan del rey y del Mesías. Los de sabiduría, como el 1 y el 119, enseñan a vivir. Y los de arrepentimiento, como el 51 y el 32, confiesan el pecado.\n\nLos salmos tienen una asombrosa capacidad de poner en palabras lo que sentimos. Calvino los llamó \"una anatomía de todas las partes del alma\". Jesús los citó con frecuencia, y en la cruz oró con el Salmo 22: Dios mío, Dios mío, ¿por qué me has desamparado? El Nuevo Testamento ve en ellos a Cristo en muchos lugares.\n\nPara leerlos, no hace falta empezar por el principio ni leerlos de golpe. Un buen hábito es leer un salmo al día y orarlo. En la parte práctica, cuando no sepas orar, usa los salmos como un lenguaje prestado. El Salmo 1 abre el libro con una invitación a meditar en la ley de Jehová y ser como un árbol plantado junto a corrientes de aguas. El Salmo 150 lo cierra con una explosión de alabanza: todo lo que respira alabe a Jah."
+    },
+    {
+     "heading": "Proverbios: sabiduría para la vida diaria",
+     "text": "Proverbios reúne máximas de sabiduría práctica, atribuidas principalmente a Salomón, entre los años 970 y 700 a. C., con aportaciones de otros sabios, como Agur y Lemuel. Su tema central, repetido, está en Proverbios 1, versículo 7: el principio de la sabiduría es el temor de Jehová.\n\nLos capítulos 1 al 9 son discursos de un padre a su hijo, que le suplica elegir la sabiduría y evitar la necedad, personificadas como dos mujeres que llaman desde la plaza. Los capítulos 10 al 29 son proverbios breves sobre temas cotidianos: el trabajo, el dinero, el habla, la familia, la amistad, la justicia, la ira, la pereza. El capítulo 31 termina con el retrato de la mujer virtuosa.\n\nConviene recordar cómo leer los proverbios: no como promesas absolutas, sino como principios generales sobre cómo suele funcionar la vida bajo el gobierno de Dios. En general, la diligencia lleva a la prosperidad y la pereza a la pobreza, pero hay excepciones, como muestran Job y Eclesiastés. Y Proverbios también incluye la dimensión espiritual: confía en Jehová de todo tu corazón, y no te apoyes en tu propia prudencia, dice 3:5. Cristo es la sabiduría de Dios, según Pablo, y en Él están escondidos todos los tesoros de la sabiduría."
+    },
+    {
+     "heading": "Eclesiastés: la vanidad de la vida sin Dios",
+     "text": "Eclesiastés es un libro que sorprende. Su autor se presenta como \"el Predicador\", identificado por la tradición con Salomón, hacia el 935 a. C. Su palabra clave es \"vanidad\", que significa vapor, aliento, algo pasajero. Repite: vanidad de vanidades, todo es vanidad.\n\nEl Predicador explora todo lo que el ser humano busca: sabiduría, placer, riqueza, trabajo, poder, fama. Y concluye que, \"debajo del sol\", es decir, sin considerar a Dios, nada da sentido final. Todo termina en la muerte y todos tienen el mismo destino. Es un libro honesto con las preguntas que muchos hacen.\n\nPero no es un libro pesimista sin remedio. Enseña a disfrutar de los dones de Dios, comida, trabajo, familia, como regalos de su mano. Y concluye, en el capítulo 12, versículos 13 y 14: el fin de todo el discurso oído es este: Teme a Dios, y guarda sus mandamientos; porque esto es el todo del hombre. Porque Dios traerá toda obra a juicio. El mensaje es que la vida solo tiene sentido en relación con Dios. Eclesiastés prepara el camino para Cristo, en quien la vida recupera su significado."
+    },
+    {
+     "heading": "Cantares: el amor como don de Dios",
+     "text": "Cantares, o Cantar de los Cantares, es un poema de amor entre un hombre y una mujer, atribuido a Salomón, hacia el 965 a. C. Su título significa \"el mejor de los cantares\". Celebra el amor matrimonial con imágenes poéticas, vívidas y delicadas.\n\nHay tres formas de leerlo. La primera, literal: es una celebración del amor y de la intimidad conyugal como don de Dios, y esto nos enseña que el amor sexual dentro del matrimonio es bueno, hermoso y santo. La segunda lo ve como alegoría del amor de Dios por Israel o de Cristo por su iglesia. La tercera combina ambas: el amor humano refleja el amor divino, como dice Pablo en Efesios 5. Una lectura equilibrada reconoce el sentido literal, sin forzar detalles alegóricos, y ve en él un reflejo del amor de Cristo por su iglesia.\n\nUn versículo muy conocido está en el capítulo 8, versículo 6: porque fuerte como la muerte es el amor; duros como el sepulcro los celos. Sus brasas, brasas de fuego, fuerte llama. El libro invita a cultivar un amor fiel, apasionado y exclusivo. En una cultura que banaliza el amor, Cantares es una voz necesaria."
+    },
+    {
+     "heading": "Cómo se relacionan los cinco libros",
+     "text": "Juntos, estos libros enseñan una vida completa con Dios. Job nos enseña a confiar en medio del misterio del sufrimiento. Salmos nos da palabras para orar. Proverbios, sabiduría para decidir. Eclesiastés, perspectiva sobre lo pasajero. Cantares, gratitud por el amor. Y todos apuntan a Cristo: el Justo que sufre, el Rey de los Salmos, la Sabiduría de Dios, el que da sentido, el Esposo de la iglesia."
+    },
+    {
+     "heading": "Cómo leerlos",
+     "text": "Lee la poesía despacio, saboreando las imágenes. No leas Proverbios como una lista de promesas legales. No leas Job como un manual de respuestas sobre el dolor, sino como una invitación a confiar en Dios. Reza los Salmos en voz alta. Lee Eclesiastés con honestidad. Y lee Cantares con reverencia."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Los Salmos ofrecen material de consuelo y adoración; Proverbios, de sabiduría práctica; Job, para acompañar a los que sufren, sin respuestas fáciles; Eclesiastés, para hablar del sentido de la vida; Cantares, para el matrimonio. Respeta el género: cada uno se predica según su forma."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué salmo me ayuda a orar en este momento de mi vida? ¿Qué proverbio necesito poner en práctica? ¿Hay algún dolor que debo llevar a Dios con la honestidad de Job?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, gracias por los poemas y las oraciones de tu Palabra. Enséñanos a alabarte, a confiar en ti cuando no entendemos, a pedir sabiduría y a disfrutar de tus dones. Que toda nuestra vida gire en torno a ti. En el nombre de Jesús. Amén."
+    }
+   ],
+   "title": "Los libros poéticos y de sabiduría"
+  },
+  "bloque-06-profetas-mayores": {
+   "sections": [
+    {
+     "heading": "La voz de Dios en tiempos difíciles",
+     "text": "Los profetas del Antiguo Testamento fueron hombres que hablaron de parte de Dios cuando el pueblo se había alejado de Él. Se llaman \"profetas mayores\" a Isaías, Jeremías, Ezequiel y Daniel, junto con Lamentaciones, no por ser más importantes, sino por la extensión de sus libros. Escribieron entre los años 740 y 530 antes de Cristo, en medio de crisis históricas: la amenaza de Asiria, la caída de Judá, el exilio en Babilonia y el regreso.\n\nEs importante entender qué hacía un profeta. No era principalmente un adivino del futuro. Era un portavoz de Dios que llamaba al pueblo a volver al pacto: denunciaba la idolatría y la injusticia, advertía del juicio, consolaba a los fieles y anunciaba la esperanza de restauración y la venida del Mesías. A veces predecían acontecimientos lejanos, pero su mensaje era, ante todo, para sus contemporáneos. Recorramos los cinco libros."
+    },
+    {
+     "heading": "Isaías: juicio, consuelo y el Siervo sufriente",
+     "text": "Isaías profetizó en Jerusalén hacia los años 740 a 680 a. C., durante los reinados de Uzías, Jotam, Acaz y Ezequías. Su libro tiene sesenta y seis capítulos, como los libros de la Biblia, y muchos lo ven como una pequeña Biblia: la primera parte, del 1 al 39, trata de juicio; la segunda, del 40 al 66, de consuelo.\n\nSu llamamiento, en el capítulo 6, es una de las escenas más gloriosas: Isaías ve al Señor sentado sobre un trono alto y sublime, y los serafines proclaman: santo, santo, santo, Jehová de los ejércitos. Siente su pecado, es purificado con un carbón encendido y responde: heme aquí, envíame a mí. De allí en adelante, anuncia el juicio por la idolatría y la injusticia, pero también la promesa de un Mesías.\n\nIsaías contiene profecías que el Nuevo Testamento ve cumplidas en Cristo. Isaías 7, versículo 14: la virgen concebirá, y dará a luz un hijo, y llamará su nombre Emanuel. Isaías 9, versículo 6: porque un niño nos es nacido, hijo nos es dado, y el principado sobre su hombro; y se llamará su nombre Admirable, Consejero, Dios fuerte, Padre eterno, Príncipe de paz. Y el capítulo 53, el canto del Siervo sufriente, que describe al que fue herido por nuestras rebeliones y molido por nuestros pecados. Es la profecía más clara de la cruz.\n\nLa segunda mitad comienza con unas palabras que han consolado a millones: consolaos, consolaos, pueblo mío, dice vuestro Dios. Anuncia el regreso del exilio, la grandeza incomparable de Dios, la ridiculez de los ídolos y la esperanza de cielos nuevos y tierra nueva. Isaías termina con una visión de la nueva creación."
+    },
+    {
+     "heading": "Jeremías: el profeta que lloró",
+     "text": "Jeremías profetizó hacia los años 627 a 580 a. C., durante los últimos reyes de Judá, hasta la caída de Jerusalén y después. Fue llamado joven, y se sentía incapaz, pero Dios le dijo que no temiera. Su ministerio fue largo y doloroso: predicó el arrepentimiento a un pueblo que no escuchaba, fue perseguido, encarcelado, arrojado a una cisterna y finalmente llevado a Egipto. Se le llama \"el profeta llorón\".\n\nSu mensaje central es: vuelvan a Dios antes de que sea tarde; si no, vendrá el juicio por medio de Babilonia. Usa imágenes impactantes: el alfarero y la arcilla, el cinto podrido, el yugo de madera, la compra de un campo mientras la ciudad era sitiada. También denuncia la falsa seguridad religiosa, la confianza en el templo sin obediencia.\n\nEn medio del juicio brilla una esperanza. En Jeremías 29, escribe a los desterrados que edifiquen casas, planten huertos y busquen la paz de la ciudad, y les promete un regreso después de setenta años. Y en el capítulo 31, versículos 31 al 34, anuncia el nuevo pacto: pondré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo. Perdonaré la maldad de ellos, y no me acordaré más de su pecado. Esta promesa se cumple en Cristo, como explica Hebreos.\n\nJeremías enseña perseverancia en un ministerio aparentemente fracasado, honestidad con Dios en la queja, y esperanza del nuevo pacto."
+    },
+    {
+     "heading": "Lamentaciones: el duelo por Jerusalén",
+     "text": "Lamentaciones es una colección de cinco poemas de dolor por la destrucción de Jerusalén en el 586 a. C. La tradición lo atribuye a Jeremías. Describe con desgarro el hambre, la humillación y la ruina de la ciudad, y reconoce que fue consecuencia del pecado del pueblo.\n\nEn medio del llanto hay una joya de esperanza, en el capítulo 3, versículos 22 y 23: por la misericordia de Jehová no hemos sido consumidos, porque nunca decayeron sus misericordias. Nuevas son cada mañana; grande es tu fidelidad. Este texto, escrito en la ruina, nos enseña que la fidelidad de Dios sigue en pie cuando todo se derrumba.\n\nLamentaciones nos da permiso para llorar. La Biblia no apura el duelo ni exige una fe sin lágrimas. Y nos enseña a lamentar con esperanza y a confesar con sinceridad. Es un libro especialmente útil para acompañar a quienes pasan por pérdidas y desastres."
+    },
+    {
+     "heading": "Ezequiel: la gloria de Dios y la restauración",
+     "text": "Ezequiel era un sacerdote deportado a Babilonia en el 597 a. C., que profetizó hacia los años 593 a 570. Mientras Jeremías hablaba en Jerusalén, Ezequiel hablaba a los desterrados. Su libro comienza con una visión impresionante: ruedas, seres vivientes y la gloria de Dios sobre un trono.\n\nEl libro tiene tres partes. En los capítulos 1 al 24, Ezequiel anuncia el juicio sobre Jerusalén, con acciones simbólicas, como cocer pan con excremento o afeitarse la cabeza, que escenifican el asedio. Los capítulos 25 al 32 contienen oráculos contra las naciones vecinas. Y los capítulos 33 al 48 anuncian la restauración.\n\nEn esta parte aparecen algunas de las imágenes más famosas. El valle de los huesos secos, en el capítulo 37, donde Dios hace que unos huesos vuelvan a vivir por su Espíritu, y pregunta: ¿vivirán estos huesos?, imagen de la restauración de Israel y de la resurrección. La promesa del corazón nuevo, en el capítulo 36, versículo 26: os daré corazón nuevo, y pondré espíritu nuevo dentro de vosotros; y quitaré de vuestra carne el corazón de piedra, y os daré un corazón de carne. Y la visión del nuevo templo, con el río de agua de vida, en los capítulos 40 al 48, interpretada de diversas maneras por los estudiosos. Y termina con el nombre de la ciudad: Jehová está allí.\n\nEzequiel enseña la santidad y soberanía de Dios, la responsabilidad personal, la esperanza de renovación por el Espíritu y la presencia de Dios en el exilio. La frase \"y sabrán que yo soy Jehová\" se repite decenas de veces."
+    },
+    {
+     "heading": "Daniel: Dios gobierna los reinos",
+     "text": "Daniel fue un joven judío llevado a Babilonia en el 605 a. C. que sirvió en las cortes de Babilonia y Persia hasta el 530 aproximadamente. Su libro tiene dos partes: relatos históricos en los capítulos 1 al 6, y visiones proféticas en los capítulos 7 al 12.\n\nLos relatos son muy conocidos. Daniel y sus tres amigos se niegan a contaminarse con la comida del rey. Nabucodonosor sueña con una estatua que Daniel interpreta. Sadrac, Mesac y Abed-nego son arrojados al horno de fuego por no adorar la estatua de oro, y responden que su Dios puede librarlos, y que aunque no lo haga, no adorarán. Un cuarto aparece en el fuego. Nabucodonosor es humillado. Una mano escribe en la pared en el banquete de Belsasar. Y Daniel, por orar a Dios, es echado al foso de los leones, de donde Dios lo libra.\n\nLa segunda parte contiene visiones de reinos que se suceden y de un reino eterno. En el capítulo 7, Daniel ve cuatro bestias y a uno como hijo de hombre que viene con las nubes y recibe un reino eterno. Jesús se aplica ese título. El capítulo 9 contiene la oración de confesión de Daniel y la profecía de las setenta semanas. Los capítulos finales anuncian conflictos y la resurrección de los muertos.\n\nDaniel enseña la fidelidad en medio de una cultura hostil, la soberanía de Dios sobre los reinos y la esperanza del reino eterno. Es un libro de gran valor para vivir como creyentes en un mundo que no comparte nuestra fe, y base de gran parte de la escatología."
+    },
+    {
+     "heading": "Cómo se ven juntos",
+     "text": "Los cinco libros forman un arco: Isaías anuncia el juicio y el consuelo antes del exilio. Jeremías vive la caída y anuncia el nuevo pacto. Lamentaciones llora. Ezequiel y Daniel viven en el exilio y anuncian la restauración y el reino. Se complementan.\n\nComparten varios temas. El pecado del pueblo, especialmente la idolatría y la injusticia, merece el juicio. Dios es soberano sobre las naciones. Dios no abandona a un remanente. Y vendrá un Mesías que traerá un nuevo pacto, un corazón nuevo y un reino eterno."
+    },
+    {
+     "heading": "Cómo leer a los profetas",
+     "text": "Recuerda que los profetas hablaban a una situación histórica. Intenta entenderla antes de aplicar. Distingue entre el juicio inmediato, la restauración cercana y el cumplimiento final en Cristo o en el fin de los tiempos. Presta atención al lenguaje poético y simbólico. Y lee las advertencias como un espejo para la iglesia de hoy. Una guía práctica: empieza por los capítulos más conocidos y luego avanza."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Los profetas ofrecen mensajes poderosos: la santidad de Dios (Isaías 6), la expiación (Isaías 53), el nuevo pacto (Jeremías 31), la esperanza en el dolor (Lamentaciones 3), el Espíritu que da vida (Ezequiel 36 y 37), la fidelidad (Daniel 3 y 6). Predica sin perder el contexto original, y conecta con Cristo."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué voz de Dios necesito escuchar hoy, aunque me incomode? ¿Cómo vivo mi fe en un entorno que no la comparte, como Daniel? ¿Dónde necesito la esperanza de que las misericordias de Dios son nuevas cada mañana?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, tú hablaste por tus profetas y en Cristo nos hablaste por última vez. Danos oídos para escuchar tu voz, valentía para vivir fielmente en medio del mundo, y esperanza en tu nuevo pacto. Que nuestro corazón de piedra se vuelva de carne. En el nombre de Jesús. Amén."
+    }
+   ],
+   "title": "Los profetas mayores"
+  },
+  "bloque-07-profetas-menores-1": {
+   "sections": [
+    {
+     "heading": "Doce voces breves y poderosas",
+     "text": "Al final del Antiguo Testamento hay doce libros cortos que los judíos contaban como un solo rollo, \"los Doce\". Los cristianos los llamamos profetas menores, no porque sean menos importantes, sino porque son más breves que los profetas mayores. En este bloque estudiaremos los primeros seis: Oseas, Joel, Amós, Abdías, Jonás y Miqueas. Los demás los veremos en el bloque siguiente.\n\nEstos profetas hablaron en momentos concretos: la prosperidad y corrupción del reino del norte antes de la caída de Samaria, la amenaza de Asiria, la decadencia de Judá. Sus mensajes mezclan denuncia del pecado, advertencia del juicio y promesa de restauración. Y apuntan al Mesías. Cada uno tiene un énfasis propio que los hace inolvidables."
+    },
+    {
+     "heading": "Oseas: el amor fiel de Dios hacia un pueblo infiel",
+     "text": "Oseas profetizó en el reino del norte, Israel, hacia los años 755 a 715 antes de Cristo, en una época de prosperidad externa y decadencia moral. Su mensaje está envuelto en una historia personal desgarradora: Dios le ordena casarse con Gomer, una mujer que le será infiel. Tienen hijos cuyos nombres son señales: \"Jezreel\", \"No compadecida\" y \"No pueblo mío\". Gomer abandona a Oseas, y Dios le manda ir a buscarla y redimirla, aun cuando ella está esclavizada.\n\nLa historia es una parábola del amor de Dios por Israel: un pueblo que lo abandona para seguir a los ídolos, pero a quien Dios no deja de amar. Dios dice, en el capítulo 11: ¿cómo podré abandonarte, oh Efraín? ¿Cómo podré yo entregarte? Hay una lucha en el corazón de Dios entre la justicia y la misericordia, y vence el amor.\n\nEl libro denuncia la idolatría, la falta de conocimiento de Dios y la religiosidad vacía. Una frase central, en 6:6, es citada por Jesús: porque misericordia quiero, y no sacrificio, y conocimiento de Dios más que holocaustos. Y termina con una invitación: vuelve, oh Israel, a Jehová tu Dios; porque por tu pecado has caído. Oseas nos muestra que el pecado es una infidelidad y que el amor de Dios es más grande: una pálida imagen de la cruz."
+    },
+    {
+     "heading": "Joel: el día del Señor y el derramamiento del Espíritu",
+     "text": "Joel es un libro de época incierta: algunos lo ubican en el siglo noveno antes de Cristo y otros en el quinto. Su ocasión es una devastadora plaga de langostas, que Joel interpreta como un anuncio del \"día de Jehová\". Llama al pueblo al ayuno, al llanto y a rasgar el corazón y no los vestidos, y a volver al Señor, que es misericordioso y clemente.\n\nEl libro tiene dos partes. En la primera, la plaga y el llamado al arrepentimiento. En la segunda, la promesa de restauración, con el pasaje más famoso, en el capítulo 2, versículos 28 y 29: y después de esto derramaré mi Espíritu sobre toda carne, y profetizarán vuestros hijos y vuestras hijas, vuestros ancianos soñarán sueños, y vuestros jóvenes verán visiones. Y también sobre los siervos y las siervas derramaré mi Espíritu en aquellos días.\n\nPedro cita esta profecía el día de Pentecostés, en Hechos 2, y dice que lo ocurrido era el cumplimiento de lo dicho por el profeta Joel. Para los pentecostales, es un texto fundamental. Joel termina con el juicio de las naciones y la bendición de Judá. Nos enseña que el día del Señor es temible para los impenitentes y de salvación para los que invocan su nombre: todo aquel que invocare el nombre de Jehová, será salvo."
+    },
+    {
+     "heading": "Amós: justicia social",
+     "text": "Amós era un pastor y cultivador de higos de Tecoa, en Judá, enviado a profetizar en el reino del norte hacia los años 760 a 750 a. C. Hablaba en una época de prosperidad, pero con graves injusticias: los ricos oprimían a los pobres, vendían al necesitado por un par de zapatos, y practicaban un culto religioso vacío.\n\nSu libro comienza con una serie de juicios sobre las naciones vecinas, con una frase repetida: por tres pecados de Damasco, y por el cuarto, no revocaré su castigo. Pronto la sentencia llega a Judá y, finalmente, a Israel. Dios exige justicia. En 5:23 y 24 dice a un pueblo que cantaba y ofrecía sacrificios: quita de mí la multitud de tus cantares, pues no oiré las salmodias de tus instrumentos. Pero corra el juicio como las aguas, y la justicia como impetuoso arroyo.\n\nAmós enseña que la adoración sin justicia es una ofensa para Dios, y que el pueblo del Señor debe cuidar de los vulnerables. Predice la caída del reino del norte. Y termina con una promesa: levantaré el tabernáculo caído de David, texto que Santiago cita en Hechos 15 para mostrar que los gentiles también son llamados. Un libro necesario para la iglesia de hoy."
+    },
+    {
+     "heading": "Abdías: juicio sobre el orgullo de Edom",
+     "text": "Abdías es el libro más corto del Antiguo Testamento: un solo capítulo, de veintiún versículos. Su fecha es discutida: probablemente hacia el 586 a. C., después de la caída de Jerusalén, aunque algunos lo ubican antes. Es un oráculo contra Edom, el pueblo descendiente de Esaú, hermano de Jacob.\n\nEdom se había aprovechado de la desgracia de Judá, había celebrado su caída, y hasta había saqueado y entregado a los fugitivos. Abdías anuncia su juicio por la soberbia: la soberbia de tu corazón te ha engañado. Y advierte que el día de Jehová está cerca sobre todas las naciones: como tú hiciste, se hará contigo.\n\nEl mensaje: Dios ve el orgullo y la violencia hacia el hermano, y no los deja sin respuesta. También hay consuelo para los oprimidos: Dios hará justicia. El libro termina con una proclamación: y el reino será de Jehová. Aunque breve, enseña que nadie puede alegrarse de la ruina de otro, y que Dios es soberano sobre las naciones."
+    },
+    {
+     "heading": "Jonás: la misericordia para todos los pueblos",
+     "text": "Jonás es un libro diferente: más que sus mensajes, relata una historia sobre el profeta. Se ubica hacia los años 780 a 760 a. C. Dios manda a Jonás a predicar en Nínive, capital de Asiria, enemiga cruel de Israel. Jonás huye en dirección opuesta, embarca hacia Tarsis, una tormenta amenaza la nave, él pide que lo arrojen al mar, y un gran pez lo traga. Desde el vientre del pez, ora, y es devuelto a la costa.\n\nDios lo manda de nuevo. Jonás predica en Nínive un mensaje breve: de aquí a cuarenta días Nínive será destruida. Y sorprendentemente, la ciudad entera se arrepiente, desde el rey hasta el último. Dios perdona. Y Jonás se enoja. Su explicación, en el capítulo 4, versículo 2, es reveladora: yo sabía que tú eres Dios clemente y piadoso, tardo en airarte, y de grande misericordia. No quería que Dios perdonara a sus enemigos.\n\nEl libro termina con una pregunta de Dios que queda abierta: ¿no tendré yo compasión de Nínive, aquella gran ciudad? El mensaje es que la misericordia de Dios no tiene fronteras, y que su pueblo debe compartir esa compasión, aun hacia quienes le resultan difíciles de amar. Jesús mismo se refirió a la señal de Jonás como una anticipación de su sepultura y resurrección. Para la misión de la iglesia, es un libro esencial."
+    },
+    {
+     "heading": "Miqueas: juicio y el Rey que nacerá en Belén",
+     "text": "Miqueas profetizó hacia los años 735 a 700 a. C., en Judá, contemporáneo de Isaías. Denuncia la injusticia, la corrupción de los líderes y la idolatría, y anuncia el juicio sobre Samaria y Jerusalén. Y a la vez, proclama una esperanza.\n\nTiene tres ciclos de juicio y promesa. En medio, hay dos textos extraordinarios. El primero, en 5:2: pero tú, Belén Efrata, pequeña para estar entre las familias de Judá, de ti me saldrá el que será Señor en Israel; y sus salidas son desde el principio, desde los días de la eternidad. Los sabios que visitaron a Herodes citaron este texto para decir dónde nacería el Mesías. Una de las profecías más precisas sobre Cristo.\n\nEl segundo, en 6:8, es un resumen de lo que Dios pide: oh hombre, él te ha declarado lo que es bueno, y qué pide Jehová de ti: solamente hacer justicia, y amar misericordia, y humillarte ante tu Dios. Es una de las síntesis más bellas de la vida piadosa. El libro termina con una alabanza a la misericordia de Dios: ¿qué Dios como tú, que perdona la maldad? Él echará en lo profundo del mar todos nuestros pecados."
+    },
+    {
+     "heading": "Lo que unen estos seis libros",
+     "text": "En estos seis profetas encontramos varios temas. Dios ama a su pueblo y lo llama a volver. El pecado, especialmente la idolatría y la injusticia, tiene consecuencias. La religión sin justicia y misericordia es vacía. El juicio es real, pero la misericordia es mayor. Dios actúa con soberanía sobre todas las naciones. Y vendrá un Mesías de Belén, un derramamiento del Espíritu y un reino de Jehová."
+    },
+    {
+     "heading": "Cómo leerlos",
+     "text": "Son libros breves, así que puedes leer cada uno de una sola vez. Antes, investiga el contexto histórico: la fecha y la situación. Identifica el mensaje central y el llamado. Busca las promesas del Mesías y cómo las cita el Nuevo Testamento. Y pregunta cómo se aplican a nuestros contextos de injusticia, idolatría y falta de compasión."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Oseas: el amor fiel de Dios. Joel: el arrepentimiento sincero y el Espíritu derramado. Amós: la justicia en la adoración. Abdías: el orgullo y la solidaridad. Jonás: la misión y la misericordia. Miqueas: lo que Dios pide y el Rey de Belén. Cada uno puede dar series de sermones. Evita reducir a los profetas a frases sueltas: predica su mensaje en su contexto."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué ídolo compite hoy con Dios en mi corazón? ¿Mi adoración va acompañada de justicia y misericordia? ¿A quién me cuesta amar como Jonás a Nínive?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, gracias por tu amor fiel, aun cuando fallamos. Ayúdanos a practicar la justicia, amar la misericordia y andar humildemente contigo. Derrama tu Espíritu sobre nosotros y danos compasión por todos los pueblos. En el nombre de Jesús. Amén."
+    }
+   ],
+   "title": "Los profetas menores (I): Oseas a Miqueas"
+  },
+  "bloque-08-profetas-menores-2": {
+   "sections": [
+    {
+     "heading": "Seis voces antes del silencio",
+     "text": "Con este bloque cerramos el Antiguo Testamento. Los seis profetas que estudiaremos, Nahúm, Habacuc, Sofonías, Hageo, Zacarías y Malaquías, hablaron en dos épocas. Nahúm, Habacuc y Sofonías profetizaron en Judá, antes de la caída de Jerusalén, en el siglo séptimo antes de Cristo. Hageo, Zacarías y Malaquías hablaron después del regreso del exilio, entre los años 520 y 430 a. C., para animar al pueblo repatriado.\n\nTras Malaquías, la voz profética calla durante unos cuatrocientos años. Es el llamado \"período del silencio\", hasta que aparece Juan el Bautista. Por eso, estos libros tienen un tono de espera y de promesa: algo más grande viene. Veamos el mensaje de cada uno."
+    },
+    {
+     "heading": "Nahúm: Dios juzga con justicia",
+     "text": "Nahúm profetizó hacia los años 660 a 612 antes de Cristo, y su libro es un oráculo contra Nínive, la capital de Asiria. Un siglo antes, Jonás había predicado allí y la ciudad se había arrepentido. Pero con el tiempo volvió a la crueldad y a la idolatría. Asiria había conquistado Israel y oprimido a muchas naciones.\n\nNahúm anuncia la caída de la ciudad con imágenes vívidas: carros, murallas, fuego. Presenta a Dios como un guerrero justo. Comienza con una descripción del carácter de Dios, en 1:2 y 3: Jehová es Dios celoso, y vengador; Jehová es vengador y lleno de indignación; se venga de sus adversarios, y guarda enojo para sus enemigos. Jehová es tardo para la ira, y grande en poder, y no tendrá por inocente al culpable. Y en el versículo 7: Jehová es bueno, fortaleza en el día de la angustia; y conoce a los que en él confían.\n\nEl libro enseña que Dios es justo y que no deja impune la opresión; los imperios que parecen invencibles caen ante Él. Para los oprimidos, es consuelo. Para los poderosos, advertencia. Nínive cayó en el 612 a. C., como Nahúm anunció."
+    },
+    {
+     "heading": "Habacuc: vivir por fe",
+     "text": "Habacuc es un libro especial, porque no es un mensaje al pueblo, sino un diálogo entre el profeta y Dios. Profetizó hacia el 610 a 600 a. C., cuando Judá estaba corrompida y Babilonia crecía. Habacuc pregunta: ¿hasta cuándo, Jehová, clamaré, y no oirás? ¿Por qué permites tanta injusticia?\n\nDios responde que levantará a los caldeos, es decir, a Babilonia, para castigar a Judá. Habacuc se escandaliza: ¿cómo puede Dios usar a un pueblo más malvado para castigar a uno menos malvado? Se pone en su atalaya a esperar la respuesta. Y Dios le dice, en 2:4: he aquí que aquel cuya alma no es recta, se enorgullece; mas el justo por su fe vivirá.\n\nEsta frase, \"el justo por su fe vivirá\", es una de las más influyentes de la Biblia. Pablo la cita en Romanos y Gálatas, y la Carta a los Hebreos también. Resume la manera de vivir cuando no entendemos los caminos de Dios: confiar. El libro termina con una oración, capítulo 3, y una declaración de fe, en los versículos 17 y 18: aunque la higuera no florezca, ni en las vides haya frutos, aunque falte el producto del olivo, y los labradores no den mantenimiento, y las ovejas sean quitadas de la majada, y no haya vacas en los corrales; con todo, yo me alegraré en Jehová, y me gozaré en el Dios de mi salvación. Es un modelo de fe en la prueba."
+    },
+    {
+     "heading": "Sofonías: el día del Señor y el remanente",
+     "text": "Sofonías profetizó hacia el 640 a 620 a. C., durante el reinado de Josías, antes de su reforma. Habla de un juicio universal, el \"día de Jehová\", que alcanzará a Judá y a las naciones: día de ira aquel día, día de angustia y de aprieto. Denuncia la idolatría, la complacencia de los que dicen que Dios no hará ni bien ni mal, y la corrupción de los líderes.\n\nPero el libro termina con una de las promesas más tiernas de toda la Escritura. En 3:17, Dios se alegra por su pueblo: Jehová está en medio de ti, poderoso, él salvará; se gozará sobre ti con alegría, callará de amor, se regocijará sobre ti con cánticos. Imagina a Dios cantando de gozo sobre su pueblo.\n\nSofonías enseña que Dios juzga el pecado, pero preserva un remanente humilde que busca la justicia y la humildad. Y que el último capítulo de la historia es de restauración y de gozo."
+    },
+    {
+     "heading": "Hageo: poner primero la casa de Dios",
+     "text": "Hageo profetizó en el 520 a. C., el segundo año del rey Darío, a los judíos que habían vuelto del exilio. Habían empezado a reconstruir el templo, pero habían abandonado la obra durante unos quince años, ocupándose de construir sus propias casas. Su mensaje es sencillo y directo: ¿es acaso tiempo de que vosotros habitéis en vuestras casas artesonadas, y esta casa esté desierta?\n\nDios les hace ver que sus esfuerzos son vanos porque han puesto sus prioridades al revés: sembráis mucho, y recogéis poco. Consideren sus caminos. El pueblo escucha, obedece y retoma la obra, y Dios les dice: yo estoy con vosotros. Hageo anima a los que se sienten desalentados por el contraste entre el nuevo templo y el anterior, y promete que la gloria postrera de esta casa será mayor que la primera.\n\nHageo enseña a poner a Dios primero en nuestras prioridades, a no postergar su obra por nuestras comodidades y a confiar en su presencia y su promesa. Aplicado a hoy, nos pregunta qué lugar ocupa el Señor en nuestro tiempo, dinero y energías."
+    },
+    {
+     "heading": "Zacarías: visiones de ánimo y el Mesías Rey",
+     "text": "Zacarías profetizó entre el 520 y el 480 a. C., como contemporáneo de Hageo. Su libro es más complejo: contiene ocho visiones nocturnas, oráculos y profecías mesiánicas. Su propósito es animar a los repatriados con la certeza de que Dios sigue obrando y que el Mesías vendrá.\n\nLa primera parte, capítulos 1 al 8, contiene las visiones: un hombre entre mirtos, cuatro cuernos y cuatro artífices, un hombre con un cordel de medir, el sumo sacerdote Josué limpiado de sus vestiduras sucias, el candelero de oro y los olivos, y otras. En una de ellas, Dios dice, en 4:6: no con ejército, ni con fuerza, sino con mi Espíritu, ha dicho Jehová de los ejércitos. Un principio para toda obra de Dios.\n\nLa segunda parte, capítulos 9 al 14, contiene profecías sobre el Mesías, que el Nuevo Testamento cita con frecuencia. En 9:9: alégrate mucho, hija de Sion; da voces de júbilo, hija de Jerusalén; he aquí tu rey vendrá a ti, justo y salvador, humilde, y cabalgando sobre un asno. Se cumplió en la entrada triunfal de Jesús. También hay referencias al pastor herido, las treinta piezas de plata, el que traspasaron y la fuente abierta para limpiar del pecado. Y termina con una visión de Jehová reinando sobre toda la tierra, y santidad en todo, incluso en los cascabeles de los caballos.\n\nZacarías enseña a confiar en el poder del Espíritu, a mirar con esperanza al futuro y a reconocer a Cristo como el Rey humilde y el pastor que da su vida."
+    },
+    {
+     "heading": "Malaquías: fidelidad antes del silencio",
+     "text": "Malaquías, cuyo nombre significa \"mi mensajero\", profetizó hacia el 430 a. C., unos cien años después de Hageo y Zacarías. Ya el templo estaba reconstruido y la ciudad restaurada, pero el entusiasmo se había enfriado. Los sacerdotes ofrecían animales defectuosos, el pueblo cumplía con desgana, los matrimonios se rompían y se descuidaban los diezmos.\n\nEl libro se estructura en una serie de diálogos, donde Dios acusa y el pueblo pregunta: ¿en qué? Dios dice: yo os he amado. Y ellos: ¿en qué nos amaste? Dios: vosotros habéis menospreciado mi nombre. Ellos: ¿en qué hemos menospreciado tu nombre? Así se muestra un pueblo que no ve su propio pecado.\n\nHay un texto muy conocido sobre el diezmo, en 3:10: traed todos los diezmos al alfolí y haya alimento en mi casa; y probadme ahora en esto, dice Jehová de los ejércitos, si no os abriré las ventanas de los cielos, y derramaré sobre vosotros bendición hasta que sobreabunde. Fue dicho al pueblo de Israel, bajo la ley, y refleja un principio de generosidad y confianza en Dios.\n\nEl libro termina con promesas. Anuncia al mensajero que preparará el camino, que el Nuevo Testamento identifica con Juan el Bautista, y al Señor que vendrá a su templo. Y en 4:2: mas a vosotros los que teméis mi nombre, nacerá el Sol de justicia, y en sus alas traerá salud. Y la última palabra del Antiguo Testamento es el anuncio de Elías, que volverá el corazón de los padres hacia los hijos. Después, cuatrocientos años de silencio, hasta Mateo."
+    },
+    {
+     "heading": "Lo que unen estos seis libros",
+     "text": "Los seis tienen en común una combinación de juicio y esperanza. Nahúm, Habacuc y Sofonías afirman que Dios es soberano sobre los imperios, que el justo vive por fe y que Él se alegra en su pueblo. Hageo, Zacarías y Malaquías animan a un pueblo desalentado con prioridades correctas, poder del Espíritu, un Rey que viene y fidelidad cotidiana.\n\nTambién ponen el dedo en un problema muy común: la decadencia espiritual después de un avivamiento o de un retorno. Malaquías muestra a un pueblo que cumplía formalmente pero sin corazón. Es una advertencia para la iglesia de hoy. Y todos terminan mirando hacia adelante: viene el Mesías."
+    },
+    {
+     "heading": "Cómo leerlos",
+     "text": "Lee cada libro de una sola vez, ubicándote en el momento histórico. Para Zacarías, acepta que es más difícil y apóyate en una Biblia de estudio. Observa cómo el Nuevo Testamento cita estas profecías. Pregunta qué dice cada libro sobre la manera de vivir cuando Dios parece callar. Y recuerda que, tras este silencio, llega Cristo."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Nahúm: la justicia de Dios. Habacuc: la fe en la prueba. Sofonías: el Dios que canta de gozo. Hageo: prioridades. Zacarías: el Rey humilde y el poder del Espíritu. Malaquías: la adoración con corazón. Predica cada libro en su contexto, y apunta a Cristo, el Sol de justicia."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué lugar ocupa la casa de Dios en mis prioridades? ¿Qué me enseña Habacuc para vivir por fe cuando no entiendo lo que pasa? ¿Mi adoración es de corazón o un cumplimiento?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, tú eres justo y eres bueno. Ayúdanos a vivir por fe, a poner tu obra primero, a confiar en tu Espíritu y a adorarte con corazón sincero. Gracias porque en Cristo nos nació el Sol de justicia. En su nombre. Amén."
+    }
+   ],
+   "title": "Los profetas menores (II): Nahúm a Malaquías"
+  },
+  "bloque-09-sinopticos": {
+   "sections": [
+    {
+     "heading": "Tres retratos de un mismo Señor",
+     "text": "Después de cuatro siglos de silencio, el Nuevo Testamento empieza con cuatro libros que cuentan la vida de Jesús: los Evangelios. La palabra \"evangelio\" significa \"buena noticia\". Los tres primeros, Mateo, Marcos y Lucas, se llaman sinópticos, porque, vistos juntos, tienen mucho en común y se pueden \"ver en conjunto\". Relatan muchos de los mismos hechos y enseñanzas, a menudo con palabras similares. El cuarto, Juan, tiene un carácter distinto, y lo veremos en el bloque siguiente.\n\n¿Por qué cuatro evangelios y no uno? Porque cada autor escribió con un propósito y para un público concreto, y muestra a Jesús desde un ángulo. No se contradicen; se complementan, como cuatro fotografías del mismo rostro tomadas desde lados distintos. Así nos dan una imagen más rica de Cristo. En esta lección conoceremos el rostro que cada uno resalta."
+    },
+    {
+     "heading": "Mateo: Jesús, el Rey y Mesías prometido",
+     "text": "Mateo, también llamado Leví, era un cobrador de impuestos a quien Jesús llamó a seguirlo. La tradición lo identifica como el autor, hacia los años 60 a 70 después de Cristo. Escribió principalmente para lectores judíos, y por eso abunda en referencias al Antiguo Testamento. Repite la fórmula \"para que se cumpliese lo dicho por el profeta\".\n\nSu propósito es demostrar que Jesús es el Mesías prometido, el Rey de Israel. Comienza con una genealogía que va desde Abraham y David hasta Jesús. Incluye el nacimiento virginal, la visita de los magos, la huida a Egipto y el bautismo y la tentación de Jesús. Después organiza su relato en cinco grandes discursos, imitando los cinco libros de Moisés: el Sermón del Monte, en los capítulos 5 al 7; el discurso misionero, en el 10; las parábolas del reino, en el 13; el discurso sobre la comunidad, en el 18; y el discurso sobre el fin de los tiempos, en los capítulos 24 y 25.\n\nMateo es el único Evangelio que usa la palabra \"iglesia\". Termina con la Gran Comisión, en 28:18 al 20: toda potestad me es dada en el cielo y en la tierra. Por tanto, id, y haced discípulos a todas las naciones. Y con una promesa: yo estoy con vosotros todos los días, hasta el fin del mundo. Quien lee Mateo ve a un Rey que enseña con autoridad, que cumple la ley y los profetas, y que establece su reino."
+    },
+    {
+     "heading": "Marcos: Jesús, el Siervo que da su vida",
+     "text": "Marcos, o Juan Marcos, fue compañero de Pablo y Bernabé, y según la tradición, secretario de Pedro. Su Evangelio, el más breve, se escribió hacia los años 55 a 65 d. C., probablemente para lectores romanos, que valoraban la acción. Es rápido, dinámico, lleno de la palabra \"inmediatamente\".\n\nMarcos muestra a Jesús como el Siervo que sirve y da su vida. Dedica poco espacio a los discursos y mucho a los hechos: sanidades, exorcismos, milagros. Una frase central, en 10:45: porque el Hijo del Hombre no vino para ser servido, sino para servir, y para dar su vida en rescate por muchos. El libro pone en un lugar prominente la pasión de Cristo: casi un tercio del Evangelio trata de la última semana de Jesús.\n\nEl Evangelio tiene dos mitades. En la primera, que llega hasta el capítulo 8, se plantea la pregunta de quién es Jesús, hasta que Pedro confiesa: tú eres el Cristo. En la segunda, Jesús comienza a anunciar su muerte y resurrección y marcha hacia Jerusalén. El centurión romano al pie de la cruz dice: verdaderamente este hombre era Hijo de Dios. El final de Marcos es objeto de discusión textual: los manuscritos más antiguos terminan en 16:8, con el temor de las mujeres ante la tumba vacía, y algunos incluyen un final más largo. Lo importante es que Jesús resucitó.\n\nMarcos es excelente para quien comienza a leer los Evangelios: es breve y directo. Enseña lo que cuesta seguir a Jesús: negarse a sí mismo, tomar la cruz."
+    },
+    {
+     "heading": "Lucas: Jesús, Salvador de todos",
+     "text": "Lucas era médico, compañero de Pablo, y el único autor gentil del Nuevo Testamento. Escribió su Evangelio hacia el año 60 d. C., y también el libro de Hechos, como dos partes de una misma obra, dirigidas a Teófilo. En su prólogo explica que investigó todo con diligencia desde el principio, para escribir un relato ordenado.\n\nSu perspectiva es universal: Jesús es el Salvador de todos, especialmente de los marginados. Lucas presta atención a los pobres, a las mujeres, a los enfermos, a los samaritanos, a los publicanos y a los pecadores. Solo él relata las parábolas del buen samaritano, el hijo pródigo, el rico y Lázaro, el fariseo y el publicano, la oveja y la moneda perdidas. Una frase clave: porque el Hijo del Hombre vino a buscar y a salvar lo que se había perdido, dice 19:10.\n\nLucas pone un énfasis especial en la oración, en el Espíritu Santo y en el gozo. Es el Evangelio con la narración más completa del nacimiento de Jesús: el anuncio a Zacarías y a María, el cántico de María, el nacimiento en Belén, los pastores, Simeón y Ana. Después de su ministerio, narra el camino a Jerusalén en una larga sección propia, la pasión, y la resurrección, con la hermosa escena de los discípulos de Emaús. Termina con la ascensión y la promesa del Espíritu, preparando a Hechos."
+    },
+    {
+     "heading": "¿Por qué se parecen y se distinguen?",
+     "text": "Los estudiosos hablan del \"problema sinóptico\": las similitudes y diferencias entre los tres. Hay varias explicaciones. Una muy extendida es que Marcos fue escrito primero y que Mateo y Lucas lo usaron, junto con otras fuentes, incluyendo una colección de enseñanzas de Jesús y material propio. Otros sostienen otras teorías. La Biblia no resuelve este problema técnico, y los cristianos pueden diferir. Lo que sí creemos es que los tres fueron inspirados y que dan un testimonio fiel de Cristo.\n\nLas diferencias entre los relatos no son contradicciones. Un autor selecciona, resume y ordena según su propósito. Dos testigos que cuentan un mismo hecho desde ángulos distintos son más creíbles que si repitieran palabra por palabra. Y las genealogías de Mateo y Lucas difieren porque cada una tiene su énfasis: Mateo sigue la línea legal hasta José, y Lucas, según muchos, la línea de María o una forma distinta de contar."
+    },
+    {
+     "heading": "Lo que comparten",
+     "text": "Los tres narran lo central: el bautismo y la tentación, el ministerio en Galilea, los milagros, las parábolas, la confesión de Pedro, la transfiguración, el camino a Jerusalén, la entrada triunfal, la última cena, la crucifixión y la resurrección. Los tres presentan a Jesús como el Hijo de Dios, que enseña con autoridad, que sana y libera, que llama a seguirlo y que muere y resucita por nuestros pecados. Y los tres anuncian el reino de Dios."
+    },
+    {
+     "heading": "Cómo leerlos",
+     "text": "Un buen método es leer cada Evangelio completo, de corrido, para captar su perspectiva. Después, compara pasajes paralelos. Hay recursos llamados \"armonías\" que los alinean. Pregunta qué quiere subrayar cada autor. Para los pasajes más conocidos, como el Sermón del Monte o las parábolas, considera el contexto de cada Evangelio. Y recuerda que el objetivo no es solo informarse, sino conocer, amar y seguir a Jesús."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Mateo: el Rey y su reino, el Sermón del Monte, la Gran Comisión. Marcos: el Siervo, el discipulado costoso. Lucas: el Salvador de los perdidos, la oración, el Espíritu. Los Evangelios ofrecen la mayor parte de los textos para sermones sobre Cristo. Prepara cada mensaje en el contexto del Evangelio donde aparece, y deja que Jesús sea el centro."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Cuál de los tres rostros de Jesús me resulta más cercano hoy: el Rey, el Siervo o el Salvador? ¿Qué parte de su llamado me cuesta más obedecer? ¿Cuál parábola de Lucas me habla en este momento?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor Jesús, gracias por los Evangelios, que nos permiten conocerte. Ayúdanos a verte como Rey, como Siervo y como Salvador, y a seguirte con todo el corazón. En tu nombre. Amén."
+    }
+   ],
+   "title": "Los Evangelios sinópticos: Mateo, Marcos y Lucas"
+  },
+  "bloque-10-juan-hechos": {
+   "sections": [
+    {
+     "heading": "El Hijo de Dios y la iglesia en marcha",
+     "text": "Dos libros ocupan un lugar muy especial en el Nuevo Testamento, y los estudiamos juntos porque se miran uno al otro. El Evangelio de Juan presenta a Jesucristo como el Hijo de Dios hecho hombre, y su propósito es llevarnos a creer. Hechos de los Apóstoles cuenta lo que sucedió después de la ascensión: el Espíritu Santo desciende y la iglesia nace y se extiende desde Jerusalén hasta Roma.\n\nJuan cierra una etapa, la vida de Jesús, y Hechos abre otra, la vida de la iglesia. Para los pentecostales, además, Hechos es un libro entrañable, porque muestra el poder del Espíritu en acción. Veamos cada uno."
+    },
+    {
+     "heading": "Juan: creer para tener vida",
+     "text": "El autor es el apóstol Juan, uno de los doce, el discípulo a quien Jesús amaba. Escribió su Evangelio hacia los años 85 a 95 después de Cristo, ya anciano, desde Éfeso, según la tradición. Es distinto de los sinópticos: omite muchos relatos que ellos cuentan, como las parábolas y los exorcismos, e incluye otros únicos: las bodas de Caná, Nicodemo, la mujer samaritana, la resurrección de Lázaro, el lavamiento de pies, los largos discursos de la última noche.\n\nSu propósito está declarado en 20:30 y 31: hizo además Jesús muchas otras señales en presencia de sus discípulos, que no están escritas en este libro. Pero estas se han escrito para que creáis que Jesús es el Cristo, el Hijo de Dios, y para que creyendo, tengáis vida en su nombre. El Evangelio quiere que el lector crea.\n\nComienza con un prólogo grandioso, el que vimos en la doctrina de Jesucristo: en el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios. Y el Verbo se hizo carne. Luego sigue una estructura en dos partes. En los capítulos 1 al 12, el \"libro de las señales\", Juan selecciona siete milagros que revelan la identidad de Jesús: convertir agua en vino, sanar al hijo del oficial, al paralítico de Betesda, alimentar a cinco mil, caminar sobre el agua, devolver la vista al ciego de nacimiento y resucitar a Lázaro. En los capítulos 13 al 21, el \"libro de la gloria\", narra la última cena, los discursos de despedida, la oración sacerdotal, la pasión y la resurrección.\n\nJuan incluye siete declaraciones de Jesús con \"yo soy\": el pan de vida, la luz del mundo, la puerta, el buen pastor, la resurrección y la vida, el camino, la verdad y la vida, y la vid verdadera. Palabras clave del libro: creer, vida, luz, verdad, amor, permanecer. El versículo más conocido de toda la Biblia está aquí, en 3:16: porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna.\n\nEl Evangelio de Juan es también el que más habla del Espíritu Santo como el Consolador, que nos guía a toda verdad. Termina con la restauración de Pedro, que había negado a Jesús, a quien el Señor pregunta tres veces: ¿me amas? Es un libro perfecto para quien quiere conocer a Jesús y para presentarlo a quien busca la fe."
+    },
+    {
+     "heading": "Hechos: la iglesia y el Espíritu en acción",
+     "text": "Hechos fue escrito por Lucas, hacia el año 62 d. C., como segunda parte de su Evangelio, dirigida también a Teófilo. Cubre unos treinta años, desde la ascensión hasta la prisión de Pablo en Roma. Es el único libro histórico del Nuevo Testamento que narra los comienzos de la iglesia.\n\nSu versículo clave, que da el bosquejo, es 1:8: pero recibiréis poder, cuando haya venido sobre vosotros el Espíritu Santo, y me seréis testigos en Jerusalén, en toda Judea, en Samaria, y hasta lo último de la tierra. El libro se desarrolla en esas etapas. En los capítulos 1 al 7, la iglesia nace y crece en Jerusalén: la ascensión, Pentecostés, los primeros milagros y la persecución, y el martirio de Esteban. En los capítulos 8 al 12, el evangelio avanza a Judea y Samaria: la predicación de Felipe, la conversión de Saulo, Pedro con Cornelio, la iglesia en Antioquía. Y en los capítulos 13 al 28, llega hasta Roma, mediante los viajes misioneros de Pablo.\n\nHechos muestra una iglesia llena del Espíritu: el día de Pentecostés, los samaritanos, Cornelio, los efesios. Vemos su vida: perseveraban en la doctrina, la comunión, el partimiento del pan y las oraciones. Vemos su valentía: ante el Sanedrín, Pedro y Juan responden que es mejor obedecer a Dios antes que a los hombres. Vemos sus conflictos y su manera de resolverlos, como en el concilio de Jerusalén. Y vemos su misión, con los tres viajes de Pablo, la plantación de iglesias en Filipos, Tesalónica, Corinto y Éfeso.\n\nEl libro es una invitación a una iglesia con poder y misión. Aun así, hay que leerlo con cuidado: es un libro narrativo, que describe lo que ocurrió, y no todo lo descrito es un mandato. Por ejemplo, los cristianos de Jerusalén compartían sus bienes, pero no es una orden para todas las iglesias. Las doctrinas se afirman con textos de enseñanza directa, y Hechos las ilustra.\n\nLos pentecostales encuentran en Hechos el patrón de la experiencia del bautismo en el Espíritu. En los capítulos 2, 8, 10 y 19, vemos a creyentes que reciben el Espíritu, a veces con la señal de lenguas, que revela una realidad vigente. Pero Hechos también nos recuerda el costo: persecución, cárcel, martirio. Termina de manera abierta: Pablo, preso en Roma, predicaba el reino de Dios y enseñaba acerca del Señor Jesucristo, abiertamente y sin impedimento. El libro no concluye porque la historia continúa en nosotros."
+    },
+    {
+     "heading": "Cómo se complementan",
+     "text": "Juan nos muestra a Cristo en su persona y su obra. Hechos nos muestra a Cristo continuando su obra por medio de su iglesia y del Espíritu. Hechos comienza diciendo que su primer libro trató de todo lo que Jesús comenzó a hacer y a enseñar. Lo que Jesús comenzó, lo continúa. En Juan, Jesús promete enviar al Consolador; en Hechos, lo hace. En Juan, Jesús ora para que los suyos sean uno; en Hechos, vemos a la iglesia unida y también enfrentando divisiones. En Juan, nos envía como el Padre lo envió; en Hechos, vemos cómo ocurre."
+    },
+    {
+     "heading": "Cómo leerlos",
+     "text": "Lee Juan despacio, con tiempo para meditar. Comienza por los capítulos 1 al 4 para conocer a Jesús, y luego los discursos de despedida, del 13 al 17. Lee Hechos de corrido, siguiendo el avance geográfico. Observa el papel del Espíritu, la predicación, las comunidades y los conflictos. Pregunta: ¿qué se describe y qué se enseña? ¿Qué principios permanecen? Un mapa de los viajes de Pablo ayuda mucho."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Juan ofrece material para predicar sobre quién es Jesús, la fe, el nuevo nacimiento, el Espíritu y el amor. Hechos, para predicar la iglesia, la misión, el Espíritu, la oración, la valentía y la vida en comunidad. Procura mantener el equilibrio: lo que se narra, con sus principios, y lo que se enseña en las cartas."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué señal de Jesús en Juan me anima más? ¿Qué parte del mandato de Hechos 1:8 estoy cumpliendo: mi Jerusalén, mi Judea, mi Samaria, o el fin de la tierra? ¿Necesito una llenura nueva del Espíritu?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor Jesús, te damos gracias por darte a conocer y por darnos vida. Llénanos de tu Espíritu para ser testigos en nuestra casa, nuestra ciudad y hasta lo último de la tierra. Haznos una iglesia valiente, unida y fiel. En tu nombre. Amén."
+    }
+   ],
+   "title": "Juan y Hechos"
+  },
+  "bloque-11-romanos-galatas": {
+   "sections": [
+    {
+     "heading": "Las grandes cartas de Pablo",
+     "text": "Después de los Evangelios y Hechos, el Nuevo Testamento contiene veintiún cartas, de las cuales trece llevan el nombre de Pablo. Las primeras cuatro, en el orden en que aparecen en la Biblia, son Romanos, Primera y Segunda de Corintios y Gálatas. Se escribieron entre los años 49 y 57 después de Cristo, durante los viajes misioneros de Pablo.\n\nEstas cartas son documentos reales dirigidos a iglesias reales con problemas reales. Por eso, las leemos como un diálogo: cada una responde a una situación. Y a la vez contienen las doctrinas más importantes de la fe cristiana: la justificación por la fe, la vida en el Espíritu, la iglesia, los dones, la resurrección y la libertad en Cristo. Recorreremos cada carta con su propósito y su mensaje."
+    },
+    {
+     "heading": "Romanos: la justicia de Dios",
+     "text": "Pablo escribió esta carta hacia el año 57 d. C., probablemente desde Corinto, a la iglesia de Roma, que no había fundado, ante la perspectiva de visitarla. Es la exposición más sistemática del evangelio en todo el Nuevo Testamento.\n\nEl tema central está en 1:16 y 17: porque no me avergüenzo del evangelio, porque es poder de Dios para salvación a todo aquel que cree; al judío primeramente, y también al griego. Porque en el evangelio la justicia de Dios se revela por fe y para fe, como está escrito: mas el justo por la fe vivirá.\n\nEl argumento avanza en pasos. Los capítulos 1 al 3 demuestran que todos, judíos y gentiles, son pecadores y están bajo condenación: por cuanto todos pecaron, y están destituidos de la gloria de Dios. Los capítulos 3 al 5 explican la justificación: somos declarados justos por la fe en Cristo, no por las obras. Abraham es el modelo. Los capítulos 6 al 8 tratan de la santificación: la unión con Cristo en su muerte y resurrección, la lucha contra el pecado, y la vida en el Espíritu. El capítulo 8 es una cumbre: ninguna condenación hay para los que están en Cristo Jesús; el Espíritu da testimonio de que somos hijos; todas las cosas ayudan a bien; y nada nos separará del amor de Dios.\n\nLos capítulos 9 al 11 abordan el lugar de Israel en el plan de Dios, con el misterio de su endurecimiento parcial y su restauración. Y los capítulos 12 al 16 aplican todo en la vida práctica: presentar nuestros cuerpos en sacrificio vivo, usar los dones, amar sin fingimiento, someterse a las autoridades, no juzgar al hermano débil, vivir en unidad. Romanos es, quizá, el libro que más ha moldeado la teología cristiana; La conversión de Agustín, la de Lutero y la experiencia de Wesley están ligadas a la lectura de esta carta."
+    },
+    {
+     "heading": "Primera de Corintios: una iglesia con dones y problemas",
+     "text": "Corinto era una ciudad portuaria rica, cosmopolita y moralmente corrupta. Pablo fundó la iglesia allí hacia el año 51 y le escribió hacia el 55 desde Éfeso, para responder a noticias de problemas y a preguntas que le habían planteado.\n\nLa iglesia tenía muchas dificultades: divisiones en torno a líderes humanos, un caso de inmoralidad sexual tolerado, demandas judiciales entre hermanos, dudas sobre el matrimonio y la soltería, discusiones sobre comer lo sacrificado a los ídolos, abusos en la Cena del Señor, desorden en el uso de los dones, y dudas sobre la resurrección. Pablo responde a cada tema con firmeza y amor.\n\nTres capítulos destacan. El capítulo 12 habla de los dones espirituales y del cuerpo de Cristo, con muchos miembros. El capítulo 13, el himno del amor: si yo hablase lenguas humanas y angélicas, y no tengo amor, vengo a ser como metal que resuena. Y el amor es sufrido, es benigno, no es envidioso. El amor nunca deja de ser. El capítulo 14 regula las lenguas y la profecía en el culto, con la regla de que todo se haga con orden. Y el capítulo 15 es la gran defensa de la resurrección: si Cristo no resucitó, vana es nuestra fe.\n\nPara los pentecostales, es una carta fundamental sobre los dones y su ejercicio. Enseña también que los dones sin amor y sin orden dañan en lugar de edificar, y que una iglesia espiritual no es necesariamente una iglesia madura."
+    },
+    {
+     "heading": "Segunda de Corintios: el ministerio y el sufrimiento",
+     "text": "Pablo escribió esta carta hacia el 56 d. C., desde Macedonia, después de una relación tensa con la iglesia. Algunos falsos apóstoles habían cuestionado su autoridad y su carácter. Es su carta más personal, que revela su corazón.\n\nTiene tres partes. En los capítulos 1 al 7, Pablo defiende su ministerio y habla del consuelo en el sufrimiento: bendito sea el Dios y Padre de nuestro Señor Jesucristo, Padre de misericordias y Dios de toda consolación. Describe el ministerio como llevar un tesoro en vasos de barro, y la nueva creación: si alguno está en Cristo, nueva criatura es. Los capítulos 8 y 9 tratan de la ofrenda para los pobres de Jerusalén, con principios de generosidad: Dios ama al dador alegre. Y los capítulos 10 al 13 son una defensa vigorosa frente a los falsos apóstoles, en la que Pablo enumera sus sufrimientos y habla de su aguijón en la carne, con la respuesta del Señor: bástate mi gracia; porque mi poder se perfecciona en la debilidad.\n\nEsta carta enseña que el verdadero ministerio se reconoce por el carácter, el servicio y la disposición a sufrir por Cristo, y no por el éxito visible o la elocuencia. Es una carta ideal para pastores, líderes y para quienes pasan por pruebas."
+    },
+    {
+     "heading": "Gálatas: libertad en Cristo",
+     "text": "Gálatas es una carta apasionada y urgente, escrita hacia los años 49 a 55 d. C. a las iglesias de Galacia, en Asia Menor. Pablo está indignado: algunos maestros llamados \"judaizantes\" habían convencido a los creyentes gentiles de que, además de creer en Cristo, debían circuncidarse y guardar la ley de Moisés para ser salvos. Pablo no suaviza el tono. Dice que si alguien predica otro evangelio, sea anatema.\n\nEl argumento está en tres partes. En los capítulos 1 y 2, defiende su apostolado y su mensaje, y cuenta cómo resistió a Pedro cuando se echó atrás por temor. Declara en 2:16 y 20 que el hombre no es justificado por las obras de la ley, sino por la fe de Jesucristo, y que con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive Cristo en mí. En los capítulos 3 y 4, argumenta desde la Escritura: Abraham fue justificado por fe, la ley fue un ayo hasta Cristo, y los creyentes son hijos de Abraham y herederos. Y en los capítulos 5 y 6, enseña cómo vivir esa libertad: para libertad nos libertó Cristo; no uséis la libertad como ocasión para la carne, sino andad en el Espíritu. Presenta el fruto del Espíritu, amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre y templanza.\n\nGálatas es la carta de la libertad cristiana frente al legalismo, y sigue siendo necesaria. Cada vez que añadimos requisitos a la gracia, o creemos que nuestras obras nos hacen aceptables, caemos en el error de Galacia."
+    },
+    {
+     "heading": "Lo que une estas cuatro cartas",
+     "text": "Aunque cada una tiene su ocasión, comparten una columna vertebral: la salvación es por gracia mediante la fe en Cristo, y esa fe produce una vida nueva en el Espíritu. Romanos expone la doctrina; Primera de Corintios la aplica a una iglesia desordenada; Segunda de Corintios, al ministerio y al sufrimiento; Gálatas la defiende frente al legalismo. Todas enfatizan la cruz y la resurrección, la unidad del cuerpo de Cristo, el amor y la obra del Espíritu."
+    },
+    {
+     "heading": "Cómo leerlas",
+     "text": "Lee cada carta de corrido, como una carta. Identifica el problema que la origina, el argumento y las aplicaciones. Presta atención a los conectores, \"por tanto\", \"así que\", \"porque\". En Romanos, no te pierdas en detalles: sigue el hilo que va de la condenación a la justificación, de la santificación a la glorificación. Y en las cartas a los corintios, pregunta qué problemas se parecen a los de nuestras iglesias."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Romanos: la gracia, la justificación, la vida en el Espíritu, la seguridad del amor de Dios. Primera de Corintios: los dones, el amor, el orden, la resurrección. Segunda de Corintios: el consuelo, la generosidad, el poder en la debilidad. Gálatas: la libertad, el fruto del Espíritu. Predica estas cartas respetando su contexto y su argumento."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Estoy descansando en la gracia o tratando de ganarme el favor de Dios? ¿Mi uso de los dones va acompañado de amor? ¿Qué debilidad mía ha mostrado el poder de Dios?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, gracias por el evangelio de la gracia, que nos justifica por la fe en Cristo. Guárdanos del legalismo y del libertinaje. Danos amor, orden, generosidad y poder en la debilidad. Haznos andar en el Espíritu. En el nombre de Jesús. Amén."
+    }
+   ],
+   "title": "Romanos, 1 y 2 Corintios y Gálatas"
+  },
+  "bloque-12-prision-tesalonicenses": {
+   "sections": [
+    {
+     "heading": "Cartas escritas desde la cárcel y desde el camino",
+     "text": "En este bloque reunimos cinco cartas de Pablo. Tres de ellas, Efesios, Filipenses y Colosenses, se conocen como \"cartas de la prisión\", porque Pablo las escribió estando encarcelado en Roma, hacia los años 60 a 62 después de Cristo. Las otras dos, Primera y Segunda de Tesalonicenses, son de las más antiguas del Nuevo Testamento, escritas hacia el 50 y 51, durante su segundo viaje misionero.\n\nEntre ellas hay una gran variedad de tonos: la grandeza de la iglesia, el gozo en el sufrimiento, la supremacía de Cristo, y la esperanza de su regreso. Todas muestran a un apóstol que, aun en circunstancias difíciles, pastorea a las iglesias con ternura. Veamos cada una."
+    },
+    {
+     "heading": "Efesios: la iglesia, cuerpo de Cristo",
+     "text": "Efesios es una carta de altura, posiblemente una circular para varias iglesias de Asia. Tiene dos mitades equilibradas. Los capítulos 1 al 3 exponen la doctrina: lo que Dios hizo en Cristo. Los capítulos 4 al 6 aplican la práctica: cómo vivir en consecuencia.\n\nLa primera mitad comienza con una alabanza que es una sola frase larga en griego: bendito el Dios y Padre de nuestro Señor Jesucristo, que nos bendijo con toda bendición espiritual en los lugares celestiales en Cristo. Habla de la elección, la adopción, la redención, el sello del Espíritu. Explica que, estando muertos en pecados, fuimos hechos vivos por gracia, no por obras. Enseña que judíos y gentiles son un solo cuerpo, derribando la pared de separación. Y concluye con una oración por los lectores y una doxología al Dios que puede hacer mucho más abundantemente de lo que pedimos o entendemos.\n\nLa segunda mitad empieza con un ruego: que andéis como es digno de la vocación con que fuisteis llamados. Habla de la unidad del Espíritu, de los dones que Cristo da para edificar la iglesia, de dejar el viejo hombre y vestirse del nuevo, de vivir en amor y en luz. Aborda las relaciones: esposos y esposas, padres e hijos, siervos y señores. Y termina con la armadura de Dios, en el capítulo 6: porque no tenemos lucha contra sangre y carne, sino contra principados, contra potestades. Cinturón de la verdad, coraza de justicia, calzado del evangelio, escudo de la fe, yelmo de la salvación y espada del Espíritu, y orar en todo tiempo.\n\nEfesios nos enseña que la iglesia es el plan de Dios para unir todas las cosas en Cristo, y que vivir como iglesia es una vocación."
+    },
+    {
+     "heading": "Filipenses: el gozo en Cristo, aun en la prisión",
+     "text": "Filipenses es la carta más cálida de Pablo. Va dirigida a la iglesia de Filipos, la primera que fundó en Europa, que le había enviado ayuda económica por medio de Epafrodito. Pablo, preso, les agradece y les escribe con afecto. La palabra \"gozo\" y \"regocijaos\" aparece más de quince veces.\n\nEl tema se resume en 1:21: porque para mí el vivir es Cristo, y el morir es ganancia. Pablo comparte su situación: está preso, pero esto ha servido para el avance del evangelio. En el capítulo 2, exhorta a la humildad y la unidad con el himno a Cristo: el cual, siendo en forma de Dios, no estimó el ser igual a Dios como cosa a que aferrarse, sino que se despojó a sí mismo, tomando forma de siervo; y humillado hasta la muerte de cruz, Dios lo exaltó hasta lo sumo. Es uno de los textos más ricos sobre la deidad y la humildad de Cristo.\n\nEn el capítulo 3, Pablo cuenta cómo consideró pérdida todo lo que antes tenía por ganancia, por amor al conocimiento de Cristo, y cómo prosigue hacia la meta. Y en el capítulo 4, exhorta a regocijarse en el Señor siempre, a no estar afanosos, a orar con acción de gracias y a pensar en todo lo verdadero, honesto, justo, puro, amable y de buen nombre. Y declara el secreto del contentamiento, junto con la afirmación de que todo lo puede en Cristo que lo fortalece. Filipenses nos enseña que el gozo no depende de las circunstancias, sino de Cristo."
+    },
+    {
+     "heading": "Colosenses: la supremacía y suficiencia de Cristo",
+     "text": "Pablo escribió esta carta a una iglesia que no había visitado personalmente, fundada por Epafras. Se enteró de que se estaba infiltrando una enseñanza falsa que combinaba elementos del judaísmo, la filosofía y el misticismo, con culto a los ángeles, reglas ascéticas y la idea de que Cristo no era suficiente.\n\nPablo responde exaltando a Cristo. El capítulo 1 contiene un himno magnífico, en los versículos 15 al 20: él es la imagen del Dios invisible, el primogénito de toda creación. Porque en él fueron creadas todas las cosas, las que hay en los cielos y las que hay en la tierra. Todo fue creado por medio de él y para él. Y él es antes de todas las cosas, y todas las cosas en él subsisten. Él es la cabeza del cuerpo, que es la iglesia. En el capítulo 2, afirma que en Cristo habita corporalmente toda la plenitud de la deidad, y que en él estamos completos. Advierte contra las filosofías y tradiciones humanas, y contra las reglas sobre comida, fiestas o ángeles, que son sombra de lo que ha de venir, y el cuerpo es de Cristo.\n\nLos capítulos 3 y 4 aplican: si habéis resucitado con Cristo, buscad las cosas de arriba; haced morir lo terrenal; vestíos de compasión, bondad, humildad, mansedumbre; y que la paz de Cristo gobierne vuestros corazones. Habla de relaciones familiares y laborales, y termina con saludos. Colosenses enseña que no necesitamos añadir nada a Cristo: Él es suficiente."
+    },
+    {
+     "heading": "Primera de Tesalonicenses: esperanza y vida santa",
+     "text": "Tesalónica era una ciudad importante de Macedonia. Pablo la visitó en su segundo viaje, hacia el 50 d. C., y tuvo que salir por la persecución. Preocupado por los jóvenes creyentes, envió a Timoteo y, con buenas noticias, les escribió esta carta desde Corinto, una de las más antiguas de todo el Nuevo Testamento.\n\nLa carta es cálida y animadora. Pablo agradece por su fe, amor y esperanza, y recuerda cómo recibieron el evangelio y se convirtieron de los ídolos a servir al Dios vivo y verdadero, y a esperar de los cielos a su Hijo. Explica su propio ministerio con ternura de madre y de padre. Y aborda dos temas. Primero, la vida santa: la voluntad de Dios es vuestra santificación. Segundo, la esperanza del regreso de Cristo. En 4:13 al 18, consuela a los que han perdido seres queridos: los muertos en Cristo resucitarán primero, y los vivos serán arrebatados juntamente con ellos. Y en el capítulo 5, enseña que el día del Señor vendrá como ladrón en la noche, y exhorta a velar y ser sobrios. Termina con instrucciones breves: estad siempre gozosos. Orad sin cesar. Dad gracias en todo. No apaguéis al Espíritu.\n\nCada capítulo de la carta termina mencionando la venida de Cristo. La enseñanza no es un tema aparte, sino un motor para vivir bien."
+    },
+    {
+     "heading": "Segunda de Tesalonicenses: perseverar y aclarar el día del Señor",
+     "text": "Pablo escribió esta segunda carta poco después, hacia el 51 o 52 d. C., porque algunos en Tesalónica estaban confundidos o alterados: pensaban que el día del Señor ya había llegado, quizá por una carta falsa que se le atribuía. Algunos habían dejado de trabajar, esperando el fin.\n\nPablo anima a los que sufren persecución, asegurándoles que Dios hará justicia cuando el Señor Jesús se manifieste desde el cielo. En el capítulo 2, corrige el error: ese día no vendrá sin que antes venga la apostasía y se manifieste el hombre de pecado, a quien el Señor destruirá con el resplandor de su venida. Y en el capítulo 3, regaña a los que viven desordenadamente sin trabajar: si alguno no quiere trabajar, tampoco coma. Los exhorta a no cansarse de hacer bien.\n\nSegunda de Tesalonicenses nos enseña a esperar a Cristo con firmeza y trabajo, sin fanatismos, ni especulaciones."
+    },
+    {
+     "heading": "Lo que unen estas cinco cartas",
+     "text": "Todas tienen un centro común: Cristo. En Efesios, Cristo es la cabeza de la iglesia. En Filipenses, el modelo de humildad y el objeto del gozo. En Colosenses, el Señor supremo y suficiente. En Tesalonicenses, el que vuelve. También comparten el interés pastoral: Pablo anima, corrige, ora y exhorta a vivir de manera digna. Y enseñan que la doctrina y la vida van de la mano: primero lo que Dios hizo, luego lo que respondemos."
+    },
+    {
+     "heading": "Cómo leerlas",
+     "text": "Son cartas cortas, que se pueden leer en una sola sesión. Lee Filipenses en una tarde, notando cada vez que aparece el gozo. Lee Efesios en dos partes, la doctrinal y la práctica. En Colosenses, no pierdas de vista la comparación entre la persona de Cristo y las enseñanzas falsas. Y en Tesalonicenses, observa cómo la esperanza del regreso del Señor se mezcla con instrucciones prácticas."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Efesios: la unidad de la iglesia, la armadura de Dios, la vida familiar. Filipenses: el gozo, la humildad de Cristo, el contentamiento. Colosenses: la supremacía de Cristo, vivir como resucitados. Tesalonicenses: la esperanza, el trabajo y la santidad. Procura mostrar la conexión entre lo que Dios hizo y la manera de vivir."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué circunstancia está quitándome el gozo y cómo la ve Pablo desde la prisión? ¿Estoy intentando añadir algo a Cristo? ¿Cómo influye en mi día a día la esperanza del regreso del Señor?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, gracias por Cristo, cabeza de la iglesia, nuestra alegría, nuestra plenitud y nuestra esperanza. Haznos vivir de manera digna, con gozo en toda circunstancia, firmes en la fe y esperando su regreso. En el nombre de Jesús. Amén."
+    }
+   ],
+   "title": "Efesios, Filipenses, Colosenses y las cartas a los Tesalonicenses"
+  },
+  "bloque-13-pastorales-hebreos": {
+   "sections": [
+    {
+     "heading": "Para pastores, para un esclavo y para creyentes cansados",
+     "text": "Este bloque reúne cinco cartas muy distintas entre sí. Primera y Segunda de Timoteo y Tito se llaman cartas pastorales, porque Pablo las escribió a dos jóvenes colaboradores que pastoreaban iglesias, para instruirlos en el ministerio. Filemón es una carta personal, breve y delicada, sobre un esclavo fugitivo. Y Hebreos es un sermón escrito que muestra la superioridad de Cristo, dirigido a creyentes tentados a abandonar la fe.\n\nLas pastorales se escribieron hacia los años 62 a 67 después de Cristo, al final de la vida de Pablo. Filemón, hacia el 60 al 62. Hebreos, antes del año 70, quizá, por el hecho de que habla del templo como si aún estuviera en pie. Son libros que nos hablan del liderazgo, el perdón, la perseverancia y la supremacía de Cristo."
+    },
+    {
+     "heading": "Primera de Timoteo: cómo conducirse en la casa de Dios",
+     "text": "Timoteo era el discípulo más cercano de Pablo, joven, de carácter más bien tímido, que pastoreaba la iglesia de Éfeso. Pablo le escribe, hacia el 62 a 64 d. C., con instrucciones para ordenar la iglesia. Explica su propósito en 3:14 y 15: para que sepas cómo debes conducirte en la casa de Dios, que es la iglesia del Dios viviente, columna y baluarte de la verdad.\n\nLa carta trata de varios temas. Advierte contra los falsos maestros que desvían con mitos y genealogías y discusiones inútiles. Da pautas para el culto: orar por todos, por los reyes y por todos los que están en autoridad, porque Dios quiere que todos los hombres sean salvos. Establece requisitos de carácter para los obispos o pastores y los diáconos. Enseña sobre el cuidado de las viudas, los ancianos, los esclavos, y sobre el peligro del amor al dinero: porque raíz de todos los males es el amor al dinero. Y exhorta a Timoteo a ser ejemplo: ninguno tenga en poco tu juventud, sino sé ejemplo de los creyentes en palabra, conducta, amor, espíritu, fe y pureza.\n\nEs un manual de ministerio y de vida de iglesia: la sana doctrina, el carácter, la oración, la generosidad, el cuidado de los miembros."
+    },
+    {
+     "heading": "Segunda de Timoteo: permanecer fiel hasta el fin",
+     "text": "Es la última carta de Pablo, escrita hacia el 66 o 67 d. C., desde una cárcel romana, esperando la ejecución. Tiene un tono entrañable y solemne. Pablo anima a Timoteo, que quizá se sentía intimidado, a no avergonzarse del testimonio de Cristo, a avivar el fuego del don de Dios, y a soportar penalidades como buen soldado.\n\nContiene algunos textos fundamentales. En 2:15: procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que usa bien la palabra de verdad. En 3:16 y 17: toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia, a fin de que el hombre de Dios sea perfecto. Y el encargo de 4:2: que prediques la palabra; que instes a tiempo y fuera de tiempo; redarguye, reprende, exhorta con toda paciencia y doctrina.\n\nLas últimas palabras de Pablo son un testimonio conmovedor, en 4:7 y 8: he peleado la buena batalla, he acabado la carrera, he guardado la fe. Por lo demás, me está guardada la corona de justicia, la cual me dará el Señor, juez justo, en aquel día. Es una carta ideal para predicadores, que muestra cómo terminar bien."
+    },
+    {
+     "heading": "Tito: orden en las iglesias y buenas obras",
+     "text": "Tito era otro colaborador de Pablo, un gentil que fue dejado en la isla de Creta para organizar las iglesias, hacia el 63 al 65 d. C. Los cretenses tenían mala fama, y el libro habla de falsos maestros y de la necesidad de orden y de vida piadosa.\n\nPablo le instruye a nombrar ancianos de buen carácter en cada ciudad, a enseñar la sana doctrina y a promover una conducta adecuada en cada grupo: ancianos, ancianas, jóvenes, siervos. La carta destaca la relación entre gracia y buenas obras. El capítulo 2, versículos 11 al 14, es uno de los pasajes doctrinales más hermosos: porque la gracia de Dios se ha manifestado para salvación a todos los hombres, enseñándonos que, renunciando a la impiedad y a los deseos mundanos, vivamos en este siglo sobria, justa y piadosamente, aguardando la esperanza bienaventurada. Y el capítulo 3 recuerda que Dios nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino por su misericordia, y que quienes han creído procuren ocuparse en buenas obras.\n\nTito enseña que la doctrina verdadera produce una vida transformada, y que la iglesia debe ser un testimonio atractivo ante el mundo."
+    },
+    {
+     "heading": "Filemón: perdón y reconciliación",
+     "text": "Filemón es una carta personal de una sola página, escrita desde la prisión hacia el 60 a 62 d. C. Está dirigida a Filemón, un creyente rico de Colosas, dueño de un esclavo llamado Onésimo, que había huido, quizá después de robarle. Onésimo conoció a Pablo en la cárcel, se convirtió y se hizo muy útil para el apóstol.\n\nPablo lo envía de regreso a su amo con esta carta. No exige, sino que ruega. Pide a Filemón que reciba a Onésimo no ya como esclavo, sino como hermano amado, y se ofrece a pagar cualquier deuda: si en algo te dañó, o te debe algo, ponlo a mi cuenta. Hay un juego de palabras con el nombre Onésimo, que significa \"útil\". Pablo le dice: yo lo envío, a quien ha sido inútil, pero ahora es útil.\n\nLa carta es un hermoso ejemplo de reconciliación y de gracia. Pablo no ataca la esclavitud directamente, pero siembra un principio que la socava: en Cristo, el esclavo y el amo son hermanos. Y el gesto de Pablo, que se ofrece a pagar la deuda, es una imagen de Cristo, que pagó lo que debíamos. Es una carta útil para hablar del perdón."
+    },
+    {
+     "heading": "Hebreos: Cristo es superior",
+     "text": "Hebreos es una carta, o más bien un sermón escrito, de autor desconocido: algunos han propuesto a Pablo, Bernabé, Apolos u otros. Fue escrita antes del 70 d. C. a creyentes judíos que sufrían presión y estaban tentados a volver al judaísmo. Su mensaje: Cristo es mejor, así que perseveren.\n\nLa palabra clave es \"mejor\". Cristo es mejor que los profetas, porque es el Hijo, el resplandor de la gloria de Dios. Mejor que los ángeles. Mejor que Moisés. Mejor que Josué. Mejor que el sacerdocio de Aarón: es sumo sacerdote según el orden de Melquisedec, y vive para siempre. Ofrece un mejor pacto, con mejores promesas, un mejor santuario y un mejor sacrificio: no la sangre de animales, sino la suya, ofrecida una sola vez y para siempre.\n\nEl libro incluye varias advertencias solemnes: no descuidar una salvación tan grande, no endurecer el corazón, no volver atrás. Y exhortaciones: acerquémonos confiadamente al trono de la gracia, retengamos firme la profesión de nuestra fe, no dejando de congregarnos. El capítulo 11 es el gran capítulo de la fe: es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se ve. Repasa a Abel, Enoc, Noé, Abraham, Sara, Moisés, Rahab y muchos más, que vivieron por fe. Y el capítulo 12 anima: puesto que tenemos en derredor nuestro tan grande nube de testigos, despojémonos de todo peso y corramos con paciencia la carrera, puestos los ojos en Jesús, el autor y consumador de la fe.\n\nHebreos es la clave para entender el Antiguo Testamento a la luz de Cristo: el tabernáculo, los sacrificios y el sacerdocio eran sombras; Cristo es la realidad. Es un libro indispensable para quien quiere entender la cruz y animar al que está cansado."
+    },
+    {
+     "heading": "Lo que unen estas cinco cartas",
+     "text": "Las pastorales hablan de cómo liderar y servir en la iglesia, con carácter, doctrina y perseverancia. Filemón ilustra el perdón y la reconciliación. Hebreos fundamenta la perseverancia en la superioridad de Cristo. Todas tienen un tono pastoral cálido y nos recuerdan que el ministerio es cuidar de las personas. Y todas insisten en la sana doctrina vivida: la enseñanza correcta debe producir un carácter semejante a Cristo."
+    },
+    {
+     "heading": "Cómo leerlas",
+     "text": "Las pastorales se leen bien como un manual de ministerio, pero cuida el contexto: algunas instrucciones responden a situaciones de Éfeso y Creta. Filemón se lee en cinco minutos. Hebreos es más denso, así que conviene leerlo con una Biblia de estudio, preguntando cómo usa el Antiguo Testamento. En cada carta, pregunta qué dice sobre el carácter de quien sirve y sobre la perseverancia."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Primera de Timoteo: el carácter del ministro y la vida de la iglesia. Segunda de Timoteo: la fidelidad hasta el fin y la Escritura. Tito: gracia y buenas obras. Filemón: el perdón. Hebreos: la supremacía de Cristo, la fe y la perseverancia. Son especialmente útiles para líderes y para quienes se sienten desanimados."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Cómo cuido mi carácter, además de mis dones? ¿A quién necesito recibir de nuevo, como Filemón a Onésimo? ¿Qué me impide fijar mis ojos en Jesús?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, gracias por el ejemplo de tus siervos. Danos carácter íntegro, doctrina sana, corazón perdonador y perseverancia. Que fijemos los ojos en Jesús, autor y consumador de la fe, hasta terminar la carrera. En su nombre. Amén."
+    }
+   ],
+   "title": "Las cartas pastorales, Filemón y Hebreos"
+  },
+  "bloque-14-cartas-generales": {
+   "sections": [
+    {
+     "heading": "Siete cartas para todos los creyentes",
+     "text": "Después de las cartas de Pablo, el Nuevo Testamento incluye siete cartas escritas por otros apóstoles y hermanos de Jesús. Se llaman \"generales\" o \"católicas\", que significa universales, porque la mayoría no va dirigida a una sola iglesia, sino a creyentes en general. Son Santiago, Primera y Segunda de Pedro, Primera, Segunda y Tercera de Juan, y Judas.\n\nFueron escritas entre los años 45 y 95 después de Cristo, en una época de persecución y de amenaza de falsos maestros. Y comparten una preocupación pastoral: que los creyentes vivan una fe auténtica, perseveren en el sufrimiento y se mantengan en la verdad. En este bloque recorremos las siete."
+    },
+    {
+     "heading": "Santiago: una fe viva que se demuestra con obras",
+     "text": "Santiago, el hermano de Jesús, líder de la iglesia de Jerusalén, escribió esta carta hacia el 45 a 50 d. C., quizá la más antigua del Nuevo Testamento, a los judíos creyentes dispersos. Es una carta muy práctica, con un estilo directo semejante a los Proverbios y al Sermón del Monte.\n\nEl tema central es que la fe verdadera se demuestra con obras. Aborda la perseverancia en las pruebas, el peligro de las riquezas y de la parcialidad, el control de la lengua, la sabiduría de lo alto, la humildad, la oración y la paciencia. En 1:22: sed hacedores de la palabra, y no tan solamente oidores. En 2:17: así también la fe, si no tiene obras, es muerta en sí misma. En 3:6, sobre la lengua: la lengua es un fuego, un mundo de maldad. Y en el capítulo 5, la oración por los enfermos con la unción y la oración de fe.\n\nAlgunos piensan que Santiago contradice a Pablo, porque dice que el hombre es justificado por las obras y no solamente por la fe. Pero tratan de problemas distintos: Pablo combate a los que querían ganar la salvación con obras de la ley; Santiago combate a los que decían tener fe, pero sin cambios en su vida. Ambos enseñan que la fe verdadera produce frutos. Santiago nos enseña a examinar si nuestra fe es viva."
+    },
+    {
+     "heading": "Primera de Pedro: esperanza y santidad en medio del sufrimiento",
+     "text": "El apóstol Pedro escribió hacia el 62 a 64 d. C., probablemente desde Roma, a creyentes dispersos en Asia Menor que sufrían oposición y burla por su fe. Es una carta de ánimo. Los llama \"extranjeros y peregrinos\", pues su ciudadanía está en el cielo.\n\nComienza con una alabanza: bendito el Dios y Padre de nuestro Señor Jesucristo, que según su grande misericordia nos hizo renacer para una esperanza viva. Enseña que son un linaje escogido, real sacerdocio, nación santa, pueblo adquirido por Dios. Exhorta a vivir en santidad, a mantener un buen testimonio, a someterse a las autoridades y a vivir bien en el hogar y en el trabajo. Sobre el sufrimiento, enseña que Cristo es el ejemplo: padeció por nosotros, dejándonos ejemplo para que sigamos sus pisadas. Y que si sufrimos por hacer el bien, somos bienaventurados. En 3:15: santificad a Dios el Señor en vuestros corazones, y estad siempre preparados para presentar defensa con mansedumbre y reverencia ante todo el que os demande razón de la esperanza que hay en vosotros. Y termina animando a los ancianos a pastorear con humildad, y a resistir al diablo, firmes en la fe."
+    },
+    {
+     "heading": "Segunda de Pedro: crecer y resistir a los falsos maestros",
+     "text": "Es la última carta de Pedro, escrita hacia el 65 a 68 d. C., poco antes de su muerte. Tiene un tono de testamento. Su preocupación son los falsos maestros que se introducirán en la iglesia y la duda sobre el regreso de Cristo.\n\nEl capítulo 1 exhorta a crecer en la fe, la virtud, el conocimiento, el dominio propio, la paciencia, la piedad, el afecto fraternal y el amor. Recuerda que la profecía no es de interpretación privada, sino que los hombres hablaron movidos por el Espíritu Santo. El capítulo 2 describe a los falsos maestros, con ejemplos de juicio del pasado. Y el capítulo 3 responde a los burladores que preguntan: ¿dónde está la promesa de su advenimiento? Pedro enseña que el Señor no tarda, sino que es paciente, y que el día del Señor vendrá como ladrón. Habla de cielos nuevos y tierra nueva, y concluye: antes bien, creced en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo."
+    },
+    {
+     "heading": "Primera de Juan: andar en la luz, en amor y con seguridad",
+     "text": "El apóstol Juan escribió estas tres cartas hacia el 85 a 95 d. C., ya anciano, para iglesias amenazadas por falsos maestros que negaban que Jesús es el Cristo venido en carne, y que decían tener comunión con Dios sin vivir en obediencia ni amor.\n\nPrimera de Juan ofrece \"pruebas\" para saber si realmente estamos en la fe. Escribe con un estilo sencillo y profundo, que vuelve sobre tres temas: la luz, el amor y la vida. Dios es luz, y quien dice tener comunión con Él debe andar en la luz. Si confesamos nuestros pecados, él es fiel y justo para perdonar. Dios es amor, y quien no ama no conoce a Dios. Y la verdadera fe confiesa a Jesús, Hijo de Dios, hecho carne. Declara su propósito en 5:13: estas cosas os he escrito a vosotros que creéis en el nombre del Hijo de Dios, para que sepáis que tenéis vida eterna.\n\nDos frases se destacan. En 4:8: Dios es amor. Y en 4:19: nosotros le amamos a él, porque él nos amó primero. Es una carta ideal para dar seguridad y para examinar el corazón."
+    },
+    {
+     "heading": "Segunda y Tercera de Juan: la verdad y el amor",
+     "text": "Segunda de Juan es una breve carta a \"la señora elegida y a sus hijos\", expresión que designa a una iglesia local o a una familia. Exhorta a andar en la verdad y en el amor, y advierte contra los falsos maestros: no los recibáis en casa, ni les digáis: bienvenido. La verdad y el amor van juntos: amor sin verdad se vuelve tolerancia del error; verdad sin amor, dureza.\n\nTercera de Juan es una carta personal a Gayo, un creyente generoso que hospedaba a los misioneros itinerantes. Juan lo elogia: no tengo yo mayor gozo que oír que mis hijos andan en la verdad. Contrasta a Gayo con Diótrefes, que ama tener el primer lugar, rechaza a los enviados y calumnia al apóstol, y con Demetrio, que tiene buen testimonio. Enseña a apoyar a los obreros fieles y a evitar el orgullo en el liderazgo. Y es un recordatorio de la importancia de la hospitalidad y el apoyo misionero."
+    },
+    {
+     "heading": "Judas: contender por la fe",
+     "text": "Judas, hermano de Santiago y por tanto hermano de Jesús, escribió esta breve carta hacia el 65 a 80 d. C. Quería escribir sobre la salvación común, pero se vio obligado a exhortar a los lectores a que contiendan ardientemente por la fe que ha sido una vez dada a los santos. La razón: se habían infiltrado falsos maestros, que convertían la gracia en libertinaje.\n\nJudas los describe con ejemplos del Antiguo Testamento, como Caín, Balaam y Coré, y con imágenes vívidas: nubes sin agua, árboles sin fruto, estrellas errantes. Cita incluso el libro de Enoc. Pero termina con una exhortación positiva: edificándoos sobre vuestra santísima fe, orando en el Espíritu Santo, conservaos en el amor de Dios, esperando la misericordia de nuestro Señor Jesucristo para vida eterna. Y con una de las doxologías más hermosas: y a aquel que es poderoso para guardaros sin caída, y presentaros sin mancha delante de su gloria con grande alegría, al único y sabio Dios, nuestro Salvador, sea gloria y majestad."
+    },
+    {
+     "heading": "Lo que unen estas siete cartas",
+     "text": "Estas cartas tienen varios temas en común. La fe verdadera se demuestra en una vida transformada: Santiago, Juan. El sufrimiento es parte de la vida cristiana y se enfrenta con esperanza: Pedro. Los falsos maestros son una amenaza permanente, y la iglesia debe contender por la fe: Pedro, Juan, Judas. El amor y la verdad deben mantenerse juntos: Juan. Y la esperanza del regreso del Señor anima a perseverar.\n\nTambién tienen un aire pastoral y práctico. No son tratados teóricos, sino cartas que buscan que los creyentes vivan bien en tiempos difíciles. Aportan un equilibrio con las cartas de Pablo, que insisten en la fe que obra por el amor."
+    },
+    {
+     "heading": "Cómo leerlas",
+     "text": "Son cartas cortas: Santiago se lee en media hora, y Judas, en cinco minutos. Léelas de corrido. En Santiago, busca los mandatos prácticos. En Pedro, el tema del sufrimiento y la esperanza. En Juan, las \"pruebas\" de la fe y el amor. Compara cómo cada autor enfrenta los falsos maestros. Y pregunta qué ajustes pide cada una a tu vida."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Santiago: fe y obras, la lengua, la sabiduría, la oración por los enfermos. Pedro: la esperanza en el sufrimiento, la identidad del pueblo de Dios, la defensa de la fe. Juan: la comunión, el amor, la seguridad. Judas: contender por la fe. Estas cartas ofrecen mensajes prácticos y pastorales muy valiosos."
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Mi fe es viva y se ve en mis obras? ¿Estoy firme en la esperanza ante el sufrimiento? ¿Cuido a la vez la verdad y el amor? ¿Cómo contiendo por la fe sin perder la mansedumbre?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor, gracias por las cartas de tus apóstoles y hermanos. Haz que nuestra fe sea viva, que nuestra esperanza sea firme, que nuestro amor sea verdadero y que nuestra doctrina sea sana. Guárdanos sin caída y preséntanos sin mancha delante de tu gloria. En el nombre de Jesús. Amén."
+    }
+   ],
+   "title": "Las cartas generales: Santiago, Pedro, Juan y Judas"
+  },
+  "bloque-15-apocalipsis": {
+   "sections": [
+    {
+     "heading": "El final de la Biblia y el comienzo de la esperanza",
+     "text": "El último libro de la Biblia es también uno de los más fascinantes y más malentendidos. Su nombre, \"Apocalipsis\", viene del griego y significa \"revelación\", es decir, descubrir lo que estaba cubierto. No es un libro de misterios para esconder, sino una revelación de Jesucristo, como dice su primera línea. Su autor es el apóstol Juan, que lo escribió hacia el año 95 después de Cristo, desterrado en la isla de Patmos, por causa de la palabra de Dios y el testimonio de Jesucristo.\n\nFue escrito en tiempos de persecución, bajo el emperador Domiciano, cuando proclamar que Jesús es Señor podía costar la vida, porque el emperador exigía ser adorado como dios. Para esos creyentes, y para la iglesia de todos los tiempos, el libro es un mensaje de consuelo y de victoria: Cristo reina, el mal será vencido y Dios hará nuevas todas las cosas. Hemos hablado de varios de sus temas en el curso de escatología; aquí lo recorreremos como libro."
+    },
+    {
+     "heading": "Cómo leer Apocalipsis",
+     "text": "Lo primero es reconocer el género. Apocalipsis combina tres formas: es una carta, dirigida a siete iglesias reales de Asia; es una profecía, que habla de parte de Dios; y es literatura apocalíptica, que usa visiones, símbolos y números para revelar cómo Dios gobierna la historia. Un símbolo no debe leerse como una fotografía: las bestias, las trompetas y los sellos son imágenes que comunican una realidad.\n\nAlgunos principios ayudan. Pregunta qué significó para los lectores del siglo primero. Busca el trasfondo del Antiguo Testamento, de donde provienen casi todas las imágenes: Daniel, Ezequiel, Isaías, Zacarías. Respeta las explicaciones que el libro mismo da. No uses el libro como un código para descifrar las noticias de hoy. Ten humildad: creyentes fieles lo interpretan de maneras distintas. Y busca el mensaje central.\n\nEl libro comienza con una bendición, en 1:3: bienaventurado el que lee, y los que oyen las palabras de esta profecía, y guardan las cosas en ella escritas; porque el tiempo está cerca. Es un libro para leer, oír y obedecer."
+    },
+    {
+     "heading": "Las cuatro grandes partes",
+     "text": "Se puede dividir de varias maneras. Una muy útil es la que sigue la clave de 1:19: escribe las cosas que has visto, y las que son, y las que han de ser después de estas.\n\nEn el capítulo 1, Juan ve a Cristo glorificado, entre siete candeleros, con ojos como llama de fuego, voz como estruendo de muchas aguas y una espada de dos filos en su boca. Cuando Juan cae a sus pies como muerto, Cristo le dice: no temas; yo soy el primero y el último; y el que vivo, y estuve muerto; mas he aquí que vivo por los siglos de los siglos.\n\nEn los capítulos 2 y 3 están las cartas a las siete iglesias: Éfeso, Esmirna, Pérgamo, Tiatira, Sardis, Filadelfia y Laodicea. Cada una recibe elogio, corrección, una exhortación y una promesa para el que venza. A Éfeso se le reprocha haber dejado el primer amor; a Esmirna, que sufre, se le anima a ser fiel hasta la muerte; a Pérgamo y Tiatira se les advierte de las falsas enseñanzas; a Sardis, de estar dormida; a Filadelfia, fiel con poca fuerza, se le promete guardarla; y a Laodicea, tibia y autosuficiente, se la llama a comprar oro refinado, y se le dice: he aquí, yo estoy a la puerta y llamo; si alguno oye mi voz y abre la puerta, entraré a él, y cenaré con él, y él conmigo.\n\nLos capítulos 4 y 5 muestran el trono de Dios en el cielo, la adoración de los seres vivientes y de los veinticuatro ancianos, y el Cordero que ha vencido y que es digno de abrir el libro sellado. Es el centro del libro: todo se decide en torno al trono y al Cordero.\n\nDe los capítulos 6 al 19 se desarrollan los juicios y los conflictos: los siete sellos, las siete trompetas y las siete copas, entremezclados con visiones de la iglesia sellada, de testigos, de una mujer y un dragón, de las bestias, de Babilonia la grande. Son capítulos muy discutidos: unos los ven como acontecimientos futuros, otros como una descripción de toda la era, otros aplicados al imperio romano. Lo constante es que Dios gobierna, los santos son protegidos y el mal es juzgado. El capítulo 19 presenta la venida de Cristo como Rey de reyes y Señor de señores.\n\nEl capítulo 20 habla de la atadura de Satanás, los mil años, el juicio final ante el gran trono blanco. Y los capítulos 21 y 22 cierran la Biblia con la nueva creación: cielo nuevo y tierra nueva, la nueva Jerusalén, el río de agua de vida y el árbol de la vida."
+    },
+    {
+     "heading": "Los grandes temas",
+     "text": "El primer tema es Cristo. El libro es la revelación de Jesucristo: el Cordero que fue inmolado, el León de la tribu de Judá, el Rey de reyes, el Alfa y la Omega. Todo gira en torno a Él.\n\nEl segundo es la soberanía de Dios. A pesar de las apariencias, Dios está en el trono. Ningún imperio, ningún dragón, ninguna bestia está fuera de su control. Es un mensaje que consuela a una iglesia perseguida.\n\nEl tercero es la victoria por medio del sufrimiento. Los santos vencen \"por medio de la sangre del Cordero y de la palabra del testimonio de ellos, y menospreciaron sus vidas hasta la muerte\". El Cordero venció muriendo, y su pueblo vence siendo fiel. La imagen del cordero es la clave del libro.\n\nEl cuarto es el llamado a la perseverancia y la fidelidad. A cada una de las siete iglesias se le promete algo \"al que venciere\". El libro nos pide no ceder ante la presión del mundo ni adorar a la bestia. Y a la vez, a arrepentirnos y volver al primer amor.\n\nEl quinto es la justicia de Dios. El juicio sobre el mal y sobre Babilonia, que representa el sistema mundano, opuesto a Dios, responde al clamor de los mártires. Dios hará justicia.\n\nY el sexto es la esperanza final: la nueva creación, donde Dios habita con su pueblo, sin lágrimas, sin muerte, sin maldición. El libro termina con una invitación y una oración: el Espíritu y la esposa dicen: Ven. Y el que oye, diga: Ven. Y el que tiene sed, venga; y el que quiera, tome del agua de la vida gratuitamente. Y la respuesta de la iglesia: amén; sí, ven, Señor Jesús."
+    },
+    {
+     "heading": "Distintas formas de entenderlo",
+     "text": "Los cristianos han interpretado el libro de cuatro maneras principales, y puedes encontrarlas en los comentarios. Los preteristas lo ven principalmente cumplido en el siglo primero, en la persecución romana y la caída de Jerusalén. Los historicistas lo ven como un mapa de la historia de la iglesia hasta el fin. Los idealistas lo ven como un mensaje simbólico sobre la lucha entre el bien y el mal, aplicable a todo tiempo. Y los futuristas lo ven, a partir del capítulo 4 o del 6, como referido a acontecimientos del fin de los tiempos.\n\nLas Asambleas de Dios se inclinan por una lectura futurista de gran parte del libro, sin desechar su mensaje para los lectores del primer siglo ni su aplicación permanente. Muchos estudiosos combinan los enfoques. Lo importante es no hacer de una interpretación una prueba de fe, y mantenerse en el mensaje que todas comparten."
+    },
+    {
+     "heading": "Cristo en el Apocalipsis",
+     "text": "El Cordero domina el libro: aparece unas veintiocho veces. Es el que fue inmolado y vive, el digno de recibir el poder, las riquezas, la sabiduría y la fortaleza. El libro nos da la mejor visión de la gloria de Cristo. Pablo habla de su supremacía, y Juan la ve. También muestra su cercanía: camina entre los candeleros, es decir, en medio de sus iglesias. Y su promesa final: ciertamente vengo en breve."
+    },
+    {
+     "heading": "Para quien predica",
+     "text": "Apocalipsis ofrece mucho material pastoral: las cartas a las siete iglesias, que sirven de espejo para cualquier congregación; la visión de Cristo, que consuela al temeroso; el cántico del Cordero; el llamado a perseverar; el cielo nuevo. Evita los extremos: ni ignorar el libro por miedo, ni convertirlo en un tablero de ajedrez de predicciones. Que la predicación produzca adoración, santidad y esperanza."
+    },
+    {
+     "heading": "Cómo leerlo con provecho",
+     "text": "Una forma sencilla es leerlo de una sola vez, en voz alta, sin detenerse a descifrar cada símbolo, para captar el ritmo y la grandeza. Una segunda lectura, con una Biblia de estudio, permite ir comprendiendo las partes. Anota cada vez que se menciona el trono y el Cordero. Y ante cada escena, pregunta: ¿qué me dice sobre Dios, sobre el mal y sobre la perseverancia?"
+    },
+    {
+     "heading": "Para reflexionar",
+     "text": "¿Qué carta de las siete iglesias me describe más hoy: el primer amor, la fidelidad, la tibieza? ¿Qué cambia en mi vida saber que Dios está en el trono? ¿Estoy respondiendo con mi vida al llamado: ven, Señor Jesús?"
+    },
+    {
+     "heading": "Oración final",
+     "text": "Señor Jesús, Cordero que fue inmolado y Rey de reyes, digno eres de recibir la gloria y el poder. Danos ojos para verte en tu gloria, firmeza para perseverar y amor por tu venida. Haznos vencedores por tu sangre. Sí, ven, Señor Jesús. Amén."
+    }
+   ],
+   "title": "Apocalipsis"
+  }
+ },
+ "aliases": {
+  "libro-1": "bloque-01-pentateuco",
+  "libro-2": "bloque-01-pentateuco",
+  "libro-3": "bloque-01-pentateuco",
+  "libro-4": "bloque-01-pentateuco",
+  "libro-5": "bloque-01-pentateuco",
+  "libro-6": "bloque-02-josue-jueces-rut",
+  "libro-7": "bloque-02-josue-jueces-rut",
+  "libro-8": "bloque-02-josue-jueces-rut",
+  "libro-9": "bloque-03-samuel-reyes",
+  "libro-10": "bloque-03-samuel-reyes",
+  "libro-11": "bloque-03-samuel-reyes",
+  "libro-12": "bloque-03-samuel-reyes",
+  "libro-13": "bloque-04-cronicas-ester",
+  "libro-14": "bloque-04-cronicas-ester",
+  "libro-15": "bloque-04-cronicas-ester",
+  "libro-16": "bloque-04-cronicas-ester",
+  "libro-17": "bloque-04-cronicas-ester",
+  "libro-18": "bloque-05-poeticos",
+  "libro-19": "bloque-05-poeticos",
+  "libro-20": "bloque-05-poeticos",
+  "libro-21": "bloque-05-poeticos",
+  "libro-22": "bloque-05-poeticos",
+  "libro-23": "bloque-06-profetas-mayores",
+  "libro-24": "bloque-06-profetas-mayores",
+  "libro-25": "bloque-06-profetas-mayores",
+  "libro-26": "bloque-06-profetas-mayores",
+  "libro-27": "bloque-06-profetas-mayores",
+  "libro-28": "bloque-07-profetas-menores-1",
+  "libro-29": "bloque-07-profetas-menores-1",
+  "libro-30": "bloque-07-profetas-menores-1",
+  "libro-31": "bloque-07-profetas-menores-1",
+  "libro-32": "bloque-07-profetas-menores-1",
+  "libro-33": "bloque-07-profetas-menores-1",
+  "libro-34": "bloque-08-profetas-menores-2",
+  "libro-35": "bloque-08-profetas-menores-2",
+  "libro-36": "bloque-08-profetas-menores-2",
+  "libro-37": "bloque-08-profetas-menores-2",
+  "libro-38": "bloque-08-profetas-menores-2",
+  "libro-39": "bloque-08-profetas-menores-2",
+  "libro-40": "bloque-09-sinopticos",
+  "libro-41": "bloque-09-sinopticos",
+  "libro-42": "bloque-09-sinopticos",
+  "libro-43": "bloque-10-juan-hechos",
+  "libro-44": "bloque-10-juan-hechos",
+  "libro-45": "bloque-11-romanos-galatas",
+  "libro-46": "bloque-11-romanos-galatas",
+  "libro-47": "bloque-11-romanos-galatas",
+  "libro-48": "bloque-11-romanos-galatas",
+  "libro-49": "bloque-12-prision-tesalonicenses",
+  "libro-50": "bloque-12-prision-tesalonicenses",
+  "libro-51": "bloque-12-prision-tesalonicenses",
+  "libro-52": "bloque-12-prision-tesalonicenses",
+  "libro-53": "bloque-12-prision-tesalonicenses",
+  "libro-54": "bloque-13-pastorales-hebreos",
+  "libro-55": "bloque-13-pastorales-hebreos",
+  "libro-56": "bloque-13-pastorales-hebreos",
+  "libro-57": "bloque-13-pastorales-hebreos",
+  "libro-58": "bloque-13-pastorales-hebreos",
+  "libro-59": "bloque-14-cartas-generales",
+  "libro-60": "bloque-14-cartas-generales",
+  "libro-61": "bloque-14-cartas-generales",
+  "libro-62": "bloque-14-cartas-generales",
+  "libro-63": "bloque-14-cartas-generales",
+  "libro-64": "bloque-14-cartas-generales",
+  "libro-65": "bloque-14-cartas-generales",
+  "libro-66": "bloque-15-apocalipsis"
+ }
+}
