@@ -41,6 +41,32 @@
       "sha256": "4a150b3691c94c6624e4dad4b994f790aba4c617db553cfcaadad5759083d7b4"
     },
     {
+      "id": "evbm",
+      "name": "Edición EvanBible – Rey Jacobo en español (versión mejorada)",
+      "abbreviation": "EVBM",
+      "language": "es",
+      "version": "1.0.0",
+      "license": "CC BY 4.0",
+      "description": "Edición EvanBible – Rey Jacobo en español (EVBM), evanbible.com. Autores: Jonathan Josué Chourio González y Nixon Ricardo Chourio Andrade. Licencia CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.es). Texto sin modificar.",
+      "file": "evbm-1.0.0.zip",
+      "url": "https://github.com/ikalmediasv-ctrl/alfayomega-biblias/releases/download/evbm-1.0.0/evbm-1.0.0.zip",
+      "size_bytes": 1681918,
+      "sha256": "9dfaeeb514c957e77b3dea25c8e70cf837912d19a6fb7c5875b1ac44861e1d64"
+    },
+    {
+      "id": "evbo",
+      "name": "Edición EvanBible – Español de los Originales",
+      "abbreviation": "EVBO",
+      "language": "es",
+      "version": "1.0.0",
+      "license": "CC BY 4.0",
+      "description": "Edición EvanBible – Español de los Originales (EVBO), evanbible.com. Autores: Jonathan Josué Chourio González y Nixon Ricardo Chourio Andrade. Licencia CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.es). Texto sin modificar.",
+      "file": "evbo-1.0.0.zip",
+      "url": "https://github.com/ikalmediasv-ctrl/alfayomega-biblias/releases/download/evbo-1.0.0/evbo-1.0.0.zip",
+      "size_bytes": 1540561,
+      "sha256": "ace4c66f92c3dd38fbbc24debe82bf856b6fa6b2ac4f64ea51c6e130c3fff693"
+    },
+    {
       "id": "onbv",
       "name": "Nueva Biblia Viva (Open)",
       "abbreviation": "NBV",
@@ -106,5 +132,5 @@
       "sha256": "98ad6a220bc8fbac88e6873ae03c5fec64abd94ee06dddd5fdad7dcfa84cd1f6"
     }
   ],
-  "updated": "2026-11-09"
+  "updated": "2026-11-10"
 }

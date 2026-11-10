@@ -44,6 +44,17 @@ publicidad**. Conviene escribir a los titulares para pedir permiso expreso.
 | `spantbt` | NTBT (BibleTodo) | Protegida; no redistribuible |
 | RVR 1960 y otras de sociedades bíblicas | — | Comercial: requiere autorización escrita |
 
+## Ediciones EvanBible (evanbible.com), CC BY 4.0
+
+Fuente: https://www.evanbible.com/biblias.php y su archivo de licencia de cada edición (consultados el 2026-11-10). CC BY 4.0 permite copiar, integrar y adaptar, incluso con fines comerciales.
+
+| Id módulo | Biblia | Autores | Condiciones |
+|---|---|---|---|
+| `evbo` | Edición EvanBible – Español de los Originales (EVBO), primera edición 2026.11.02 | Jonathan Josué Chourio González y Nixon Ricardo Chourio Andrade | Atribución visible («Edición EvanBible – Español de los Originales (EVBO), evanbible.com»); indicar cambios (el texto se usa sin modificar); no sugerir aval; los nombres EvanBible, EVB, EVBM, EVBC, EVBO, EVBO-EN y EVBP están reservados |
+| `evbm` | Edición EvanBible – Rey Jacobo en español, versión mejorada (EVBM) | Autores de EvanBible (basada en la King James, dominio público) | Las mismas |
+
+Notas: son traducciones recientes de autores independientes, sin revisión de una editorial; conviene que un pastor revise una muestra antes de recomendarlas. Este registro es de trabajo, no asesoría jurídica.
+
 ## Notas
 
 - Una obra antigua no vuelve de dominio público a su edición digital por sí
